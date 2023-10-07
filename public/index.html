@@ -83,7 +83,7 @@
 
     async function loadExerciseData() {
       try {
-        const response = await fetch('/public/leg-stretches.json');
+        const response = await fetch('/leg-stretches.json');
         exerciseSequence = await response.json();
         document.getElementById('sequenceName').textContent = exerciseSequence.name;
       } catch (err) {
