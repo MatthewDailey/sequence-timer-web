@@ -4,22 +4,104 @@
         {
             "name": "Left calf",
             "duration": 30,
-            "audio_url": "http://localhost:8000/left-calf-30.mp3"
+            "audio_url": "/audio/left-calf-30.mp3"
         },
         {
             "name": "Right calf",
             "duration": 30,
-            "audio_url": "http://localhost:8000/right-calf-30.mp3"
+            "audio_url": "/audio/right-calf-30.mp3"
         },
         {
             "name": "Left calf",
             "duration": 30,
-            "audio_url": "http://localhost:8000/left-calf-30.mp3"
+            "audio_url": "/audio/left-calf-30.mp3"
         },
         {
             "name": "Right calf",
             "duration": 30,
-            "audio_url": "http://localhost:8000/right-calf-30.mp3"
-        }
+            "audio_url": "/audio/right-calf-30.mp3"
+        },
+        {
+            "name": "Left hamstring",
+            "duration": 30,
+            "audio_url": "/audio/left-hamstring-30.mp3"
+        },
+        {
+            "name": "Right hamstring",
+            "duration": 30,
+            "audio_url": "/audio/right-hamstring-30.mp3"
+        },
+        {
+            "name": "Left hamstring",
+            "duration": 30,
+            "audio_url": "/audio/left-hamstring-30.mp3"
+        },
+        {
+            "name": "Right hamstring",
+            "duration": 30,
+            "audio_url": "/audio/right-hamstring-30.mp3"
+        },
+        {
+            "name": "Left hip flexor",
+            "duration": 30,
+            "audio_url": "/audio/left-hip-flexor-30.mp3"
+        },
+        {
+            "name": "Right hip flexor",
+            "duration": 30,
+            "audio_url": "/audio/right-hip-flexor-30.mp3"
+        },
+        {
+            "name": "Left hip flexor",
+            "duration": 30,
+            "audio_url": "/audio/left-hip-flexor-30.mp3"
+        },
+        {
+            "name": "Right hip flexor",
+            "duration": 30,
+            "audio_url": "/audio/right-hip-flexor-30.mp3"
+        },
+        {
+            "name": "Left quad",
+            "duration": 30,
+            "audio_url": "/audio/left-quad-30.mp3"
+        },
+        {
+            "name": "Right quad",
+            "duration": 30,
+            "audio_url": "/audio/right-quad-30.mp3"
+        },
+        {
+            "name": "Left quad",
+            "duration": 30,
+            "audio_url": "/audio/left-quad-30.mp3"
+        },
+        {
+            "name": "Right quad",
+            "duration": 30,
+            "audio_url": "/audio/right-quad-30.mp3"
+        },
+        {
+            "name": "Left glute",
+            "duration": 30,
+            "audio_url": "/audio/left-glute-30.mp3"
+        },
+        {
+            "name": "Right glute",
+            "duration": 30,
+            "audio_url": "/audio/right-glute-30.mp3"
+        },
+        {
+            "name": "Left glute",
+            "duration": 30,
+            "audio_url": "/audio/left-glute-30.mp3"
+        },
+        {
+            "name": "Right glute",
+            "duration": 30,
+            "audio_url": "/audio/right-glute-30.mp3"
+        },
+        { "name": "Groin", "duration": 30, "audio_url": "/audio/groin-30.mp3" },
+        { "name": "Groin", "duration": 30, "audio_url": "/audio/groin-30.mp3" }
     ]
 }

@@ -28,6 +28,8 @@
     #subtitle {
       font-size: 1.5em;
       margin-top: 20px;
+      display: none;
+      /* Hidden initially */
     }
 
     #startButton {
@@ -43,46 +45,37 @@
   </style>
 </head>
 
-<body>
-  <div id="sequenceName">Leg Stretches Sequence</div>
+<body onload="loadExerciseData()">
+  <div id="sequenceName">Loading...</div>
   <div id="timer" style="display: none;">30</div>
   <div id="subtitle">Leg Stretches</div>
   <button id="startButton" onclick="initiateSequence()">Start Exercise</button>
 
   <script>
-    const exerciseSequence = {
-      "name": "Leg Stretches",
-      "sequence": [
-        { "name": "Left calf", "duration": 30, "audio_url": "/audio/left-calf-30.mp3" },
-        { "name": "Right calf", "duration": 30, "audio_url": "/audio/right-calf-30.mp3" },
-        { "name": "Left calf", "duration": 30, "audio_url": "/audio/left-calf-30.mp3" },
-        { "name": "Right calf", "duration": 30, "audio_url": "/audio/right-calf-30.mp3" },
-        { "name": "Left hamstring", "duration": 30, "audio_url": "/audio/left-hamstring-30.mp3" },
-        { "name": "Right hamstring", "duration": 30, "audio_url": "/audio/right-hamstring-30.mp3" },
-        { "name": "Left hamstring", "duration": 30, "audio_url": "/audio/left-hamstring-30.mp3" },
-        { "name": "Right hamstring", "duration": 30, "audio_url": "/audio/right-hamstring-30.mp3" },
-        { "name": "Left hip flexor", "duration": 30, "audio_url": "/audio/left-hip-flexor-30.mp3" },
-        { "name": "Right hip flexor", "duration": 30, "audio_url": "/audio/right-hip-flexor-30.mp3" },
-        { "name": "Left hip flexor", "duration": 30, "audio_url": "/audio/left-hip-flexor-30.mp3" },
-        { "name": "Right hip flexor", "duration": 30, "audio_url": "/audio/right-hip-flexor-30.mp3" },
-        { "name": "Left quad", "duration": 30, "audio_url": "/audio/left-quad-30.mp3" },
-        { "name": "Right quad", "duration": 30, "audio_url": "/audio/right-quad-30.mp3" },
-        { "name": "Left quad", "duration": 30, "audio_url": "/audio/left-quad-30.mp3" },
-        { "name": "Right quad", "duration": 30, "audio_url": "/audio/right-quad-30.mp3" },
-        { "name": "Left glute", "duration": 30, "audio_url": "/audio/left-glute-30.mp3" },
-        { "name": "Right glute", "duration": 30, "audio_url": "/audio/right-glute-30.mp3" },
-        { "name": "Left glute", "duration": 30, "audio_url": "/audio/left-glute-30.mp3" },
-        { "name": "Right glute", "duration": 30, "audio_url": "/audio/right-glute-30.mp3" },
-        { "name": "Groin", "duration": 30, "audio_url": "/audio/groin-30.mp3" },
-        { "name": "Groin", "duration": 30, "audio_url": "/audio/groin-30.mp3" }
-      ]
-    };
-
+    let exerciseSequence;
     let currentIndex = 0;
+
+    async function loadExerciseData() {
+      try {
+        const response = await fetch('/public/leg-stretches.json');
+        exerciseSequence = await response.json();
+        document.getElementById('sequenceName').textContent = exerciseSequence.name; // Setting the name dynamically
+      } catch (err) {
+        console.error("Error fetching the exercise sequence:", err);
+      }
+    }
+
+    function initiateSequence() {
+      if (exerciseSequence) {
+        startExercise(exerciseSequence.sequence[0]);
+        document.getElementById('startButton').style.display = 'none';  // Hide the button after clicking
+      }
+    }
 
     function startExercise(exercise) {
       document.getElementById('sequenceName').style.display = 'none'; // Hide the sequence name
       document.getElementById('timer').style.display = 'block';       // Show the timer
+      document.getElementById('subtitle').style.display = 'block';    // Show the subtitle
       document.getElementById('subtitle').textContent = exercise.name;
       document.getElementById('timer').textContent = exercise.duration;
       let audio = new Audio(exercise.audio_url);
@@ -101,11 +94,6 @@
           }
         }
       }, 1000);
-    }
-
-    function initiateSequence() {
-      startExercise(exerciseSequence.sequence[0]);
-      document.getElementById('startButton').style.display = 'none';  // Hide the button after clicking
     }
   </script>
 </body>
