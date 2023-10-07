@@ -3,12 +3,12 @@
     "sequence": [
         {
             "name": "Left calf",
-            "duration": 30,
+            "duration": 5,
             "audio_url": "/audio/left-calf-30.mp3"
         },
         {
             "name": "Right calf",
-            "duration": 30,
+            "duration": 5,
             "audio_url": "/audio/right-calf-30.mp3"
         },
         {

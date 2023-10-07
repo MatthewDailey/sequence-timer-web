@@ -17,19 +17,39 @@
       justify-content: center;
       align-items: center;
       flex-direction: column;
+      position: relative;
+      overflow: hidden;
     }
 
     #timer,
-    #sequenceName {
+    #sequenceName,
+    #currentExercise {
       font-size: 5em;
       font-weight: bold;
     }
 
-    #subtitle {
+    #previousExercise,
+    #nextExercise {
       font-size: 1.5em;
-      margin-top: 20px;
-      display: none;
-      /* Hidden initially */
+      opacity: 0.4;
+      transition: transform 1s, opacity 1s;
+      position: absolute;
+      width: 100%;
+      text-align: center;
+      padding-top: 50px;
+      /* Added for spacing from top */
+      padding-bottom: 50px;
+      /* Added for spacing from bottom */
+      cursor: pointer;
+      /* Indicate clickable */
+    }
+
+    #previousExercise {
+      top: 0;
+    }
+
+    #nextExercise {
+      bottom: 0;
     }
 
     #startButton {
@@ -46,20 +66,23 @@
 </head>
 
 <body onload="loadExerciseData()">
+  <div id="previousExercise" onclick="adjustExercise(-1)"></div>
   <div id="sequenceName">Loading...</div>
-  <div id="timer" style="display: none;">30</div>
-  <div id="subtitle">Leg Stretches</div>
-  <button id="startButton" onclick="initiateSequence()">Start Exercise</button>
+  <div id="currentExercise" style="display: none;"></div>
+  <div id="timer"></div>
+  <button id="startButton" onclick="initiateSequence()">Start</button>
+  <div id="nextExercise" onclick="adjustExercise(1)"></div>
 
   <script>
     let exerciseSequence;
     let currentIndex = 0;
+    let activeInterval;
 
     async function loadExerciseData() {
       try {
         const response = await fetch('/public/leg-stretches.json');
         exerciseSequence = await response.json();
-        document.getElementById('sequenceName').textContent = exerciseSequence.name; // Setting the name dynamically
+        document.getElementById('sequenceName').textContent = exerciseSequence.name;
       } catch (err) {
         console.error("Error fetching the exercise sequence:", err);
       }
@@ -67,30 +90,58 @@
 
     function initiateSequence() {
       if (exerciseSequence) {
-        startExercise(exerciseSequence.sequence[0]);
-        document.getElementById('startButton').style.display = 'none';  // Hide the button after clicking
+        document.getElementById('startButton').style.display = 'none';
+        document.getElementById('sequenceName').style.display = 'none';
+        document.getElementById('currentExercise').style.display = 'block';
+        startExercise(currentIndex);
       }
     }
 
-    function startExercise(exercise) {
-      document.getElementById('sequenceName').style.display = 'none'; // Hide the sequence name
-      document.getElementById('timer').style.display = 'block';       // Show the timer
-      document.getElementById('subtitle').style.display = 'block';    // Show the subtitle
-      document.getElementById('subtitle').textContent = exercise.name;
-      document.getElementById('timer').textContent = exercise.duration;
-      let audio = new Audio(exercise.audio_url);
+    function adjustExercise(direction) {
+      currentIndex += direction;
+      if (currentIndex >= 0 && currentIndex < exerciseSequence.sequence.length) {
+        startExercise(currentIndex);
+      }
+    }
+
+    function startExercise(index) {
+      // Clear any existing interval
+      if (activeInterval) {
+        clearInterval(activeInterval);
+      }
+
+      const currentExercise = exerciseSequence.sequence[index];
+      const prevExercise = exerciseSequence.sequence[index - 1] || {};
+      const nextExercise = exerciseSequence.sequence[index + 1] || {};
+
+      document.getElementById('previousExercise').textContent = prevExercise.name || '';
+      document.getElementById('currentExercise').textContent = currentExercise.name;
+      document.getElementById('timer').textContent = currentExercise.duration;
+      document.getElementById('nextExercise').textContent = nextExercise.name || '';
+
+      let audio = new Audio(currentExercise.audio_url);
       audio.play();
 
-      let remainingSeconds = exercise.duration;
-      const countdownInterval = setInterval(() => {
+      let remainingSeconds = currentExercise.duration;
+      activeInterval = setInterval(() => {
         document.getElementById('timer').textContent = remainingSeconds;
         remainingSeconds--;
 
         if (remainingSeconds < 0) {
-          clearInterval(countdownInterval);
+          clearInterval(activeInterval);
           currentIndex++;
+
           if (currentIndex < exerciseSequence.sequence.length) {
-            startExercise(exerciseSequence.sequence[currentIndex]);
+            document.getElementById('previousExercise').style.transform = 'translateY(-100%)';
+            document.getElementById('currentExercise').style.transform = 'translateY(-100%)';
+            document.getElementById('nextExercise').style.transform = 'translateY(-100%)';
+
+            setTimeout(() => {
+              document.getElementById('previousExercise').style.transform = '';
+              document.getElementById('currentExercise').style.transform = '';
+              document.getElementById('nextExercise').style.transform = '';
+              startExercise(currentIndex);
+            }, 1000);
           }
         }
       }, 1000);
