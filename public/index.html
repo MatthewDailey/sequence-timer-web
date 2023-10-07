@@ -22,8 +22,7 @@
     }
 
     #timer,
-    #sequenceName,
-    #currentExercise {
+    #sequenceName {
       font-size: 5em;
       font-weight: bold;
     }
@@ -32,16 +31,20 @@
     #nextExercise {
       font-size: 1.5em;
       opacity: 0.4;
-      transition: transform 1s, opacity 1s;
       position: absolute;
       width: 100%;
       text-align: center;
       padding-top: 50px;
-      /* Added for spacing from top */
       padding-bottom: 50px;
-      /* Added for spacing from bottom */
       cursor: pointer;
-      /* Indicate clickable */
+    }
+
+    #currentExercise {
+      font-size: 1.5em;
+      opacity: 1;
+      margin-bottom: 20px;
+      /* Add spacing between the exercise name and the timer */
+      text-align: center;
     }
 
     #previousExercise {
@@ -130,18 +133,8 @@
         if (remainingSeconds < 0) {
           clearInterval(activeInterval);
           currentIndex++;
-
           if (currentIndex < exerciseSequence.sequence.length) {
-            document.getElementById('previousExercise').style.transform = 'translateY(-100%)';
-            document.getElementById('currentExercise').style.transform = 'translateY(-100%)';
-            document.getElementById('nextExercise').style.transform = 'translateY(-100%)';
-
-            setTimeout(() => {
-              document.getElementById('previousExercise').style.transform = '';
-              document.getElementById('currentExercise').style.transform = '';
-              document.getElementById('nextExercise').style.transform = '';
-              startExercise(currentIndex);
-            }, 1000);
+            startExercise(currentIndex);
           }
         }
       }, 1000);
