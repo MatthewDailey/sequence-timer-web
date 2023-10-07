@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Leg Stretches Sequence</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background-color: #047A5E;
+      font-family: 'Inter', sans-serif;
+      color: white;
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+
+    #timer {
+      font-size: 5em;
+      font-weight: bold;
+    }
+
+    #subtitle {
+      font-size: 1.5em;
+      margin-top: 20px;
+    }
+
+    #startButton {
+      margin-top: 20px;
+      padding: 10px 20px;
+      font-size: 1.2em;
+      background-color: #fff;
+      color: #047A5E;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="timer">30</div>
+  <div id="subtitle">Leg Stretches</div>
+  <button id="startButton" onclick="initiateSequence()">Start Exercise</button>
+
+  <script>
+    const exerciseSequence = {
+      "name": "Leg Stretches",
+      "sequence": [
+        {
+          "name": "Left calf",
+          "duration": 30,
+          "audio_url": "http://localhost:8000/audio/left-calf-30.mp3"
+        },
+        {
+          "name": "Right calf",
+          "duration": 30,
+          "audio_url": "http://localhost:8000/audio/right-calf-30.mp3"
+        },
+        {
+          "name": "Left calf",
+          "duration": 30,
+          "audio_url": "http://localhost:8000/audio/left-calf-30.mp3"
+        },
+        {
+          "name": "Right calf",
+          "duration": 30,
+          "audio_url": "http://localhost:8000/audio/right-calf-30.mp3"
+        }
+      ]
+    };
+
+    let currentIndex = 0;
+
+    function startExercise(exercise) {
+      document.getElementById('subtitle').textContent = exercise.name;
+      document.getElementById('timer').textContent = exercise.duration;
+      let audio = new Audio(exercise.audio_url);
+      audio.play();
+
+      let remainingSeconds = exercise.duration;
+      const countdownInterval = setInterval(() => {
+        document.getElementById('timer').textContent = remainingSeconds;
+        remainingSeconds--;
+
+        if (remainingSeconds < 0) {
+          clearInterval(countdownInterval);
+          currentIndex++;
+          if (currentIndex < exerciseSequence.sequence.length) {
+            startExercise(exerciseSequence.sequence[currentIndex]);
+          }
+        }
+      }, 1000);
+    }
+
+    function initiateSequence() {
+      startExercise(exerciseSequence.sequence[0]);
+      document.getElementById('startButton').style.display = 'none';  // Hide the button after clicking
+    }
+  </script>
+</body>
+
+</html>
