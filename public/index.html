@@ -83,13 +83,18 @@
 
     async function loadExerciseData() {
       try {
-        const response = await fetch('/leg-stretches.json');
+        // Get the current path and format it
+        let pathName = window.location.pathname.slice(1);  // This will remove the leading '/'
+        let jsonFileName = `${pathName}.json`;
+
+        const response = await fetch(jsonFileName);
         exerciseSequence = await response.json();
         document.getElementById('sequenceName').textContent = exerciseSequence.name;
       } catch (err) {
         console.error("Error fetching the exercise sequence:", err);
       }
     }
+
 
     function initiateSequence() {
       if (exerciseSequence) {
