@@ -39,7 +39,8 @@
       cursor: pointer;
     }
 
-    #currentExercise {
+    #currentExercise,
+    #totalDuration {
       font-size: 1.5em;
       opacity: 1;
       margin-bottom: 20px;
@@ -94,6 +95,7 @@
   <div id="progressCounter"></div>
   <div id="previousExercise" onclick="adjustExercise(-1)"></div>
   <div id="sequenceName">Loading...</div>
+  <div id="totalDuration"></div>
   <div id="currentExercise" style="display: none;" onclick="togglePause()"></div>
   <div id="timer" onclick="togglePause()"></div>
   <button id="startButton" onclick="initiateSequence()">Start</button>
@@ -114,6 +116,12 @@
         exerciseSequence = await response.json();
         document.getElementById('sequenceName').textContent = exerciseSequence.name;
 
+        const totalDurationSeconds = exerciseSequence.sequence.reduce((acc, curr) => acc + curr.duration, 0);
+        const minutes = Math.floor(totalDurationSeconds / 60);
+        const seconds = totalDurationSeconds % 60;
+        document.getElementById('totalDuration').textContent =
+          `${minutes} minutes${seconds > 0 ? ` ${seconds} seconds` : ''}`;
+
         const progressCounter = document.getElementById('progressCounter');
         exerciseSequence.sequence.forEach(() => {
           const dot = document.createElement('div');
@@ -129,6 +137,7 @@
       if (exerciseSequence) {
         document.getElementById('startButton').style.display = 'none';
         document.getElementById('sequenceName').style.display = 'none';
+        document.getElementById('totalDuration').style.display = 'none';
         document.getElementById('currentExercise').style.display = 'block';
         startExercise(currentIndex);
       }

@@ -101,7 +101,6 @@
             "duration": 30,
             "audio_url": "/audio/right-glute-30.mp3"
         },
-        { "name": "Groin", "duration": 30, "audio_url": "/audio/groin-30.mp3" },
         { "name": "Groin", "duration": 30, "audio_url": "/audio/groin-30.mp3" }
     ]
 }

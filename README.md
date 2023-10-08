@@ -23,8 +23,9 @@ Please output the entire html file. Do not skip any css, javascript or html. If 
 
 ## TODO
 
--   total duration on landing page
 -   completion screen with audio "sequence complete"
+-   click on a progress dot to go to that step
+-   change the hover over the timer to a pointer
 -   commandline tool for prompting feature to add (could have it even commit)
 -   script for generating audio for a sequence
 -   animation
