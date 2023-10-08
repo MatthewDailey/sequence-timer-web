@@ -65,7 +65,6 @@
       cursor: pointer;
     }
 
-    /* Progress counter styles */
     #progressCounter {
       position: absolute;
       top: 50%;
@@ -95,8 +94,8 @@
   <div id="progressCounter"></div>
   <div id="previousExercise" onclick="adjustExercise(-1)"></div>
   <div id="sequenceName">Loading...</div>
-  <div id="currentExercise" style="display: none;"></div>
-  <div id="timer"></div>
+  <div id="currentExercise" style="display: none;" onclick="togglePause()"></div>
+  <div id="timer" onclick="togglePause()"></div>
   <button id="startButton" onclick="initiateSequence()">Start</button>
   <div id="nextExercise" onclick="adjustExercise(1)"></div>
 
@@ -104,6 +103,7 @@
     let exerciseSequence;
     let currentIndex = 0;
     let activeInterval;
+    let isPaused = false;
 
     async function loadExerciseData() {
       try {
@@ -114,7 +114,6 @@
         exerciseSequence = await response.json();
         document.getElementById('sequenceName').textContent = exerciseSequence.name;
 
-        // Create progress dots
         const progressCounter = document.getElementById('progressCounter');
         exerciseSequence.sequence.forEach(() => {
           const dot = document.createElement('div');
@@ -142,6 +141,40 @@
       }
     }
 
+    function togglePause() {
+      isPaused = !isPaused;
+      if (isPaused) {
+        document.getElementById('timer').style.opacity = '0.7';
+      } else {
+        document.getElementById('timer').style.opacity = '1';
+        startTimer();
+      }
+    }
+
+    function startTimer() {
+      const currentExercise = exerciseSequence.sequence[currentIndex];
+      let remainingSeconds = parseInt(document.getElementById('timer').textContent);
+
+      activeInterval = setInterval(() => {
+        if (isPaused) {
+          clearInterval(activeInterval);
+          activeInterval = null;
+          return;
+        }
+
+        document.getElementById('timer').textContent = remainingSeconds;
+        remainingSeconds--;
+
+        if (remainingSeconds < 0) {
+          clearInterval(activeInterval);
+          currentIndex++;
+          if (currentIndex < exerciseSequence.sequence.length) {
+            startExercise(currentIndex);
+          }
+        }
+      }, 1000);
+    }
+
     function startExercise(index) {
       if (activeInterval) {
         clearInterval(activeInterval);
@@ -159,25 +192,12 @@
       let audio = new Audio(currentExercise.audio_url);
       audio.play();
 
-      // Update progress dots
       const dots = document.querySelectorAll('.progressDot');
       dots.forEach((dot, idx) => {
         dot.classList[idx <= index ? 'add' : 'remove']('completed');
       });
 
-      let remainingSeconds = currentExercise.duration;
-      activeInterval = setInterval(() => {
-        document.getElementById('timer').textContent = remainingSeconds;
-        remainingSeconds--;
-
-        if (remainingSeconds < 0) {
-          clearInterval(activeInterval);
-          currentIndex++;
-          if (currentIndex < exerciseSequence.sequence.length) {
-            startExercise(currentIndex);
-          }
-        }
-      }, 1000);
+      startTimer();
     }
   </script>
 </body>

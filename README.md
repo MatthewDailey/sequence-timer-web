@@ -13,7 +13,7 @@ You are an expert web designer who is super skilled in HTML, Javascript and CSS.
 
 <description of feature to add>
 
-Please output the entire HTML document.
+Please output the entire html file. Do not skip any css, javascript or html. If you skip any code something very bad will happen.
 ```
 
 ## Dev tools
@@ -23,10 +23,9 @@ Please output the entire HTML document.
 
 ## TODO
 
--   commandline tool for prompting feature to add (could have it even commit)
--   tap timer to pause
 -   total duration on landing page
 -   completion screen with audio "sequence complete"
+-   commandline tool for prompting feature to add (could have it even commit)
 -   script for generating audio for a sequence
 -   animation
 
