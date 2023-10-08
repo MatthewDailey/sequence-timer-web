@@ -16,6 +16,11 @@ You are an expert web designer who is super skilled in HTML, Javascript and CSS.
 Please output the entire HTML document.
 ```
 
+## Dev tools
+
+-   `firebase serve` - start the local server
+-   `firebase deploy` - deploy the app
+
 ## TODO
 
 -   commandline tool for prompting feature to add (could have it even commit)
