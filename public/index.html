@@ -43,7 +43,6 @@
       font-size: 1.5em;
       opacity: 1;
       margin-bottom: 20px;
-      /* Add spacing between the exercise name and the timer */
       text-align: center;
     }
 
@@ -65,10 +64,35 @@
       border-radius: 5px;
       cursor: pointer;
     }
+
+    /* Progress counter styles */
+    #progressCounter {
+      position: absolute;
+      top: 50%;
+      left: 20px;
+      transform: translateY(-50%);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .progressDot {
+      width: 10px;
+      height: 10px;
+      background-color: white;
+      border-radius: 50%;
+      margin-bottom: 10px;
+      opacity: 0.3;
+    }
+
+    .progressDot.completed {
+      opacity: 1;
+    }
   </style>
 </head>
 
 <body onload="loadExerciseData()">
+  <div id="progressCounter"></div>
   <div id="previousExercise" onclick="adjustExercise(-1)"></div>
   <div id="sequenceName">Loading...</div>
   <div id="currentExercise" style="display: none;"></div>
@@ -83,18 +107,24 @@
 
     async function loadExerciseData() {
       try {
-        // Get the current path and format it
-        let pathName = window.location.pathname.slice(1);  // This will remove the leading '/'
+        let pathName = window.location.pathname.slice(1);
         let jsonFileName = `${pathName}.json`;
 
         const response = await fetch(jsonFileName);
         exerciseSequence = await response.json();
         document.getElementById('sequenceName').textContent = exerciseSequence.name;
+
+        // Create progress dots
+        const progressCounter = document.getElementById('progressCounter');
+        exerciseSequence.sequence.forEach(() => {
+          const dot = document.createElement('div');
+          dot.className = 'progressDot';
+          progressCounter.appendChild(dot);
+        });
       } catch (err) {
         console.error("Error fetching the exercise sequence:", err);
       }
     }
-
 
     function initiateSequence() {
       if (exerciseSequence) {
@@ -113,7 +143,6 @@
     }
 
     function startExercise(index) {
-      // Clear any existing interval
       if (activeInterval) {
         clearInterval(activeInterval);
       }
@@ -129,6 +158,12 @@
 
       let audio = new Audio(currentExercise.audio_url);
       audio.play();
+
+      // Update progress dots
+      const dots = document.querySelectorAll('.progressDot');
+      dots.forEach((dot, idx) => {
+        dot.classList[idx <= index ? 'add' : 'remove']('completed');
+      });
 
       let remainingSeconds = currentExercise.duration;
       activeInterval = setInterval(() => {

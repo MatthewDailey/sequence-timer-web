@@ -6,7 +6,7 @@ The code for this project is entirely generated via GPT4 in a sequence of reques
 
 ## TODO
 
--   add progress bar
 -   tap timer to pause
+-   total duration on landing page
 -   tool for generating audio
 -   animation
