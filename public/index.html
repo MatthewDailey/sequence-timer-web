@@ -179,9 +179,24 @@
           currentIndex++;
           if (currentIndex < exerciseSequence.sequence.length) {
             startExercise(currentIndex);
+          } else {
+            sequenceCompleted();
           }
         }
       }, 1000);
+    }
+
+    function sequenceCompleted() {
+      document.getElementById('previousExercise').style.display = 'none';
+      document.getElementById('currentExercise').style.display = 'none';
+      document.getElementById('timer').style.display = 'none';
+      document.getElementById('nextExercise').style.display = 'none';
+
+      document.getElementById('sequenceName').style.display = 'block';
+      document.getElementById('sequenceName').textContent = 'Sequence Complete';
+
+      let audio = new Audio('/audio/sequence-complete.mp3');
+      audio.play();
     }
 
     function startExercise(index) {
