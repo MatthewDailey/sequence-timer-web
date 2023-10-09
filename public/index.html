@@ -92,6 +92,18 @@
     .progressDot.completed {
       opacity: 1;
     }
+
+    /* Adjusting sequence name font size for smaller screens */
+    @media (max-width: 768px) {
+      #sequenceName {
+        font-size: 4em;
+      }
+
+      #currentExercise,
+      #totalDuration {
+        font-size: 1.3em;
+      }
+    }
   </style>
 </head>
 
@@ -228,23 +240,21 @@
       }
 
       const currentExercise = exerciseSequence.sequence[index];
-      const prevExercise = exerciseSequence.sequence[index - 1] || {};
-      const nextExercise = exerciseSequence.sequence[index + 1] || {};
+      const prevExercise = exerciseSequence.sequence[index - 1];
+      const nextExercise = exerciseSequence.sequence[index + 1];
 
-      document.getElementById('previousExercise').textContent = prevExercise.name || '';
+      document.getElementById('previousExercise').textContent = prevExercise ? prevExercise.name : '';
       document.getElementById('currentExercise').textContent = currentExercise.name;
       document.getElementById('timer').textContent = currentExercise.duration;
-      document.getElementById('nextExercise').textContent = nextExercise.name || '';
+      document.getElementById('nextExercise').textContent = nextExercise ? nextExercise.name : '';
 
-      const dots = document.querySelectorAll('.progressDot');
-      dots.forEach((dot, idx) => {
-        if (idx < index) {
-          dot.classList.add('completed');
-        } else {
-          dot.classList.remove('completed');
-        }
+      // Update progress dots
+      const progressDots = document.querySelectorAll('.progressDot');
+      progressDots.forEach((dot, idx) => {
+        dot.className = idx <= index ? 'progressDot completed' : 'progressDot';
       });
 
+      isPaused = false;
       startTimer();
     }
   </script>

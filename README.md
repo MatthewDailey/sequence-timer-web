@@ -2,7 +2,7 @@
 
 This is a small web app for running through a timed sequence with audio cues. It's intent is to support stretching and workout routines.
 
-The code for this project is entirely generated via GPT4 in a sequence of requests.
+The code for this project is entirely generated via GPT4 in a sequence of requests. The workflow was to have GPT rewrite the entire file
 
 ## Prompting
 
