@@ -248,6 +248,9 @@
       document.getElementById('timer').textContent = currentExercise.duration;
       document.getElementById('nextExercise').textContent = nextExercise ? nextExercise.name : '';
 
+      let audio = new Audio(currentExercise.audio_url);
+      audio.play();
+
       // Update progress dots
       const progressDots = document.querySelectorAll('.progressDot');
       progressDots.forEach((dot, idx) => {
