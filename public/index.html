@@ -106,6 +106,7 @@
     let currentIndex = 0;
     let activeInterval;
     let isPaused = false;
+    let sequenceStarted = false;
 
     async function loadExerciseData() {
       try {
@@ -123,9 +124,14 @@
           `${minutes} minutes${seconds > 0 ? ` ${seconds} seconds` : ''}`;
 
         const progressCounter = document.getElementById('progressCounter');
-        exerciseSequence.sequence.forEach(() => {
+        exerciseSequence.sequence.forEach((_, idx) => {
           const dot = document.createElement('div');
           dot.className = 'progressDot';
+          dot.onclick = function () {
+            if (sequenceStarted) {
+              moveToExercise(idx);
+            }
+          };
           progressCounter.appendChild(dot);
         });
       } catch (err) {
@@ -133,8 +139,14 @@
       }
     }
 
+    function moveToExercise(index) {
+      currentIndex = index;
+      startExercise(index);
+    }
+
     function initiateSequence() {
       if (exerciseSequence) {
+        sequenceStarted = true;
         document.getElementById('startButton').style.display = 'none';
         document.getElementById('sequenceName').style.display = 'none';
         document.getElementById('totalDuration').style.display = 'none';
