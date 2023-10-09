@@ -21,12 +21,8 @@ Please output the entire html file. Do not skip any css, javascript or html. If 
 -   `firebase serve` - start the local server
 -   `firebase deploy` - deploy the app
 
-## TODO
+## Future work
 
--   hit space bar to pause and restart
 -   script for generating audio for a sequence
 -   animation
-
-Eventually:
-
--   script for generating new pilates or PT sequences on the fly
+-   script for generating new pilates or PT sequences (on the fly?)

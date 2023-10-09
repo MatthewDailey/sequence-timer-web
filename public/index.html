@@ -112,6 +112,13 @@
     let isPaused = false;
     let sequenceStarted = false;
 
+    document.addEventListener('keydown', function (event) {
+      if (event.code === 'Space' && sequenceStarted) {
+        togglePause();
+        event.preventDefault(); // To prevent any default behavior of the space bar
+      }
+    });
+
     async function loadExerciseData() {
       try {
         let pathName = window.location.pathname.slice(1);
@@ -229,12 +236,13 @@
       document.getElementById('timer').textContent = currentExercise.duration;
       document.getElementById('nextExercise').textContent = nextExercise.name || '';
 
-      let audio = new Audio(currentExercise.audio_url);
-      audio.play();
-
       const dots = document.querySelectorAll('.progressDot');
       dots.forEach((dot, idx) => {
-        dot.classList[idx <= index ? 'add' : 'remove']('completed');
+        if (idx < index) {
+          dot.classList.add('completed');
+        } else {
+          dot.classList.remove('completed');
+        }
       });
 
       startTimer();
