@@ -17,6 +17,7 @@ def tts_elevenlabs(text, save_to_path):
 
 
 AUDIO_URL = "audio_url"
+OUTPUT_DIRECTORY = "public/audio"
 
 
 def main(args):
@@ -35,13 +36,13 @@ def main(args):
                 print("Found audio_url in item: ", item[AUDIO_URL])
                 audio_path = item[AUDIO_URL]
             else:
-                audio_path = os.path.join(args.output_directory, id + ".mp3")
+                audio_path = os.path.join(OUTPUT_DIRECTORY, id + ".mp3")
             if os.path.exists(audio_path):
                 print("Found audio at path: ", audio_path)
             else:
                 tts_elevenlabs(text, audio_path)
                 print(f"Generated audio for {text} at path: {audio_path}")
-            item[AUDIO_URL] = audio_path
+            item[AUDIO_URL] = audio_path.replace("public/", "/")
         print("Saving sequence with audio to: ", args.sequence_file)
         with open(args.sequence_file, "w") as f:
             json.dump(sequence, f, indent=4)

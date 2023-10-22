@@ -23,6 +23,5 @@ Please output the entire html file. Do not skip any css, javascript or html. If 
 
 ## Future work
 
--   script for generating audio for a sequence
 -   animation
 -   script for generating new pilates or PT sequences (on the fly?)

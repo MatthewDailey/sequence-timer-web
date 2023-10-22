@@ -1,0 +1,50 @@
+{
+    "name": "Physical Therapy",
+    "sequence": [
+        {
+            "name": "Pointing left foot",
+            "duration": 30,
+            "audio_url": "/audio/pointing-left-foot-30.mp3"
+        },
+        {
+            "name": "Pointing right foot",
+            "duration": 30,
+            "audio_url": "/audio/pointing-right-foot-30.mp3"
+        },
+        {
+            "name": "Foot scrunches",
+            "duration": 50,
+            "audio_url": "/audio/foot-scrunches-50.mp3"
+        },
+        {
+            "name": "Low calf raises",
+            "duration": 20,
+            "audio_url": "/audio/low-calf-raises-20.mp3"
+        },
+        {
+            "name": "Medium calf raises",
+            "duration": 20,
+            "audio_url": "/audio/medium-calf-raises-20.mp3"
+        },
+        {
+            "name": "High calf raises",
+            "duration": 20,
+            "audio_url": "/audio/high-calf-raises-20.mp3"
+        },
+        {
+            "name": "Tibialis raise",
+            "duration": 60,
+            "audio_url": "/audio/tibialis-raise-60.mp3"
+        },
+        {
+            "name": "Alternating reaching",
+            "duration": 90,
+            "audio_url": "/audio/alternating-reaching-90.mp3"
+        },
+        {
+            "name": "Marching",
+            "duration": 60,
+            "audio_url": "/audio/marching-60.mp3"
+        }
+    ]
+}
