@@ -1,3 +1,4 @@
 .idea
 firebase-debug.log
 .firebase
+.venv*
