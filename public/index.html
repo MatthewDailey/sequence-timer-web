@@ -139,6 +139,7 @@
         const response = await fetch(jsonFileName);
         exerciseSequence = await response.json();
         document.getElementById('sequenceName').textContent = exerciseSequence.name;
+        document.title = exerciseSequence.name;
 
         const totalDurationSeconds = exerciseSequence.sequence.reduce((acc, curr) => acc + curr.duration, 0);
         const minutes = Math.floor(totalDurationSeconds / 60);
