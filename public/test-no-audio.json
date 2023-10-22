@@ -1,0 +1,10 @@
+{
+    "name": "Test sequence",
+    "sequence": [
+        {
+            "name": "Left calf",
+            "duration": 50,
+            "audio_url": "public/audio/left-calf-50.mp3"
+        }
+    ]
+}
