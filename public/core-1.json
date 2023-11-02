@@ -1,0 +1,75 @@
+{
+    "name": "Leg Stretches",
+    "sequence": [
+        {
+            "name": "Shoulder slides",
+            "duration": 180,
+            "audio_url": "/audio/shoulder-slides-180.mp3"
+        },
+        {
+            "name": "Plank to Pike",
+            "duration": 180,
+            "audio_url": "/audio/plank-to-pike-180.mp3"
+        },
+        {
+            "name": "Slide Board Knee Tucks",
+            "duration": 180,
+            "audio_url": "/audio/slide-board-knee-tucks-180.mp3"
+        },
+        {
+            "name": "French Twist",
+            "duration": 180,
+            "audio_url": "/audio/french-twist-180.mp3"
+        },
+        {
+            "name": "Teaser",
+            "duration": 180,
+            "audio_url": "/audio/teaser-180.mp3"
+        },
+        {
+            "name": "Skater",
+            "duration": 180,
+            "audio_url": "/audio/skater-180.mp3"
+        },
+        {
+            "name": "Elevator Lunge",
+            "duration": 180,
+            "audio_url": "/audio/elevator-lunge-180.mp3"
+        },
+        {
+            "name": "Curtsy Lunge",
+            "duration": 180,
+            "audio_url": "/audio/curtsy-lunge-180.mp3"
+        },
+        {
+            "name": "Slide Board Pikes",
+            "duration": 120,
+            "audio_url": "/audio/slide-board-pikes-120.mp3"
+        },
+        {
+            "name": "Slide Board Mountain Climbers",
+            "duration": 120,
+            "audio_url": "/audio/slide-board-mountain-climbers-120.mp3"
+        },
+        {
+            "name": "Slide Board Plank Jacks",
+            "duration": 120,
+            "audio_url": "/audio/slide-board-plank-jacks-120.mp3"
+        },
+        {
+            "name": "Slide Board Knee Tucks",
+            "duration": 120,
+            "audio_url": "/audio/slide-board-knee-tucks-120.mp3"
+        },
+        {
+            "name": "Slide Board Oblique Twists",
+            "duration": 120,
+            "audio_url": "/audio/slide-board-oblique-twists-120.mp3"
+        },
+        {
+            "name": "Plank",
+            "duration": 60,
+            "audio_url": "/audio/plank-60.mp3"
+        }
+    ]
+}
