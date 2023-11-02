@@ -34,7 +34,7 @@ def main(args):
             id = item["name"].lower().replace(" ", "-") + "-" + str(item["duration"])
             if AUDIO_URL in item:
                 print("Found audio_url in item: ", item[AUDIO_URL])
-                audio_path = item[AUDIO_URL]
+                audio_path = "public" + item[AUDIO_URL]
             else:
                 audio_path = os.path.join(OUTPUT_DIRECTORY, id + ".mp3")
             if os.path.exists(audio_path):
