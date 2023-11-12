@@ -1,0 +1,30 @@
+{
+    "name": "Trampoline 1",
+    "sequence": [
+        {
+            "name": "Pop",
+            "duration": 60,
+            "audio_url": "/audio/pop-60.mp3"
+        },
+        {
+            "name": "Tuck",
+            "duration": 60,
+            "audio_url": "/audio/tuck-60.mp3"
+        },
+        {
+            "name": "Shifty Left",
+            "duration": 60,
+            "audio_url": "/audio/shifty-left-60.mp3"
+        },
+        {
+            "name": "Shifty Right",
+            "duration": 60,
+            "audio_url": "/audio/shifty-right-60.mp3"
+        },
+        {
+            "name": "Pop",
+            "duration": 60,
+            "audio_url": "/audio/pop-60.mp3"
+        }
+    ]
+}
