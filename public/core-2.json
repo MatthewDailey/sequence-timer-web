@@ -1,0 +1,180 @@
+{
+    "name": "Core 2",
+    "sequence": [
+        {
+            "name": "Shoulder slides",
+            "duration": 30,
+            "audio_url": "/audio/shoulder-slides-30.mp3"
+        },
+        {
+            "name": "Inch worm",
+            "duration": 30,
+            "audio_url": "/audio/inch-worm-30.mp3"
+        },
+        {
+            "name": "Shoulder slides",
+            "duration": 30,
+            "audio_url": "/audio/shoulder-slides-30.mp3"
+        },
+        {
+            "name": "Plank to Pike",
+            "duration": 30,
+            "audio_url": "/audio/plank-to-pike-30.mp3"
+        },
+        {
+            "name": "Bear",
+            "duration": 30,
+            "audio_url": "/audio/bear-30.mp3"
+        },
+        {
+            "name": "Plank to Pike",
+            "duration": 30,
+            "audio_url": "/audio/plank-to-pike-30.mp3"
+        },
+        {
+            "name": "Squat with side static bungie left",
+            "duration": 120,
+            "audio_url": "/audio/squat-with-side-static-bungie-left-120.mp3"
+        },
+        {
+            "name": "Skater left",
+            "duration": 120,
+            "audio_url": "/audio/skater-left-120.mp3"
+        },
+        {
+            "name": "Elevator Lunge Left",
+            "duration": 60,
+            "audio_url": "/audio/elevator-lunge-left-60.mp3"
+        },
+        {
+            "name": "Hold",
+            "duration": 30,
+            "audio_url": "/audio/hold-30.mp3"
+        },
+        {
+            "name": "Elevator Lunge Left",
+            "duration": 60,
+            "audio_url": "/audio/elevator-lunge-left-60.mp3"
+        },
+        {
+            "name": "French Twist Left",
+            "duration": 60,
+            "audio_url": "/audio/french-twist-left-60.mp3"
+        },
+        {
+            "name": "Side plank Left",
+            "duration": 30,
+            "audio_url": "/audio/side-plank-left-30.mp3"
+        },
+        {
+            "name": "Thread the needle Left",
+            "duration": 30,
+            "audio_url": "/audio/thread-the-needle-left-30.mp3"
+        },
+        {
+            "name": "Side plank Left",
+            "duration": 30,
+            "audio_url": "/audio/side-plank-left-30.mp3"
+        },
+        {
+            "name": "Walk with kettlebell in left hand",
+            "duration": 60,
+            "audio_url": "/audio/walk-with-kettlebell-in-left-hand-60.mp3"
+        },
+        {
+            "name": "Slideboard hamstring curl",
+            "duration": 60,
+            "audio_url": "/audio/slideboard-hamstring-curl-60.mp3"
+        },
+        {
+            "name": "Bridge",
+            "duration": 60,
+            "audio_url": "/audio/bridge-60.mp3"
+        },
+        {
+            "name": "Slide Board Pikes",
+            "duration": 60,
+            "audio_url": "/audio/slide-board-pikes-60.mp3"
+        },
+        {
+            "name": "Slide Board Mountain Climbers",
+            "duration": 60,
+            "audio_url": "/audio/slide-board-mountain-climbers-60.mp3"
+        },
+        {
+            "name": "Squat with side static bungie right",
+            "duration": 120,
+            "audio_url": "/audio/squat-with-side-static-bungie-right-120.mp3"
+        },
+        {
+            "name": "Skater Right",
+            "duration": 120,
+            "audio_url": "/audio/skater-right-120.mp3"
+        },
+        {
+            "name": "Elevator Lunge Right",
+            "duration": 60,
+            "audio_url": "/audio/elevator-lunge-right-60.mp3"
+        },
+        {
+            "name": "Hold",
+            "duration": 30,
+            "audio_url": "/audio/hold-30.mp3"
+        },
+        {
+            "name": "Elevator Lunge Right",
+            "duration": 60,
+            "audio_url": "/audio/elevator-lunge-right-60.mp3"
+        },
+        {
+            "name": "French Twist Right",
+            "duration": 60,
+            "audio_url": "/audio/french-twist-right-60.mp3"
+        },
+        {
+            "name": "Side plank Right",
+            "duration": 30,
+            "audio_url": "/audio/side-plank-right-30.mp3"
+        },
+        {
+            "name": "Thread the needle Right",
+            "duration": 30,
+            "audio_url": "/audio/thread-the-needle-right-30.mp3"
+        },
+        {
+            "name": "Side plank Right",
+            "duration": 30,
+            "audio_url": "/audio/side-plank-right-30.mp3"
+        },
+        {
+            "name": "Walk with kettlebell in right hand",
+            "duration": 60,
+            "audio_url": "/audio/walk-with-kettlebell-in-right-hand-60.mp3"
+        },
+        {
+            "name": "Super crunch",
+            "duration": 60,
+            "audio_url": "/audio/super-crunch-60.mp3"
+        },
+        {
+            "name": "Climb the rope",
+            "duration": 30,
+            "audio_url": "/audio/climb-the-rope-30.mp3"
+        },
+        {
+            "name": "Super crunch",
+            "duration": 30,
+            "audio_url": "/audio/super-crunch-30.mp3"
+        },
+        {
+            "name": "Wheel barrow",
+            "duration": 60,
+            "audio_url": "/audio/wheel-barrow-60.mp3"
+        },
+        {
+            "name": "Slide Board Knee Tucks",
+            "duration": 60,
+            "audio_url": "/audio/slide-board-knee-tucks-60.mp3"
+        }
+    ]
+}
