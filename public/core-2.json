@@ -2,6 +2,11 @@
     "name": "Core 2",
     "sequence": [
         {
+            "name": "Get ready",
+            "duration": 30,
+            "audio_url": "/audio/get-ready-30.mp3"
+        },
+        {
             "name": "Shoulder slides",
             "duration": 30,
             "audio_url": "/audio/shoulder-slides-30.mp3"

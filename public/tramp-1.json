@@ -2,29 +2,54 @@
     "name": "Trampoline 1",
     "sequence": [
         {
+            "name": "Get ready",
+            "duration": 30,
+            "audio_url": "/audio/get-ready-30.mp3"
+        },
+        {
             "name": "Pop",
+            "duration": 30,
+            "audio_url": "/audio/pop-30.mp3"
+        },
+        {
+            "name": "Break",
             "duration": 60,
-            "audio_url": "/audio/pop-60.mp3"
+            "audio_url": "/audio/break-60.mp3"
         },
         {
             "name": "Tuck",
+            "duration": 30,
+            "audio_url": "/audio/tuck-30.mp3"
+        },
+        {
+            "name": "Break",
             "duration": 60,
-            "audio_url": "/audio/tuck-60.mp3"
+            "audio_url": "/audio/break-60.mp3"
         },
         {
             "name": "Shifty Left",
+            "duration": 30,
+            "audio_url": "/audio/shifty-left-30.mp3"
+        },
+        {
+            "name": "Break",
             "duration": 60,
-            "audio_url": "/audio/shifty-left-60.mp3"
+            "audio_url": "/audio/break-60.mp3"
         },
         {
             "name": "Shifty Right",
+            "duration": 30,
+            "audio_url": "/audio/shifty-right-30.mp3"
+        },
+        {
+            "name": "Break",
             "duration": 60,
-            "audio_url": "/audio/shifty-right-60.mp3"
+            "audio_url": "/audio/break-60.mp3"
         },
         {
             "name": "Pop",
-            "duration": 60,
-            "audio_url": "/audio/pop-60.mp3"
+            "duration": 30,
+            "audio_url": "/audio/pop-30.mp3"
         }
     ]
 }
