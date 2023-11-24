@@ -1,0 +1,110 @@
+{
+    "name": "Balance 1",
+    "sequence": [
+        {
+            "name": "Foot scrunches",
+            "duration": 30,
+            "audio_url": "/audio/foot-scrunches-30.mp3"
+        },
+        {
+            "name": "Marching",
+            "duration": 60,
+            "audio_url": "/audio/marching-60.mp3"
+        },
+        {
+            "name": "Single leg stand left",
+            "duration": 30,
+            "audio_url": "/audio/single-leg-stand-left-30.mp3"
+        },
+        {
+            "name": "Single leg stand right",
+            "duration": 30,
+            "audio_url": "/audio/single-leg-stand-right-30.mp3"
+        },
+        {
+            "name": "Heel to toe walk",
+            "duration": 30,
+            "audio_url": "/audio/heel-to-toe-walk-30.mp3"
+        },
+        {
+            "name": "Single leg stand on bubble left",
+            "duration": 30,
+            "audio_url": "/audio/single-leg-stand-on-bubble-left-30.mp3"
+        },
+        {
+            "name": "Single leg stand on bubble right",
+            "duration": 30,
+            "audio_url": "/audio/single-leg-stand-on-bubble-right-30.mp3"
+        },
+        {
+            "name": "Heel to toe walk",
+            "duration": 30,
+            "audio_url": "/audio/heel-to-toe-walk-30.mp3"
+        },
+        {
+            "name": "Single leg stand eyes closed left",
+            "duration": 30,
+            "audio_url": "/audio/single-leg-stand-eyes-closed-left-30.mp3"
+        },
+        {
+            "name": "Single leg stand eyes closed right",
+            "duration": 30,
+            "audio_url": "/audio/single-leg-stand-eyes-closed-right-30.mp3"
+        },
+        {
+            "name": "Heel to toe walk",
+            "duration": 30,
+            "audio_url": "/audio/heel-to-toe-walk-30.mp3"
+        },
+        {
+            "name": "Single leg stand ball toss left",
+            "duration": 30,
+            "audio_url": "/audio/single-leg-stand-ball-toss-left-30.mp3"
+        },
+        {
+            "name": "Single leg stand ball toss right",
+            "duration": 30,
+            "audio_url": "/audio/single-leg-stand-ball-toss-right-30.mp3"
+        },
+        {
+            "name": "Single leg stand ball toss left",
+            "duration": 30,
+            "audio_url": "/audio/single-leg-stand-ball-toss-left-30.mp3"
+        },
+        {
+            "name": "Single leg stand ball toss right",
+            "duration": 30,
+            "audio_url": "/audio/single-leg-stand-ball-toss-right-30.mp3"
+        },
+        {
+            "name": "Heel to toe walk",
+            "duration": 30,
+            "audio_url": "/audio/heel-to-toe-walk-30.mp3"
+        },
+        {
+            "name": "Toe tap around the world left",
+            "duration": 30,
+            "audio_url": "/audio/toe-tap-around-the-world-left-30.mp3"
+        },
+        {
+            "name": "Toe tap around the world right",
+            "duration": 30,
+            "audio_url": "/audio/toe-tap-around-the-world-right-30.mp3"
+        },
+        {
+            "name": "Toe tap around the world left",
+            "duration": 30,
+            "audio_url": "/audio/toe-tap-around-the-world-left-30.mp3"
+        },
+        {
+            "name": "Toe tap around the world right",
+            "duration": 30,
+            "audio_url": "/audio/toe-tap-around-the-world-right-30.mp3"
+        },
+        {
+            "name": "Marching",
+            "duration": 60,
+            "audio_url": "/audio/marching-60.mp3"
+        }
+    ]
+}
