@@ -27,9 +27,9 @@
             "audio_url": "/audio/plank-30.mp3"
         },
         {
-            "name": "Walk with kettlebell in left hand",
+            "name": "Walk with kettlebell in right hand",
             "duration": 60,
-            "audio_url": "/audio/walk-with-kettlebell-in-left-hand-60.mp3"
+            "audio_url": "/audio/walk-with-kettlebell-in-right-hand-60.mp3"
         },
         {
             "name": "French Twist Left",
@@ -57,9 +57,9 @@
             "audio_url": "/audio/plank-to-pike-60.mp3"
         },
         {
-            "name": "Walk with kettlebell in right hand",
+            "name": "Walk with kettlebell in left hand",
             "duration": 60,
-            "audio_url": "/audio/walk-with-kettlebell-in-right-hand-60.mp3"
+            "audio_url": "/audio/walk-with-kettlebell-in-left-hand-60.mp3"
         },
         {
             "name": "French Twist Right",
