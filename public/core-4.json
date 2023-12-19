@@ -1,0 +1,85 @@
+{
+    "name": "Core 4",
+    "sequence": [
+        {
+            "name": "Get ready",
+            "duration": 30,
+            "audio_url": "/audio/get-ready-30.mp3"
+        },
+        {
+            "name": "Mountain climber",
+            "duration": 60,
+            "audio_url": "/audio/mountain-climber-60.mp3"
+        },
+        {
+            "name": "Super crunch",
+            "duration": 60,
+            "audio_url": "/audio/super-crunch-60.mp3"
+        },
+        {
+            "name": "Plank to Pike",
+            "duration": 30,
+            "audio_url": "/audio/plank-to-pike-30.mp3"
+        },
+        {
+            "name": "Bear",
+            "duration": 30,
+            "audio_url": "/audio/bear-30.mp3"
+        },
+        {
+            "name": "Kettlebell around the world, circle right",
+            "duration": 60,
+            "audio_url": "/audio/kettlebell-around-the-world,-circle-right-60.mp3"
+        },
+        {
+            "name": "Kettlebell around the world, circle left",
+            "duration": 60,
+            "audio_url": "/audio/kettlebell-around-the-world,-circle-left-60.mp3"
+        },
+        {
+            "name": "Wheel barrow",
+            "duration": 60,
+            "audio_url": "/audio/wheel-barrow-60.mp3"
+        },
+        {
+            "name": "Mountain climber",
+            "duration": 60,
+            "audio_url": "/audio/mountain-climber-60.mp3"
+        },
+        {
+            "name": "Super crunch",
+            "duration": 60,
+            "audio_url": "/audio/super-crunch-60.mp3"
+        },
+        {
+            "name": "Teaser left",
+            "duration": 30,
+            "audio_url": "/audio/teaser-left-30.mp3"
+        },
+        {
+            "name": "Twisted bear left",
+            "duration": 30,
+            "audio_url": "/audio/twisted-bear-left-30.mp3"
+        },
+        {
+            "name": "Teaser right",
+            "duration": 30,
+            "audio_url": "/audio/teaser-right-30.mp3"
+        },
+        {
+            "name": "Twisted bear right",
+            "duration": 30,
+            "audio_url": "/audio/twisted-bear-right-30.mp3"
+        },
+        {
+            "name": "Climb the rope",
+            "duration": 60,
+            "audio_url": "/audio/climb-the-rope-60.mp3"
+        },
+        {
+            "name": "Plank to Pike",
+            "duration": 30,
+            "audio_url": "/audio/plank-to-pike-30.mp3"
+        }
+    ]
+}
