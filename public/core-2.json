@@ -37,9 +37,9 @@
             "audio_url": "/audio/plank-to-pike-30.mp3"
         },
         {
-            "name": "Squat with side static bungie left",
+            "name": "Squat with side static bungie left left",
             "duration": 120,
-            "audio_url": "/audio/squat-with-side-static-bungie-left-120.mp3"
+            "audio_url": "/audio/squat-with-side-static-bungie-left-left-120.mp3"
         },
         {
             "name": "Skater left",
@@ -82,9 +82,9 @@
             "audio_url": "/audio/side-plank-left-30.mp3"
         },
         {
-            "name": "Walk with kettlebell in left hand",
+            "name": "Walk with kettlebell in right hand",
             "duration": 60,
-            "audio_url": "/audio/walk-with-kettlebell-in-left-hand-60.mp3"
+            "audio_url": "/audio/walk-with-kettlebell-in-right-hand-60.mp3"
         },
         {
             "name": "Slideboard hamstring curl",
@@ -107,9 +107,9 @@
             "audio_url": "/audio/slide-board-mountain-climbers-60.mp3"
         },
         {
-            "name": "Squat with side static bungie right",
+            "name": "Squat with side static bungie right leg",
             "duration": 120,
-            "audio_url": "/audio/squat-with-side-static-bungie-right-120.mp3"
+            "audio_url": "/audio/squat-with-side-static-bungie-right-leg-120.mp3"
         },
         {
             "name": "Skater Right",
@@ -152,9 +152,9 @@
             "audio_url": "/audio/side-plank-right-30.mp3"
         },
         {
-            "name": "Walk with kettlebell in right hand",
+            "name": "Walk with kettlebell in left hand",
             "duration": 60,
-            "audio_url": "/audio/walk-with-kettlebell-in-right-hand-60.mp3"
+            "audio_url": "/audio/walk-with-kettlebell-in-left-hand-60.mp3"
         },
         {
             "name": "Super crunch",
