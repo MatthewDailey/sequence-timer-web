@@ -2,16 +2,6 @@
     "name": "Physical Therapy",
     "sequence": [
         {
-            "name": "Pointing left foot",
-            "duration": 30,
-            "audio_url": "/audio/pointing-left-foot-30.mp3"
-        },
-        {
-            "name": "Pointing right foot",
-            "duration": 30,
-            "audio_url": "/audio/pointing-right-foot-30.mp3"
-        },
-        {
             "name": "Foot scrunches",
             "duration": 50,
             "audio_url": "/audio/foot-scrunches-50.mp3"
@@ -40,6 +30,16 @@
             "name": "Alternating reaching",
             "duration": 90,
             "audio_url": "/audio/alternating-reaching-90.mp3"
+        },
+        {
+            "name": "Single leg airplane left",
+            "duration": 60,
+            "audio_url": "/audio/single-leg-airplane-left-60.mp3"
+        },
+        {
+            "name": "Single leg airplane right",
+            "duration": 60,
+            "audio_url": "/audio/single-leg-airplane-right-60.mp3"
         },
         {
             "name": "Marching",
