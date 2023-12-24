@@ -1,0 +1,40 @@
+{
+    "name": "Lazy Glute 2",
+    "sequence": [
+        {
+            "name": "Bridge",
+            "duration": 60,
+            "audio_url": "/audio/bridge-60.mp3"
+        },
+        {
+            "name": "Kettlebell weightshift right",
+            "duration": 60,
+            "audio_url": "/audio/kettlebell-weightshift-right-60.mp3"
+        },
+        {
+            "name": "Kettlebell weightshift left",
+            "duration": 60,
+            "audio_url": "/audio/kettlebell-weightshift-left-60.mp3"
+        },
+        {
+            "name": "Clamshell plank right",
+            "duration": 60,
+            "audio_url": "/audio/clamshell-plank-right-60.mp3"
+        },
+        {
+            "name": "Clamshell plank left",
+            "duration": 60,
+            "audio_url": "/audio/clamshell-plank-left-60.mp3"
+        },
+        {
+            "name": "Goblet squat",
+            "duration": 60,
+            "audio_url": "/audio/goblet-squat-60.mp3"
+        },
+        {
+            "name": "Bodyweight squat",
+            "duration": 60,
+            "audio_url": "/audio/bodyweight-squat-60.mp3"
+        }
+    ]
+}
