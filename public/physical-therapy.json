@@ -12,14 +12,14 @@
             "audio_url": "/audio/low-calf-raises-20.mp3"
         },
         {
-            "name": "Medium calf raises",
-            "duration": 20,
-            "audio_url": "/audio/medium-calf-raises-20.mp3"
+            "name": "High calf raise right",
+            "duration": 30,
+            "audio_url": "/audio/high-calf-raise-right-30.mp3"
         },
         {
-            "name": "High calf raises",
-            "duration": 20,
-            "audio_url": "/audio/high-calf-raises-20.mp3"
+            "name": "High calf raise left",
+            "duration": 30,
+            "audio_url": "/audio/high-calf-raise-left-30.mp3"
         },
         {
             "name": "Tibialis raise",
@@ -28,7 +28,7 @@
         },
         {
             "name": "Alternating reaching",
-            "duration": 90,
+            "duration": 60,
             "audio_url": "/audio/alternating-reaching-90.mp3"
         },
         {
@@ -40,6 +40,11 @@
             "name": "Single leg airplane right",
             "duration": 60,
             "audio_url": "/audio/single-leg-airplane-right-60.mp3"
+        },
+        {
+            "name": "Ski knees",
+            "duration": 60,
+            "audio_url": "/audio/ski-knees-60.mp3"
         },
         {
             "name": "Marching",
