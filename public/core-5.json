@@ -1,95 +1,95 @@
 {
-    "name": "Core 4",
-    "sequence": [
-        {
-            "name": "Get ready",
-            "duration": 30,
-            "audio_url": "/audio/get-ready-30.mp3"
-        },
-        {
-            "name": "Low plank",
-            "duration": 60,
-            "audio_url": "/audio/low-plank-60.mp3"
-        },
-        {
-            "name": "Rest",
-            "duration": 20,
-            "audio_url": "/audio/rest-20.mp3"
-        },
-        {
-            "name": "Weighted seal situp with twist",
-            "duration": 30,
-            "audio_url": "/audio/weighted-seal-situp-with-twist-30.mp3"
-        },
-        {
-            "name": "Rest",
-            "duration": 20,
-            "audio_url": "/audio/rest-20.mp3"
-        },
-        {
-            "name": "Russian twist feet up",
-            "duration": 60,
-            "audio_url": "/audio/russian-twist-feet-up-60.mp3"
-        },
-        {
-            "name": "Rest",
-            "duration": 20,
-            "audio_url": "/audio/rest-20.mp3"
-        },
-        {
-            "name": "Internal Knee-ins",
-            "duration": 60,
-            "audio_url": "/audio/internal-knee-ins-60.mp3"
-        },
-        {
-            "name": "Rest",
-            "duration": 20,
-            "audio_url": "/audio/rest-20.mp3"
-        },
-        {
-            "name": "Alternating leg low plank",
-            "duration": 60,
-            "audio_url": "/audio/alternating-leg-low-plank-60.mp3"
-        },
-        {
-            "name": "Rest",
-            "duration": 20,
-            "audio_url": "/audio/rest-20.mp3"
-        },
-        {
-            "name": "Spider plank right",
-            "duration": 30,
-            "audio_url": "/audio/spider-plank-right-30.mp3"
-        },
-        {
-            "name": "Rest",
-            "duration": 20,
-            "audio_url": "/audio/rest-20.mp3"
-        },
-        {
-            "name": "Spider plank left",
-            "duration": 30,
-            "audio_url": "/audio/spider-plank-left-30.mp3"
-        },
-        {
-            "name": "Rest",
-            "duration": 20,
-            "audio_url": "/audio/rest-20.mp3"
-        },
-        {
-            "name": "Weighted diagonal crunch",
-            "duration": 60,
-            "audio_url": "/audio/weighted-diagonal-crunch-60.mp3"
-        },
-        {
-            "name": "Rest",
-            "duration": 20,
-            "audio_url": "/audio/rest-20.mp3"
-        },
-        {
-            "name": "Reverse low plank",
-            "duration": 60,
-            "audio_url": "/audio/reverse-low-plank-60.mp3"
-        }
-    ]
+  "name": "Core 5",
+  "sequence": [
+    {
+      "name": "Get ready",
+      "duration": 30,
+      "audio_url": "/audio/get-ready-30.mp3"
+    },
+    {
+      "name": "Low plank",
+      "duration": 60,
+      "audio_url": "/audio/low-plank-60.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 20,
+      "audio_url": "/audio/rest-20.mp3"
+    },
+    {
+      "name": "Weighted seal situp with twist",
+      "duration": 30,
+      "audio_url": "/audio/weighted-seal-situp-with-twist-30.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 20,
+      "audio_url": "/audio/rest-20.mp3"
+    },
+    {
+      "name": "Russian twist feet up",
+      "duration": 60,
+      "audio_url": "/audio/russian-twist-feet-up-60.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 20,
+      "audio_url": "/audio/rest-20.mp3"
+    },
+    {
+      "name": "Internal Knee-ins",
+      "duration": 60,
+      "audio_url": "/audio/internal-knee-ins-60.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 20,
+      "audio_url": "/audio/rest-20.mp3"
+    },
+    {
+      "name": "Alternating leg low plank",
+      "duration": 60,
+      "audio_url": "/audio/alternating-leg-low-plank-60.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 20,
+      "audio_url": "/audio/rest-20.mp3"
+    },
+    {
+      "name": "Spider plank right",
+      "duration": 30,
+      "audio_url": "/audio/spider-plank-right-30.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 20,
+      "audio_url": "/audio/rest-20.mp3"
+    },
+    {
+      "name": "Spider plank left",
+      "duration": 30,
+      "audio_url": "/audio/spider-plank-left-30.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 20,
+      "audio_url": "/audio/rest-20.mp3"
+    },
+    {
+      "name": "Weighted diagonal crunch",
+      "duration": 60,
+      "audio_url": "/audio/weighted-diagonal-crunch-60.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 20,
+      "audio_url": "/audio/rest-20.mp3"
+    },
+    {
+      "name": "Reverse low plank",
+      "duration": 60,
+      "audio_url": "/audio/reverse-low-plank-60.mp3"
+    }
+  ]
 }
