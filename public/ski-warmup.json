@@ -1,0 +1,45 @@
+{
+    "name": "Ski Warmup",
+    "sequence": [
+        {
+            "name": "Foot scrunches",
+            "duration": 30,
+            "audio_url": "/audio/foot-scrunches-30.mp3"
+        },
+        {
+            "name": "Calf raise",
+            "duration": 30,
+            "audio_url": "/audio/calf-raise-30.mp3"
+        },
+        {
+            "name": "Alternating reaching",
+            "duration": 60,
+            "audio_url": "/audio/alternating-reaching-60.mp3"
+        },
+        {
+            "name": "Hip Abduction Right",
+            "duration": 60,
+            "audio_url": "/audio/hip-abduction-right-60.mp3"
+        },
+        {
+            "name": "Hip Abduction Left",
+            "duration": 60,
+            "audio_url": "/audio/hip-abduction-left-60.mp3"
+        },
+        {
+            "name": "Kickstand squat right",
+            "duration": 30,
+            "audio_url": "/audio/kickstand-squat-right-30.mp3"
+        },
+        {
+            "name": "Kickstand squat left",
+            "duration": 30,
+            "audio_url": "/audio/kickstand-squat-left-30.mp3"
+        },
+        {
+            "name": "Bodyweight squat",
+            "duration": 60,
+            "audio_url": "/audio/bodyweight-squat-60.mp3"
+        }
+    ]
+}
