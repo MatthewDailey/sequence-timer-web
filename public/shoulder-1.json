@@ -1,0 +1,60 @@
+{
+    "name": "Shoulder 1",
+    "sequence": [
+        {
+            "name": "Cobra",
+            "duration": 60,
+            "audio_url": "/audio/cobra-60.mp3"
+        },
+        {
+            "name": "Plank",
+            "duration": 15,
+            "audio_url": "/audio/plank-15.mp3"
+        },
+        {
+            "name": "Rest",
+            "duration": 5,
+            "audio_url": "/audio/rest-5.mp3"
+        },
+        {
+            "name": "Plank",
+            "duration": 15,
+            "audio_url": "/audio/plank-15.mp3"
+        },
+        {
+            "name": "Rest",
+            "duration": 5,
+            "audio_url": "/audio/rest-5.mp3"
+        },
+        {
+            "name": "Plank",
+            "duration": 15,
+            "audio_url": "/audio/plank-15.mp3"
+        },
+        {
+            "name": "Rest",
+            "duration": 5,
+            "audio_url": "/audio/rest-5.mp3"
+        },
+        {
+            "name": "Plank with later motion",
+            "duration": 30,
+            "audio_url": "/audio/plank-with-later-motion-30.mp3"
+        },
+        {
+            "name": "Lat pulls",
+            "duration": 90,
+            "audio_url": "/audio/lat-pulls-90.mp3"
+        },
+        {
+            "name": "Hitchhiker rotation",
+            "duration": 60,
+            "audio_url": "/audio/hitchhiker-rotation-60.mp3"
+        },
+        {
+            "name": "30 degree angle straight arms raises",
+            "duration": 60,
+            "audio_url": "/audio/30-degree-angle-straight-arms-raises-60.mp3"
+        }
+    ]
+}

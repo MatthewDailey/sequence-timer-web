@@ -1,0 +1,55 @@
+{
+    "name": "Shoulder 2",
+    "sequence": [
+        {
+            "name": "Cobra",
+            "duration": 60,
+            "audio_url": "/audio/cobra-60.mp3"
+        },
+        {
+            "name": "Plank",
+            "duration": 15,
+            "audio_url": "/audio/plank-15.mp3"
+        },
+        {
+            "name": "Rest",
+            "duration": 5,
+            "audio_url": "/audio/rest-5.mp3"
+        },
+        {
+            "name": "Plank",
+            "duration": 15,
+            "audio_url": "/audio/plank-15.mp3"
+        },
+        {
+            "name": "Rest",
+            "duration": 5,
+            "audio_url": "/audio/rest-5.mp3"
+        },
+        {
+            "name": "Plank with later motion",
+            "duration": 30,
+            "audio_url": "/audio/plank-with-later-motion-30.mp3"
+        },
+        {
+            "name": "Rows",
+            "duration": 60,
+            "audio_url": "/audio/rows-60.mp3"
+        },
+        {
+            "name": "Internal rotation, hands to waist",
+            "duration": 60,
+            "audio_url": "/audio/internal-rotation,-hands-to-waist-60.mp3"
+        },
+        {
+            "name": "Shoulder press",
+            "duration": 60,
+            "audio_url": "/audio/shoulder-press-60.mp3"
+        },
+        {
+            "name": "Tricep press",
+            "duration": 60,
+            "audio_url": "/audio/tricep-press-60.mp3"
+        }
+    ]
+}
