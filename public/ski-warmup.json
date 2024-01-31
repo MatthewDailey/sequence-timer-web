@@ -17,16 +17,6 @@
             "audio_url": "/audio/alternating-reaching-60.mp3"
         },
         {
-            "name": "Hip Abduction Right",
-            "duration": 60,
-            "audio_url": "/audio/hip-abduction-right-60.mp3"
-        },
-        {
-            "name": "Hip Abduction Left",
-            "duration": 60,
-            "audio_url": "/audio/hip-abduction-left-60.mp3"
-        },
-        {
             "name": "Kickstand squat right",
             "duration": 30,
             "audio_url": "/audio/kickstand-squat-right-30.mp3"
@@ -35,6 +25,26 @@
             "name": "Kickstand squat left",
             "duration": 30,
             "audio_url": "/audio/kickstand-squat-left-30.mp3"
+        },
+        {
+            "name": "Side lunge right",
+            "duration": 30,
+            "audio_url": "/audio/side-lunge-right-30.mp3"
+        },
+        {
+            "name": "Side lunge left",
+            "duration": 30,
+            "audio_url": "/audio/side-lunge-left-30.mp3"
+        },
+        {
+            "name": "Hip abduction Right",
+            "duration": 30,
+            "audio_url": "/audio/hip-abduction-right-30.mp3"
+        },
+        {
+            "name": "Hip Abduction Left",
+            "duration": 30,
+            "audio_url": "/audio/hip-abduction-left-30.mp3"
         },
         {
             "name": "Bodyweight squat",
