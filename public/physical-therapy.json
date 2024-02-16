@@ -1,55 +1,45 @@
 {
-  "name": "Physical Therapy",
-  "sequence": [
-    {
-      "name": "Foot scrunches",
-      "duration": 50,
-      "audio_url": "/audio/foot-scrunches-50.mp3"
-    },
-    {
-      "name": "Low calf raises",
-      "duration": 20,
-      "audio_url": "/audio/low-calf-raises-20.mp3"
-    },
-    {
-      "name": "High calf raise right",
-      "duration": 30,
-      "audio_url": "/audio/high-calf-raise-right-30.mp3"
-    },
-    {
-      "name": "High calf raise left",
-      "duration": 30,
-      "audio_url": "/audio/high-calf-raise-left-30.mp3"
-    },
-    {
-      "name": "Tibialis raise",
-      "duration": 60,
-      "audio_url": "/audio/tibialis-raise-60.mp3"
-    },
-    {
-      "name": "Alternating reaching",
-      "duration": 60,
-      "audio_url": "/audio/alternating-reaching-60.mp3"
-    },
-    {
-      "name": "Single leg airplane left",
-      "duration": 60,
-      "audio_url": "/audio/single-leg-airplane-left-60.mp3"
-    },
-    {
-      "name": "Single leg airplane right",
-      "duration": 60,
-      "audio_url": "/audio/single-leg-airplane-right-60.mp3"
-    },
-    {
-      "name": "Ski knees",
-      "duration": 60,
-      "audio_url": "/audio/ski-knees-60.mp3"
-    },
-    {
-      "name": "Marching",
-      "duration": 60,
-      "audio_url": "/audio/marching-60.mp3"
-    }
-  ]
+    "name": "Physical Therapy",
+    "sequence": [
+        {
+            "name": "Foot scrunches",
+            "duration": 50,
+            "audio_url": "/audio/foot-scrunches-50.mp3"
+        },
+        {
+            "name": "Toe push",
+            "duration": 30,
+            "audio_url": "/audio/toe-push-30.mp3"
+        },
+        {
+            "name": "Tibialis raise",
+            "duration": 60,
+            "audio_url": "/audio/tibialis-raise-60.mp3"
+        },
+        {
+            "name": "Alternating reaching",
+            "duration": 60,
+            "audio_url": "/audio/alternating-reaching-60.mp3"
+        },
+        {
+            "name": "Single leg airplane left",
+            "duration": 60,
+            "audio_url": "/audio/single-leg-airplane-left-60.mp3"
+        },
+        {
+            "name": "Single leg airplane right",
+            "duration": 60,
+            "audio_url": "/audio/single-leg-airplane-right-60.mp3"
+        },
+        {
+            "name": "Ski knees",
+            "duration": 60,
+            "audio_url": "/audio/ski-knees-60.mp3"
+        },
+        {
+            "name": "Marching",
+            "duration": 60,
+            "audio_url": "/audio/marching-60.mp3"
+        }
+    ]
 }
