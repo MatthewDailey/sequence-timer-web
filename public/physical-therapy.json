@@ -12,6 +12,11 @@
             "audio_url": "/audio/toe-push-30.mp3"
         },
         {
+            "name": "Calf raise",
+            "duration": 30,
+            "audio_url": "/audio/calf-raise-30.mp3"
+        },
+        {
             "name": "Tibialis raise",
             "duration": 60,
             "audio_url": "/audio/tibialis-raise-60.mp3"
