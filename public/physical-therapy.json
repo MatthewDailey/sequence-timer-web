@@ -27,14 +27,14 @@
             "audio_url": "/audio/alternating-reaching-60.mp3"
         },
         {
-            "name": "Single leg airplane left",
+            "name": "Toe pointing left",
             "duration": 60,
-            "audio_url": "/audio/single-leg-airplane-left-60.mp3"
+            "audio_url": "/audio/toe-pointing-left-60.mp3"
         },
         {
-            "name": "Single leg airplane right",
+            "name": "Toe pointing right",
             "duration": 60,
-            "audio_url": "/audio/single-leg-airplane-right-60.mp3"
+            "audio_url": "/audio/toe-pointing-right-60.mp3"
         },
         {
             "name": "Ski knees",
