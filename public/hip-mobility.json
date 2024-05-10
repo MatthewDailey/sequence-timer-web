@@ -1,0 +1,35 @@
+{
+    "name": "Hip mobility",
+    "sequence": [
+        {
+            "name": "Bridge",
+            "duration": 60,
+            "audio_url": "/audio/bridge-60.mp3"
+        },
+        {
+            "name": "Kettlebell weightshift right",
+            "duration": 30,
+            "audio_url": "/audio/kettlebell-weightshift-right-30.mp3"
+        },
+        {
+            "name": "Kettlebell weightshift left",
+            "duration": 30,
+            "audio_url": "/audio/kettlebell-weightshift-left-30.mp3"
+        },
+        {
+            "name": "Right-side airplane",
+            "duration": 60,
+            "audio_url": "/audio/right-side-airplane-60.mp3"
+        },
+        {
+            "name": "Left-side airplane",
+            "duration": 60,
+            "audio_url": "/audio/left-side-airplane-60.mp3"
+        },
+        {
+            "name": "Ski knees",
+            "duration": 60,
+            "audio_url": "/audio/ski-knees-60.mp3"
+        }
+    ]
+}
