@@ -1,55 +1,35 @@
 {
-    "name": "Leg Rolling",
-    "sequence": [
-        {
-            "name": "Left calf",
-            "duration": 60,
-            "audio_url": "/audio/left-calf-60.mp3"
-        },
-        {
-            "name": "Left IT",
-            "duration": 60,
-            "audio_url": "/audio/left-it-60.mp3"
-        },
-        {
-            "name": "Left quad",
-            "duration": 60,
-            "audio_url": "/audio/left-quad-60.mp3"
-        },
-        {
-            "name": "Right calf",
-            "duration": 60,
-            "audio_url": "/audio/right-calf-60.mp3"
-        },
-        {
-            "name": "Right IT",
-            "duration": 60,
-            "audio_url": "/audio/right-it-60.mp3"
-        },
-        {
-            "name": "Right quad",
-            "duration": 60,
-            "audio_url": "/audio/right-quad-60.mp3"
-        },
-        {
-            "name": "Kettlebell weightshift left",
-            "duration": 30,
-            "audio_url": "/audio/kettlebell-weightshift-left-30.mp3"
-        },
-        {
-            "name": "Right-side airplane",
-            "duration": 60,
-            "audio_url": "/audio/right-side-airplane-60.mp3"
-        },
-        {
-            "name": "Left-side airplane",
-            "duration": 60,
-            "audio_url": "/audio/left-side-airplane-60.mp3"
-        },
-        {
-            "name": "Ski knees",
-            "duration": 60,
-            "audio_url": "/audio/ski-knees-60.mp3"
-        }
-    ]
+  "name": "Leg Rolling",
+  "sequence": [
+    {
+      "name": "Left calf",
+      "duration": 60,
+      "audio_url": "/audio/left-calf-60.mp3"
+    },
+    {
+      "name": "Left IT",
+      "duration": 60,
+      "audio_url": "/audio/left-it-60.mp3"
+    },
+    {
+      "name": "Left quad",
+      "duration": 60,
+      "audio_url": "/audio/left-quad-60.mp3"
+    },
+    {
+      "name": "Right calf",
+      "duration": 60,
+      "audio_url": "/audio/right-calf-60.mp3"
+    },
+    {
+      "name": "Right IT",
+      "duration": 60,
+      "audio_url": "/audio/right-it-60.mp3"
+    },
+    {
+      "name": "Right quad",
+      "duration": 60,
+      "audio_url": "/audio/right-quad-60.mp3"
+    }
+  ]
 }
