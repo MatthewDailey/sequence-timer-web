@@ -1,66 +1,70 @@
 {
-  "name": "Pelvic Floor",
-  "sequence": [
-    {
-      "name": "Clench",
-      "duration": 10,
-      "audio_url": "/audio/clench-10.mp3"
-    },
-    {
-      "name": "Rest",
-      "duration": 2,
-      "audio_url": "/audio/rest-2.mp3"
-    },
-    {
-      "name": "Clench",
-      "duration": 10,
-      "audio_url": "/audio/clench-10.mp3"
-    },
-    {
-      "name": "Rest",
-      "duration": 2,
-      "audio_url": "/audio/rest-2.mp3"
-    },
-    {
-      "name": "Clench",
-      "duration": 10,
-      "audio_url": "/audio/clench-10.mp3"
-    },
-    {
-      "name": "Rest",
-      "duration": 2,
-      "audio_url": "/audio/rest-2.mp3"
-    },
-
-    {
-      "name": "Clench",
-      "duration": 10,
-      "audio_url": "/audio/clench-10.mp3"
-    },
-    {
-      "name": "Rest",
-      "duration": 2,
-      "audio_url": "/audio/rest-2.mp3"
-    },
-    {
-      "name": "Clench",
-      "duration": 10,
-      "audio_url": "/audio/clench-10.mp3"
-    },
-    {
-      "name": "Bird dog right",
-      "duration": 30,
-      "audio_url": "/audio/bird-dog-right-30.mp3"
-    },
-    {
-      "name": "Bird dog left",
-      "duration": 30,
-      "audio_url": "/audio/bird-dog-left-30.mp3"
-    },
-    {
-      "name": "Marching",
-      "duration": 60,
-      "audio_url": "/audio/marching-60.mp3"
-    }
-  ]
+    "name": "Pelvic Floor",
+    "sequence": [
+        {
+            "name": "Clench",
+            "duration": 10,
+            "audio_url": "/audio/clench-10.mp3"
+        },
+        {
+            "name": "Rest",
+            "duration": 2,
+            "audio_url": "/audio/rest-2.mp3"
+        },
+        {
+            "name": "Clench",
+            "duration": 10,
+            "audio_url": "/audio/clench-10.mp3"
+        },
+        {
+            "name": "Rest",
+            "duration": 2,
+            "audio_url": "/audio/rest-2.mp3"
+        },
+        {
+            "name": "Clench",
+            "duration": 10,
+            "audio_url": "/audio/clench-10.mp3"
+        },
+        {
+            "name": "Rest",
+            "duration": 2,
+            "audio_url": "/audio/rest-2.mp3"
+        },
+        {
+            "name": "Clench",
+            "duration": 10,
+            "audio_url": "/audio/clench-10.mp3"
+        },
+        {
+            "name": "Rest",
+            "duration": 2,
+            "audio_url": "/audio/rest-2.mp3"
+        },
+        {
+            "name": "Clench",
+            "duration": 10,
+            "audio_url": "/audio/clench-10.mp3"
+        },
+        {
+            "name": "Squat",
+            "duration": 60,
+            "audio_url": "/audio/squat-60.mp3"
+        },
+        {
+            "name": "Bird dog right",
+            "duration": 30,
+            "audio_url": "/audio/bird-dog-right-30.mp3"
+        },
+        {
+            "name": "Bird dog left",
+            "duration": 30,
+            "audio_url": "/audio/bird-dog-left-30.mp3"
+        },
+        {
+            "name": "Marching",
+            "duration": 60,
+            "audio_url": "/audio/marching-60.mp3"
+        }
+    ]
 }
