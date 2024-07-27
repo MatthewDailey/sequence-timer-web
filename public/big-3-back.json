@@ -1,0 +1,35 @@
+{
+    "name": "Big 3 Back",
+    "sequence": [
+        {
+            "name": "Modified curl up left",
+            "duration": 30,
+            "audio_url": "/audio/modified-curl-up-left-30.mp3"
+        },
+        {
+            "name": "Modified curl up right",
+            "duration": 30,
+            "audio_url": "/audio/modified-curl-up-right-30.mp3"
+        },
+        {
+            "name": "Side plank left",
+            "duration": 30,
+            "audio_url": "/audio/side-plank-left-30.mp3"
+        },
+        {
+            "name": "Side plank right",
+            "duration": 30,
+            "audio_url": "/audio/side-plank-right-30.mp3"
+        },
+        {
+            "name": "Bird dog left",
+            "duration": 30,
+            "audio_url": "/audio/bird-dog-left-30.mp3"
+        },
+        {
+            "name": "Bird dog right",
+            "duration": 30,
+            "audio_url": "/audio/bird-dog-right-30.mp3"
+        }
+    ]
+}
