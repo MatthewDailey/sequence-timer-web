@@ -1,0 +1,30 @@
+{
+    "name": "Sides",
+    "sequence": [
+        {
+            "name": "Plank rotations",
+            "duration": 30,
+            "audio_url": "/audio/plank-rotations-30.mp3"
+        },
+        {
+            "name": "Sidebends",
+            "duration": 60,
+            "audio_url": "/audio/sidebends-60.mp3"
+        },
+        {
+            "name": "Windmill stretch",
+            "duration": 60,
+            "audio_url": "/audio/windmill-stretch-60.mp3"
+        },
+        {
+            "name": "Supine twist right",
+            "duration": 60,
+            "audio_url": "/audio/supine-twist-right-60.mp3"
+        },
+        {
+            "name": "Supine twist left",
+            "duration": 60,
+            "audio_url": "/audio/supine-twist-left-60.mp3"
+        }
+    ]
+}
