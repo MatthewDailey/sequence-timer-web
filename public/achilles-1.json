@@ -1,135 +1,135 @@
 {
-    "name": "Achilles Boot Workout 1",
-    "sequence": [
-        {
-            "name": "Knee pushups",
-            "duration": 60,
-            "audio_url": "/audio/knee-pushups-60.mp3"
-        },
-        {
-            "name": "Back band",
-            "duration": 60,
-            "audio_url": "/audio/back-band-60.mp3"
-        },
-        {
-            "name": "Knee pushups",
-            "duration": 60,
-            "audio_url": "/audio/knee-pushups-60.mp3"
-        },
-        {
-            "name": "Back band",
-            "duration": 60,
-            "audio_url": "/audio/back-band-60.mp3"
-        },
-        {
-            "name": "Bird dog",
-            "duration": 60,
-            "audio_url": "/audio/bird-dog-60.mp3"
-        },
-        {
-            "name": "Boat",
-            "duration": 60,
-            "audio_url": "/audio/boat-60.mp3"
-        },
-        {
-            "name": "Bird dog",
-            "duration": 60,
-            "audio_url": "/audio/bird-dog-60.mp3"
-        },
-        {
-            "name": "Boat",
-            "duration": 60,
-            "audio_url": "/audio/boat-60.mp3"
-        },
-        {
-            "name": "Seated straight leg hold",
-            "duration": 60,
-            "audio_url": "/audio/seated-straight-leg-hold-60.mp3"
-        },
-        {
-            "name": "Hamstring and glute straight leg lift",
-            "duration": 60,
-            "audio_url": "/audio/hamstring-and-glute-straight-leg-lift-60.mp3"
-        },
-        {
-            "name": "Seated straight leg hold",
-            "duration": 60,
-            "audio_url": "/audio/seated-straight-leg-hold-60.mp3"
-        },
-        {
-            "name": "Hamstring and glute straight leg lift",
-            "duration": 60,
-            "audio_url": "/audio/hamstring-and-glute-straight-leg-lift-60.mp3"
-        },
-        {
-            "name": "Knee plank",
-            "duration": 60,
-            "audio_url": "/audio/knee-plank-60.mp3"
-        },
-        {
-            "name": "Get ready to stretch!",
-            "duration": 5,
-            "audio_url": "/audio/get-ready-to-stretch!-5.mp3"
-        },
-        {
-            "name": "Left calf",
-            "duration": 30,
-            "audio_url": "/audio/left-calf-30.mp3"
-        },
-        {
-            "name": "Rest",
-            "duration": 5,
-            "audio_url": "/audio/rest-5.mp3"
-        },
-        {
-            "name": "Left calf",
-            "duration": 30,
-            "audio_url": "/audio/left-calf-30.mp3"
-        },
-        {
-            "name": "Right hamstring",
-            "duration": 30,
-            "audio_url": "/audio/right-hamstring-30.mp3"
-        },
-        {
-            "name": "Left Hamstring",
-            "duration": 30,
-            "audio_url": "/audio/left-hamstring-30.mp3"
-        },
-        {
-            "name": "Right hamstring",
-            "duration": 30,
-            "audio_url": "/audio/right-hamstring-30.mp3"
-        },
-        {
-            "name": "Left Hamstring",
-            "duration": 30,
-            "audio_url": "/audio/left-hamstring-30.mp3"
-        },
-        {
-            "name": "Right quad",
-            "duration": 30,
-            "audio_url": "/audio/right-quad-30.mp3"
-        },
-        {
-            "name": "Left quad",
-            "duration": 30,
-            "audio_url": "/audio/left-quad-30.mp3"
-        },
-        {
-            "name": "Right quad",
-            "duration": 30,
-            "audio_url": "/audio/right-quad-30.mp3"
-        },
-        {
-            "name": "Left quad",
-            "duration": 30,
-            "audio_url": "/audio/left-quad-30.mp3"
-        },
-        {
-            "name": "Happy baby",
-            "duration": 60,
-            "audio_url": "/audio/happy-baby-60.mp3"
-        }
-    ]
+  "name": "Achilles 1",
+  "sequence": [
+    {
+      "name": "Knee pushups",
+      "duration": 60,
+      "audio_url": "/audio/knee-pushups-60.mp3"
+    },
+    {
+      "name": "Back band",
+      "duration": 60,
+      "audio_url": "/audio/back-band-60.mp3"
+    },
+    {
+      "name": "Knee pushups",
+      "duration": 60,
+      "audio_url": "/audio/knee-pushups-60.mp3"
+    },
+    {
+      "name": "Back band",
+      "duration": 60,
+      "audio_url": "/audio/back-band-60.mp3"
+    },
+    {
+      "name": "Bird dog",
+      "duration": 60,
+      "audio_url": "/audio/bird-dog-60.mp3"
+    },
+    {
+      "name": "Boat",
+      "duration": 60,
+      "audio_url": "/audio/boat-60.mp3"
+    },
+    {
+      "name": "Bird dog",
+      "duration": 60,
+      "audio_url": "/audio/bird-dog-60.mp3"
+    },
+    {
+      "name": "Boat",
+      "duration": 60,
+      "audio_url": "/audio/boat-60.mp3"
+    },
+    {
+      "name": "Seated straight leg hold",
+      "duration": 60,
+      "audio_url": "/audio/seated-straight-leg-hold-60.mp3"
+    },
+    {
+      "name": "Hamstring and glute straight leg lift",
+      "duration": 60,
+      "audio_url": "/audio/hamstring-and-glute-straight-leg-lift-60.mp3"
+    },
+    {
+      "name": "Seated straight leg hold",
+      "duration": 60,
+      "audio_url": "/audio/seated-straight-leg-hold-60.mp3"
+    },
+    {
+      "name": "Hamstring and glute straight leg lift",
+      "duration": 60,
+      "audio_url": "/audio/hamstring-and-glute-straight-leg-lift-60.mp3"
+    },
+    {
+      "name": "Knee plank",
+      "duration": 60,
+      "audio_url": "/audio/knee-plank-60.mp3"
+    },
+    {
+      "name": "Get ready to stretch!",
+      "duration": 5,
+      "audio_url": "/audio/get-ready-to-stretch!-5.mp3"
+    },
+    {
+      "name": "Left calf",
+      "duration": 30,
+      "audio_url": "/audio/left-calf-30.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 5,
+      "audio_url": "/audio/rest-5.mp3"
+    },
+    {
+      "name": "Left calf",
+      "duration": 30,
+      "audio_url": "/audio/left-calf-30.mp3"
+    },
+    {
+      "name": "Right hamstring",
+      "duration": 30,
+      "audio_url": "/audio/right-hamstring-30.mp3"
+    },
+    {
+      "name": "Left Hamstring",
+      "duration": 30,
+      "audio_url": "/audio/left-hamstring-30.mp3"
+    },
+    {
+      "name": "Right hamstring",
+      "duration": 30,
+      "audio_url": "/audio/right-hamstring-30.mp3"
+    },
+    {
+      "name": "Left Hamstring",
+      "duration": 30,
+      "audio_url": "/audio/left-hamstring-30.mp3"
+    },
+    {
+      "name": "Right quad",
+      "duration": 30,
+      "audio_url": "/audio/right-quad-30.mp3"
+    },
+    {
+      "name": "Left quad",
+      "duration": 30,
+      "audio_url": "/audio/left-quad-30.mp3"
+    },
+    {
+      "name": "Right quad",
+      "duration": 30,
+      "audio_url": "/audio/right-quad-30.mp3"
+    },
+    {
+      "name": "Left quad",
+      "duration": 30,
+      "audio_url": "/audio/left-quad-30.mp3"
+    },
+    {
+      "name": "Happy baby",
+      "duration": 60,
+      "audio_url": "/audio/happy-baby-60.mp3"
+    }
+  ]
 }
