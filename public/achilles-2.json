@@ -1,0 +1,60 @@
+{
+    "name": "Achilles Boot Workout 2",
+    "sequence": [
+        {
+            "name": "Cat cow",
+            "duration": 60,
+            "audio_url": "/audio/cat-cow-60.mp3"
+        },
+        {
+            "name": "Kneeling alternating reaching",
+            "duration": 60,
+            "audio_url": "/audio/kneeling-alternating-reaching-60.mp3"
+        },
+        {
+            "name": "Right leg straightening",
+            "duration": 60,
+            "audio_url": "/audio/right-leg-straightening-60.mp3"
+        },
+        {
+            "name": "Bicycles",
+            "duration": 60,
+            "audio_url": "/audio/bicycles-60.mp3"
+        },
+        {
+            "name": "Right leg lift",
+            "duration": 60,
+            "audio_url": "/audio/right-leg-lift-60.mp3"
+        },
+        {
+            "name": "Bird dog",
+            "duration": 60,
+            "audio_url": "/audio/bird-dog-60.mp3"
+        },
+        {
+            "name": "Right leg straightening",
+            "duration": 60,
+            "audio_url": "/audio/right-leg-straightening-60.mp3"
+        },
+        {
+            "name": "Bicycles",
+            "duration": 60,
+            "audio_url": "/audio/bicycles-60.mp3"
+        },
+        {
+            "name": "Right leg lift",
+            "duration": 60,
+            "audio_url": "/audio/right-leg-lift-60.mp3"
+        },
+        {
+            "name": "Bird dog",
+            "duration": 60,
+            "audio_url": "/audio/bird-dog-60.mp3"
+        },
+        {
+            "name": "Kneeling alternating reaching",
+            "duration": 60,
+            "audio_url": "/audio/kneeling-alternating-reaching-60.mp3"
+        }
+    ]
+}
