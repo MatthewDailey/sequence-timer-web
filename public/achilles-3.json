@@ -1,0 +1,40 @@
+{
+    "name": "Achilles 3",
+    "sequence": [
+        {
+            "name": "Cat cow",
+            "duration": 60,
+            "audio_url": "/audio/cat-cow-60.mp3"
+        },
+        {
+            "name": "Kneeling alternating reaching",
+            "duration": 60,
+            "audio_url": "/audio/kneeling-alternating-reaching-60.mp3"
+        },
+        {
+            "name": "Resistance band back",
+            "duration": 60,
+            "audio_url": "/audio/resistance-band-back-60.mp3"
+        },
+        {
+            "name": "Bird dog",
+            "duration": 60,
+            "audio_url": "/audio/bird-dog-60.mp3"
+        },
+        {
+            "name": "Resistance band back",
+            "duration": 60,
+            "audio_url": "/audio/resistance-band-back-60.mp3"
+        },
+        {
+            "name": "Kneeling alternating reaching",
+            "duration": 60,
+            "audio_url": "/audio/kneeling-alternating-reaching-60.mp3"
+        },
+        {
+            "name": "Cat cow",
+            "duration": 60,
+            "audio_url": "/audio/cat-cow-60.mp3"
+        }
+    ]
+}
