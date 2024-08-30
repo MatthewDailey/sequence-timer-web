@@ -49,7 +49,7 @@ def main(args):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Run dnd, potentially chained")
+    parser = argparse.ArgumentParser(description="Generate audio for sequence.")
     parser.add_argument(
         "-s",
         "--sequence-file",

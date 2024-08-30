@@ -1,0 +1,25 @@
+{
+    "name": "Achilles ROM 1",
+    "sequence": [
+        {
+            "name": "Plantarflex",
+            "duration": 60,
+            "audio_url": "/audio/plantarflex-60.mp3"
+        },
+        {
+            "name": "Left right motion",
+            "duration": 60,
+            "audio_url": "/audio/left-right-motion-60.mp3"
+        },
+        {
+            "name": "Toe curl and extend",
+            "duration": 60,
+            "audio_url": "/audio/toe-curl-and-extend-60.mp3"
+        },
+        {
+            "name": "Plantarflex against towel",
+            "duration": 120,
+            "audio_url": "/audio/plantarflex-against-towel-120.mp3"
+        }
+    ]
+}
