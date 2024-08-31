@@ -1,120 +1,125 @@
 {
-    "name": "Achilles Core 1",
-    "sequence": [
-        {
-            "name": "Cat cow",
-            "duration": 60,
-            "audio_url": "/audio/cat-cow-60.mp3"
-        },
-        {
-            "name": "Kneeling alternating reaching",
-            "duration": 60,
-            "audio_url": "/audio/kneeling-alternating-reaching-60.mp3"
-        },
-        {
-            "name": "Side plank leg raise right",
-            "duration": 60,
-            "audio_url": "/audio/side-plank-leg-raise-right-60.mp3"
-        },
-        {
-            "name": "Side plank leg raise left",
-            "duration": 60,
-            "audio_url": "/audio/side-plank-leg-raise-left-60.mp3"
-        },
-        {
-            "name": "Deadbug",
-            "duration": 60,
-            "audio_url": "/audio/deadbug-60.mp3"
-        },
-        {
-            "name": "Superman",
-            "duration": 60,
-            "audio_url": "/audio/superman-60.mp3"
-        },
-        {
-            "name": "Russian twist",
-            "duration": 60,
-            "audio_url": "/audio/russian-twist-60.mp3"
-        },
-        {
-            "name": "Side plank leg raise right",
-            "duration": 60,
-            "audio_url": "/audio/side-plank-leg-raise-right-60.mp3"
-        },
-        {
-            "name": "Side plank leg raise left",
-            "duration": 60,
-            "audio_url": "/audio/side-plank-leg-raise-left-60.mp3"
-        },
-        {
-            "name": "Deadbug",
-            "duration": 60,
-            "audio_url": "/audio/deadbug-60.mp3"
-        },
-        {
-            "name": "Superman",
-            "duration": 60,
-            "audio_url": "/audio/superman-60.mp3"
-        },
-        {
-            "name": "Russian twist",
-            "duration": 60,
-            "audio_url": "/audio/russian-twist-60.mp3"
-        },
-        {
-            "name": "Side plank leg raise right",
-            "duration": 60,
-            "audio_url": "/audio/side-plank-leg-raise-right-60.mp3"
-        },
-        {
-            "name": "Side plank leg raise left",
-            "duration": 60,
-            "audio_url": "/audio/side-plank-leg-raise-left-60.mp3"
-        },
-        {
-            "name": "Deadbug",
-            "duration": 60,
-            "audio_url": "/audio/deadbug-60.mp3"
-        },
-        {
-            "name": "Superman",
-            "duration": 60,
-            "audio_url": "/audio/superman-60.mp3"
-        },
-        {
-            "name": "Russian twist",
-            "duration": 60,
-            "audio_url": "/audio/russian-twist-60.mp3"
-        },
-        {
-            "name": "Side plank leg raise right",
-            "duration": 60,
-            "audio_url": "/audio/side-plank-leg-raise-right-60.mp3"
-        },
-        {
-            "name": "Side plank leg raise left",
-            "duration": 60,
-            "audio_url": "/audio/side-plank-leg-raise-left-60.mp3"
-        },
-        {
-            "name": "Deadbug",
-            "duration": 60,
-            "audio_url": "/audio/deadbug-60.mp3"
-        },
-        {
-            "name": "Superman",
-            "duration": 60,
-            "audio_url": "/audio/superman-60.mp3"
-        },
-        {
-            "name": "Russian twist",
-            "duration": 60,
-            "audio_url": "/audio/russian-twist-60.mp3"
-        },
-        {
-            "name": "Cat cow",
-            "duration": 60,
-            "audio_url": "/audio/cat-cow-60.mp3"
-        }
-    ]
+  "name": "Achilles Core 1",
+  "sequence": [
+    {
+      "name": "Cat cow",
+      "duration": 60,
+      "audio_url": "/audio/cat-cow-60.mp3"
+    },
+    {
+      "name": "Kneeling alternating reaching",
+      "duration": 60,
+      "audio_url": "/audio/kneeling-alternating-reaching-60.mp3"
+    },
+    {
+      "name": "Resistance band back",
+      "duration": 60,
+      "audio_url": "/audio/resistance-band-back-60.mp3"
+    },
+    {
+      "name": "Side plank leg raise right",
+      "duration": 60,
+      "audio_url": "/audio/side-plank-leg-raise-right-60.mp3"
+    },
+    {
+      "name": "Side plank leg raise left",
+      "duration": 60,
+      "audio_url": "/audio/side-plank-leg-raise-left-60.mp3"
+    },
+    {
+      "name": "Deadbug",
+      "duration": 60,
+      "audio_url": "/audio/deadbug-60.mp3"
+    },
+    {
+      "name": "Superman",
+      "duration": 60,
+      "audio_url": "/audio/superman-60.mp3"
+    },
+    {
+      "name": "Russian twist",
+      "duration": 60,
+      "audio_url": "/audio/russian-twist-60.mp3"
+    },
+    {
+      "name": "Side plank leg raise right",
+      "duration": 60,
+      "audio_url": "/audio/side-plank-leg-raise-right-60.mp3"
+    },
+    {
+      "name": "Side plank leg raise left",
+      "duration": 60,
+      "audio_url": "/audio/side-plank-leg-raise-left-60.mp3"
+    },
+    {
+      "name": "Deadbug",
+      "duration": 60,
+      "audio_url": "/audio/deadbug-60.mp3"
+    },
+    {
+      "name": "Superman",
+      "duration": 60,
+      "audio_url": "/audio/superman-60.mp3"
+    },
+    {
+      "name": "Russian twist",
+      "duration": 60,
+      "audio_url": "/audio/russian-twist-60.mp3"
+    },
+    {
+      "name": "Side plank leg raise right",
+      "duration": 60,
+      "audio_url": "/audio/side-plank-leg-raise-right-60.mp3"
+    },
+    {
+      "name": "Side plank leg raise left",
+      "duration": 60,
+      "audio_url": "/audio/side-plank-leg-raise-left-60.mp3"
+    },
+    {
+      "name": "Deadbug",
+      "duration": 60,
+      "audio_url": "/audio/deadbug-60.mp3"
+    },
+    {
+      "name": "Superman",
+      "duration": 60,
+      "audio_url": "/audio/superman-60.mp3"
+    },
+    {
+      "name": "Russian twist",
+      "duration": 60,
+      "audio_url": "/audio/russian-twist-60.mp3"
+    },
+    {
+      "name": "Side plank leg raise right",
+      "duration": 60,
+      "audio_url": "/audio/side-plank-leg-raise-right-60.mp3"
+    },
+    {
+      "name": "Side plank leg raise left",
+      "duration": 60,
+      "audio_url": "/audio/side-plank-leg-raise-left-60.mp3"
+    },
+    {
+      "name": "Deadbug",
+      "duration": 60,
+      "audio_url": "/audio/deadbug-60.mp3"
+    },
+    {
+      "name": "Superman",
+      "duration": 60,
+      "audio_url": "/audio/superman-60.mp3"
+    },
+    {
+      "name": "Russian twist",
+      "duration": 60,
+      "audio_url": "/audio/russian-twist-60.mp3"
+    },
+    {
+      "name": "Cat cow",
+      "duration": 60,
+      "audio_url": "/audio/cat-cow-60.mp3"
+    }
+  ]
 }
