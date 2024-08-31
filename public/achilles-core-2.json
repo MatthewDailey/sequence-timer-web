@@ -1,120 +1,120 @@
 {
-    "name": "Achilles 3",
-    "sequence": [
-        {
-            "name": "Cat cow",
-            "duration": 60,
-            "audio_url": "/audio/cat-cow-60.mp3"
-        },
-        {
-            "name": "Kneeling alternating reaching",
-            "duration": 60,
-            "audio_url": "/audio/kneeling-alternating-reaching-60.mp3"
-        },
-        {
-            "name": "Sideplank clamshell right",
-            "duration": 60,
-            "audio_url": "/audio/sideplank-clamshell-right-60.mp3"
-        },
-        {
-            "name": "Sideplank clamshell left",
-            "duration": 60,
-            "audio_url": "/audio/sideplank-clamshell-left-60.mp3"
-        },
-        {
-            "name": "V-ups",
-            "duration": 60,
-            "audio_url": "/audio/v-ups-60.mp3"
-        },
-        {
-            "name": "Froggy kicks",
-            "duration": 60,
-            "audio_url": "/audio/froggy-kicks-60.mp3"
-        },
-        {
-            "name": "Bicycles",
-            "duration": 60,
-            "audio_url": "/audio/bicycles-60.mp3"
-        },
-        {
-            "name": "Sideplank clamshell right",
-            "duration": 60,
-            "audio_url": "/audio/sideplank-clamshell-right-60.mp3"
-        },
-        {
-            "name": "Sideplank clamshell left",
-            "duration": 60,
-            "audio_url": "/audio/sideplank-clamshell-left-60.mp3"
-        },
-        {
-            "name": "V-ups",
-            "duration": 60,
-            "audio_url": "/audio/v-ups-60.mp3"
-        },
-        {
-            "name": "Froggy kicks",
-            "duration": 60,
-            "audio_url": "/audio/froggy-kicks-60.mp3"
-        },
-        {
-            "name": "Bicycles",
-            "duration": 60,
-            "audio_url": "/audio/bicycles-60.mp3"
-        },
-        {
-            "name": "Sideplank clamshell right",
-            "duration": 60,
-            "audio_url": "/audio/sideplank-clamshell-right-60.mp3"
-        },
-        {
-            "name": "Sideplank clamshell left",
-            "duration": 60,
-            "audio_url": "/audio/sideplank-clamshell-left-60.mp3"
-        },
-        {
-            "name": "V-ups",
-            "duration": 60,
-            "audio_url": "/audio/v-ups-60.mp3"
-        },
-        {
-            "name": "Froggy kicks",
-            "duration": 60,
-            "audio_url": "/audio/froggy-kicks-60.mp3"
-        },
-        {
-            "name": "Bicycles",
-            "duration": 60,
-            "audio_url": "/audio/bicycles-60.mp3"
-        },
-        {
-            "name": "Sideplank clamshell right",
-            "duration": 60,
-            "audio_url": "/audio/sideplank-clamshell-right-60.mp3"
-        },
-        {
-            "name": "Sideplank clamshell left",
-            "duration": 60,
-            "audio_url": "/audio/sideplank-clamshell-left-60.mp3"
-        },
-        {
-            "name": "V-ups",
-            "duration": 60,
-            "audio_url": "/audio/v-ups-60.mp3"
-        },
-        {
-            "name": "Froggy kicks",
-            "duration": 60,
-            "audio_url": "/audio/froggy-kicks-60.mp3"
-        },
-        {
-            "name": "Bicycles",
-            "duration": 60,
-            "audio_url": "/audio/bicycles-60.mp3"
-        },
-        {
-            "name": "Cat cow",
-            "duration": 60,
-            "audio_url": "/audio/cat-cow-60.mp3"
-        }
-    ]
+  "name": "Achilles Core 2",
+  "sequence": [
+    {
+      "name": "Cat cow",
+      "duration": 60,
+      "audio_url": "/audio/cat-cow-60.mp3"
+    },
+    {
+      "name": "Kneeling alternating reaching",
+      "duration": 60,
+      "audio_url": "/audio/kneeling-alternating-reaching-60.mp3"
+    },
+    {
+      "name": "Sideplank clamshell right",
+      "duration": 60,
+      "audio_url": "/audio/sideplank-clamshell-right-60.mp3"
+    },
+    {
+      "name": "Sideplank clamshell left",
+      "duration": 60,
+      "audio_url": "/audio/sideplank-clamshell-left-60.mp3"
+    },
+    {
+      "name": "V-ups",
+      "duration": 60,
+      "audio_url": "/audio/v-ups-60.mp3"
+    },
+    {
+      "name": "Froggy kicks",
+      "duration": 60,
+      "audio_url": "/audio/froggy-kicks-60.mp3"
+    },
+    {
+      "name": "Bicycles",
+      "duration": 60,
+      "audio_url": "/audio/bicycles-60.mp3"
+    },
+    {
+      "name": "Sideplank clamshell right",
+      "duration": 60,
+      "audio_url": "/audio/sideplank-clamshell-right-60.mp3"
+    },
+    {
+      "name": "Sideplank clamshell left",
+      "duration": 60,
+      "audio_url": "/audio/sideplank-clamshell-left-60.mp3"
+    },
+    {
+      "name": "V-ups",
+      "duration": 60,
+      "audio_url": "/audio/v-ups-60.mp3"
+    },
+    {
+      "name": "Froggy kicks",
+      "duration": 60,
+      "audio_url": "/audio/froggy-kicks-60.mp3"
+    },
+    {
+      "name": "Bicycles",
+      "duration": 60,
+      "audio_url": "/audio/bicycles-60.mp3"
+    },
+    {
+      "name": "Sideplank clamshell right",
+      "duration": 60,
+      "audio_url": "/audio/sideplank-clamshell-right-60.mp3"
+    },
+    {
+      "name": "Sideplank clamshell left",
+      "duration": 60,
+      "audio_url": "/audio/sideplank-clamshell-left-60.mp3"
+    },
+    {
+      "name": "V-ups",
+      "duration": 60,
+      "audio_url": "/audio/v-ups-60.mp3"
+    },
+    {
+      "name": "Froggy kicks",
+      "duration": 60,
+      "audio_url": "/audio/froggy-kicks-60.mp3"
+    },
+    {
+      "name": "Bicycles",
+      "duration": 60,
+      "audio_url": "/audio/bicycles-60.mp3"
+    },
+    {
+      "name": "Sideplank clamshell right",
+      "duration": 60,
+      "audio_url": "/audio/sideplank-clamshell-right-60.mp3"
+    },
+    {
+      "name": "Sideplank clamshell left",
+      "duration": 60,
+      "audio_url": "/audio/sideplank-clamshell-left-60.mp3"
+    },
+    {
+      "name": "V-ups",
+      "duration": 60,
+      "audio_url": "/audio/v-ups-60.mp3"
+    },
+    {
+      "name": "Froggy kicks",
+      "duration": 60,
+      "audio_url": "/audio/froggy-kicks-60.mp3"
+    },
+    {
+      "name": "Bicycles",
+      "duration": 60,
+      "audio_url": "/audio/bicycles-60.mp3"
+    },
+    {
+      "name": "Cat cow",
+      "duration": 60,
+      "audio_url": "/audio/cat-cow-60.mp3"
+    }
+  ]
 }

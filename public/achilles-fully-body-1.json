@@ -1,0 +1,105 @@
+{
+    "name": "Achilles 3",
+    "sequence": [
+        {
+            "name": "Cat cow",
+            "duration": 60,
+            "audio_url": "/audio/cat-cow-60.mp3"
+        },
+        {
+            "name": "Kneeling alternating reaching",
+            "duration": 60,
+            "audio_url": "/audio/kneeling-alternating-reaching-60.mp3"
+        },
+        {
+            "name": "Resistance band back",
+            "duration": 60,
+            "audio_url": "/audio/resistance-band-back-60.mp3"
+        },
+        {
+            "name": "Flutter kicks on back",
+            "duration": 60,
+            "audio_url": "/audio/flutter-kicks-on-back-60.mp3"
+        },
+        {
+            "name": "Rows",
+            "duration": 60,
+            "audio_url": "/audio/rows-60.mp3"
+        },
+        {
+            "name": "Flutter kicks on front",
+            "duration": 60,
+            "audio_url": "/audio/flutter-kicks-on-front-60.mp3"
+        },
+        {
+            "name": "YTLs",
+            "duration": 60,
+            "audio_url": "/audio/ytls-60.mp3"
+        },
+        {
+            "name": "Flutter kicks on back",
+            "duration": 60,
+            "audio_url": "/audio/flutter-kicks-on-back-60.mp3"
+        },
+        {
+            "name": "Rows",
+            "duration": 60,
+            "audio_url": "/audio/rows-60.mp3"
+        },
+        {
+            "name": "Flutter kicks on front",
+            "duration": 60,
+            "audio_url": "/audio/flutter-kicks-on-front-60.mp3"
+        },
+        {
+            "name": "YTLs",
+            "duration": 60,
+            "audio_url": "/audio/ytls-60.mp3"
+        },
+        {
+            "name": "Flutter kicks on back",
+            "duration": 60,
+            "audio_url": "/audio/flutter-kicks-on-back-60.mp3"
+        },
+        {
+            "name": "Rows",
+            "duration": 60,
+            "audio_url": "/audio/rows-60.mp3"
+        },
+        {
+            "name": "Flutter kicks on front",
+            "duration": 60,
+            "audio_url": "/audio/flutter-kicks-on-front-60.mp3"
+        },
+        {
+            "name": "YTLs",
+            "duration": 60,
+            "audio_url": "/audio/ytls-60.mp3"
+        },
+        {
+            "name": "Flutter kicks on back",
+            "duration": 60,
+            "audio_url": "/audio/flutter-kicks-on-back-60.mp3"
+        },
+        {
+            "name": "Rows",
+            "duration": 60,
+            "audio_url": "/audio/rows-60.mp3"
+        },
+        {
+            "name": "Flutter kicks on front",
+            "duration": 60,
+            "audio_url": "/audio/flutter-kicks-on-front-60.mp3"
+        },
+        {
+            "name": "YTLs",
+            "duration": 60,
+            "audio_url": "/audio/ytls-60.mp3"
+        },
+        {
+            "name": "Cat cow",
+            "duration": 60,
+            "audio_url": "/audio/cat-cow-60.mp3"
+        }
+    ]
+}
