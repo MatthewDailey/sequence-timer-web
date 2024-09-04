@@ -1,0 +1,65 @@
+{
+    "name": "Achilles ROM 2 (Justin)",
+    "sequence": [
+        {
+            "name": "Seated Ankle Plantarflexion with Resistance",
+            "duration": 45,
+            "audio_url": "/audio/seated-ankle-plantarflexion-with-resistance-45.mp3"
+        },
+        {
+            "name": "Seated Ankle Eversion with Resistance",
+            "duration": 45,
+            "audio_url": "/audio/seated-ankle-eversion-with-resistance-45.mp3"
+        },
+        {
+            "name": "Ankle Inversion with Resistance",
+            "duration": 45,
+            "audio_url": "/audio/ankle-inversion-with-resistance-45.mp3"
+        },
+        {
+            "name": "Seated Figure 4 Ankle Inversion with Resistance",
+            "duration": 45,
+            "audio_url": "/audio/seated-figure-4-ankle-inversion-with-resistance-45.mp3"
+        },
+        {
+            "name": "Towel scrunch",
+            "duration": 45,
+            "audio_url": "/audio/towel-scrunch-45.mp3"
+        },
+        {
+            "name": "Seated Ankle Plantarflexion with Resistance",
+            "duration": 45,
+            "audio_url": "/audio/seated-ankle-plantarflexion-with-resistance-45.mp3"
+        },
+        {
+            "name": "Seated Ankle Eversion with Resistance",
+            "duration": 45,
+            "audio_url": "/audio/seated-ankle-eversion-with-resistance-45.mp3"
+        },
+        {
+            "name": "Ankle Inversion with Resistance",
+            "duration": 45,
+            "audio_url": "/audio/ankle-inversion-with-resistance-45.mp3"
+        },
+        {
+            "name": "Seated Figure 4 Ankle Inversion with Resistance",
+            "duration": 45,
+            "audio_url": "/audio/seated-figure-4-ankle-inversion-with-resistance-45.mp3"
+        },
+        {
+            "name": "Towel scrunch",
+            "duration": 45,
+            "audio_url": "/audio/towel-scrunch-45.mp3"
+        },
+        {
+            "name": "Seated arch lift",
+            "duration": 45,
+            "audio_url": "/audio/seated-arch-lift-45.mp3"
+        },
+        {
+            "name": "Seated Lesser Toes Extension",
+            "duration": 45,
+            "audio_url": "/audio/seated-lesser-toes-extension-45.mp3"
+        }
+    ]
+}
