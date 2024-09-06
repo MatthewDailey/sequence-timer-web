@@ -35,6 +35,11 @@
             "name": "Seated Lesser Toes Extension",
             "duration": 30,
             "audio_url": "/audio/seated-lesser-toes-extension-45.mp3"
+        },
+        {
+            "name": "Great Toe Flexion",
+            "duration": 30,
+            "audio_url": "/audio/great-toe-flexion-30.mp3"
         }
     ]
 }
