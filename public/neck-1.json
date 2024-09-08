@@ -1,0 +1,35 @@
+{
+    "name": "Neck 1",
+    "sequence": [
+        {
+            "name": "Stretch left",
+            "duration": 30,
+            "audio_url": "/audio/stretch-left-30.mp3"
+        },
+        {
+            "name": "Stretch right",
+            "duration": 30,
+            "audio_url": "/audio/stretch-right-30.mp3"
+        },
+        {
+            "name": "Roll shoulders forward",
+            "duration": 30,
+            "audio_url": "/audio/roll-shoulders-forward-30.mp3"
+        },
+        {
+            "name": "Roll shoulders backwards",
+            "duration": 30,
+            "audio_url": "/audio/roll-shoulders-backwards-30.mp3"
+        },
+        {
+            "name": "Nod forward and back",
+            "duration": 30,
+            "audio_url": "/audio/nod-forward-and-back-30.mp3"
+        },
+        {
+            "name": "Roll left and right",
+            "duration": 60,
+            "audio_url": "/audio/roll-left-and-right-60.mp3"
+        }
+    ]
+}
