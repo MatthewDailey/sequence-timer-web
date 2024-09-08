@@ -28,8 +28,8 @@
         },
         {
             "name": "Roll left and right",
-            "duration": 60,
-            "audio_url": "/audio/roll-left-and-right-60.mp3"
+            "duration": 30,
+            "audio_url": "/audio/roll-left-and-right-30.mp3"
         }
     ]
 }
