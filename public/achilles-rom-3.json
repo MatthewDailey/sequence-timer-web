@@ -13,8 +13,8 @@
         },
         {
             "name": "Ankle Inversion with Resistance",
-            "duration": 30,
-            "audio_url": "/audio/ankle-inversion-with-resistance-30.mp3"
+            "duration": 45,
+            "audio_url": "/audio/ankle-inversion-with-resistance-45.mp3"
         },
         {
             "name": "Seated Figure 4 Ankle Inversion with Resistance",
@@ -40,6 +40,16 @@
             "name": "Great Toe Flexion",
             "duration": 30,
             "audio_url": "/audio/great-toe-flexion-30.mp3"
+        },
+        {
+            "name": "Dorsiflexion with resistance",
+            "duration": 45,
+            "audio_url": "/audio/dorsiflexion-with-resistance-45.mp3"
+        },
+        {
+            "name": "Seated Both Ankle Eversion with Resistance",
+            "duration": 30,
+            "audio_url": "/audio/seated-both-ankle-eversion-with-resistance-30.mp3"
         }
     ]
 }
