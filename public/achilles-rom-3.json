@@ -50,6 +50,11 @@
             "name": "Seated Both Ankle Eversion with Resistance",
             "duration": 30,
             "audio_url": "/audio/seated-both-ankle-eversion-with-resistance-30.mp3"
+        },
+        {
+            "name": "Heel toe roll, no resistance",
+            "duration": 30,
+            "audio_url": "/audio/heel-toe-roll,-no-resistance-30.mp3"
         }
     ]
 }
