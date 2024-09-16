@@ -34,7 +34,7 @@
         {
             "name": "Seated Lesser Toes Extension",
             "duration": 30,
-            "audio_url": "/audio/seated-lesser-toes-extension-45.mp3"
+            "audio_url": "/audio/seated-lesser-toes-extension-30.mp3"
         },
         {
             "name": "Great Toe Flexion",
@@ -50,6 +50,16 @@
             "name": "Seated Both Ankle Eversion with Resistance",
             "duration": 30,
             "audio_url": "/audio/seated-both-ankle-eversion-with-resistance-30.mp3"
+        },
+        {
+            "name": "Seated nuetral calf raise",
+            "duration": 45,
+            "audio_url": "/audio/seated-nuetral-calf-raise-45.mp3"
+        },
+        {
+            "name": "Seated nuetral dorsiflexion",
+            "duration": 45,
+            "audio_url": "/audio/seated-nuetral-dorsiflexion-45.mp3"
         },
         {
             "name": "Heel toe roll, no resistance",
