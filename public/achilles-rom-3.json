@@ -24,12 +24,12 @@
         {
             "name": "Towel scrunch",
             "duration": 30,
-            "audio_url": "/audio/towel-scrunch-45.mp3"
+            "audio_url": "/audio/towel-scrunch-30.mp3"
         },
         {
             "name": "Seated arch lift",
             "duration": 30,
-            "audio_url": "/audio/seated-arch-lift-45.mp3"
+            "audio_url": "/audio/seated-arch-lift-30.mp3"
         },
         {
             "name": "Seated Lesser Toes Extension",
@@ -62,9 +62,14 @@
             "audio_url": "/audio/seated-nuetral-dorsiflexion-45.mp3"
         },
         {
-            "name": "Heel toe roll, no resistance",
-            "duration": 30,
-            "audio_url": "/audio/heel-toe-roll,-no-resistance-30.mp3"
+            "name": "Stand right-foot in front",
+            "duration": 60,
+            "audio_url": "/audio/stand-right-foot-in-front-60.mp3"
+        },
+        {
+            "name": "Stand feet together",
+            "duration": 60,
+            "audio_url": "/audio/stand-feet-together-60.mp3"
         }
     ]
 }
