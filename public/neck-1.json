@@ -12,19 +12,9 @@
             "audio_url": "/audio/stretch-right-30.mp3"
         },
         {
-            "name": "Roll shoulders forward",
-            "duration": 30,
-            "audio_url": "/audio/roll-shoulders-forward-30.mp3"
-        },
-        {
-            "name": "Roll shoulders backwards",
-            "duration": 30,
-            "audio_url": "/audio/roll-shoulders-backwards-30.mp3"
-        },
-        {
-            "name": "Nod forward and back",
-            "duration": 30,
-            "audio_url": "/audio/nod-forward-and-back-30.mp3"
+            "name": "Shrug up, squeeze back, roll back",
+            "duration": 60,
+            "audio_url": "/audio/shrug-up,-squeeze-back,-roll-back-60.mp3"
         },
         {
             "name": "Roll left and right",
