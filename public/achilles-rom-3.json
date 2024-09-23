@@ -44,7 +44,7 @@
         {
             "name": "Dorsiflexion with resistance",
             "duration": 75,
-            "audio_url": "/audio/dorsiflexion-with-resistance-45.mp3"
+            "audio_url": "/audio/dorsiflexion-with-resistance-75.mp3"
         },
         {
             "name": "Seated Both Ankle Eversion with Resistance",
@@ -55,11 +55,6 @@
             "name": "Seated nuetral calf raise",
             "duration": 45,
             "audio_url": "/audio/seated-nuetral-calf-raise-45.mp3"
-        },
-        {
-            "name": "Seated nuetral dorsiflexion",
-            "duration": 45,
-            "audio_url": "/audio/seated-nuetral-dorsiflexion-45.mp3"
         },
         {
             "name": "Stand left-foot in front",
