@@ -244,10 +244,10 @@
       const prevExercise = exerciseSequence.sequence[index - 1];
       const nextExercise = exerciseSequence.sequence[index + 1];
 
-      document.getElementById('previousExercise').textContent = prevExercise ? prevExercise.name : '';
-      document.getElementById('currentExercise').textContent = currentExercise.name;
       document.getElementById('timer').textContent = currentExercise.duration;
       document.getElementById('nextExercise').textContent = nextExercise ? nextExercise.name : '';
+      document.getElementById('previousExercise').textContent = prevExercise ? prevExercise.name : '';
+      document.getElementById('currentExercise').textContent = currentExercise.name;
 
       let audio = new Audio(currentExercise.audio_url);
       audio.play();

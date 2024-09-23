@@ -21,10 +21,6 @@ OUTPUT_DIRECTORY = "public/audio"
 
 
 def main(args):
-    # 1. read sequence json file
-    # 2. for each item in sequence, generate audio and save to output directory if not already there
-    # 3. update sequence json file with audio path
-    # 4. save sequence json file
 
     with open(args.sequence_file) as f:
         sequence = json.load(f)
