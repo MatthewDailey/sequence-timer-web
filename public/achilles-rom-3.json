@@ -59,7 +59,7 @@
         {
             "name": "Stand left-foot in front",
             "duration": 60,
-            "audio_url": "/audio/stand-right-foot-in-front-60.mp3"
+            "audio_url": "/audio/stand-left-foot-in-front-60.mp3"
         },
         {
             "name": "Stand feet together",
@@ -80,6 +80,11 @@
             "name": "PNF Dorsiflexion inside to out",
             "duration": 60,
             "audio_url": "/audio/pnf-dorsiflexion-inside-to-out-60.mp3"
+        },
+        {
+            "name": "Alternating heel raise",
+            "duration": 60,
+            "audio_url": "/audio/alternating-heel-raise-60.mp3"
         }
     ]
 }
