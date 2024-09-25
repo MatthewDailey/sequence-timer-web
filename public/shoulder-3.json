@@ -1,0 +1,30 @@
+{
+    "name": "Shoulder 3",
+    "sequence": [
+        {
+            "name": "Straight arm lat pull",
+            "duration": 60,
+            "audio_url": "/audio/straight-arm-lat-pull-60.mp3"
+        },
+        {
+            "name": "Alternating arm lat pull",
+            "duration": 60,
+            "audio_url": "/audio/alternating-arm-lat-pull-60.mp3"
+        },
+        {
+            "name": "Back fly",
+            "duration": 60,
+            "audio_url": "/audio/back-fly-60.mp3"
+        },
+        {
+            "name": "Back pull",
+            "duration": 60,
+            "audio_url": "/audio/back-pull-60.mp3"
+        },
+        {
+            "name": "Y trap pulls",
+            "duration": 60,
+            "audio_url": "/audio/y-trap-pulls-60.mp3"
+        }
+    ]
+}
