@@ -1,0 +1,30 @@
+{
+    "name": "Right Quad 1",
+    "sequence": [
+        {
+            "name": "Straight leg raises",
+            "duration": 60,
+            "audio_url": "/audio/straight-leg-raises-60.mp3"
+        },
+        {
+            "name": "Bridge",
+            "duration": 60,
+            "audio_url": "/audio/bridge-60.mp3"
+        },
+        {
+            "name": "Straight leg raises",
+            "duration": 60,
+            "audio_url": "/audio/straight-leg-raises-60.mp3"
+        },
+        {
+            "name": "Bridge",
+            "duration": 60,
+            "audio_url": "/audio/bridge-60.mp3"
+        },
+        {
+            "name": "Straight leg raises",
+            "duration": 60,
+            "audio_url": "/audio/straight-leg-raises-60.mp3"
+        }
+    ]
+}
