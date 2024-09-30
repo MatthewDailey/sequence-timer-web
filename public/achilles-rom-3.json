@@ -55,6 +55,11 @@
             "name": "Step up",
             "duration": 60,
             "audio_url": "/audio/step-up-60.mp3"
+        },
+        {
+            "name": "Lateral Step up",
+            "duration": 60,
+            "audio_url": "/audio/lateral-step-up-60.mp3"
         }
     ]
 }
