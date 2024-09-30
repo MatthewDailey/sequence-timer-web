@@ -1,90 +1,59 @@
 {
-    "name": "Achilles ROM 3 (Justin)",
-    "sequence": [
-        {
-            "name": "Seated Ankle Plantarflexion with Resistance",
-            "duration": 60,
-            "audio_url": "/audio/seated-ankle-plantarflexion-with-resistance-60.mp3"
-        },
-        {
-            "name": "Seated Ankle Eversion with Resistance",
-            "duration": 30,
-            "audio_url": "/audio/seated-ankle-eversion-with-resistance-30.mp3"
-        },
-        {
-            "name": "Ankle Inversion with Resistance",
-            "duration": 45,
-            "audio_url": "/audio/ankle-inversion-with-resistance-45.mp3"
-        },
-        {
-            "name": "Seated Figure 4 Ankle Inversion with Resistance",
-            "duration": 30,
-            "audio_url": "/audio/seated-figure-4-ankle-inversion-with-resistance-30.mp3"
-        },
-        {
-            "name": "Towel scrunch",
-            "duration": 30,
-            "audio_url": "/audio/towel-scrunch-30.mp3"
-        },
-        {
-            "name": "Seated arch lift",
-            "duration": 30,
-            "audio_url": "/audio/seated-arch-lift-30.mp3"
-        },
-        {
-            "name": "Seated Lesser Toes Extension",
-            "duration": 30,
-            "audio_url": "/audio/seated-lesser-toes-extension-30.mp3"
-        },
-        {
-            "name": "Great Toe Flexion",
-            "duration": 30,
-            "audio_url": "/audio/great-toe-flexion-30.mp3"
-        },
-        {
-            "name": "Dorsiflexion with resistance",
-            "duration": 75,
-            "audio_url": "/audio/dorsiflexion-with-resistance-75.mp3"
-        },
-        {
-            "name": "Seated Both Ankle Eversion with Resistance",
-            "duration": 30,
-            "audio_url": "/audio/seated-both-ankle-eversion-with-resistance-30.mp3"
-        },
-        {
-            "name": "Seated nuetral calf raise",
-            "duration": 45,
-            "audio_url": "/audio/seated-nuetral-calf-raise-45.mp3"
-        },
-        {
-            "name": "Stand left-foot in front",
-            "duration": 60,
-            "audio_url": "/audio/stand-left-foot-in-front-60.mp3"
-        },
-        {
-            "name": "Stand feet together",
-            "duration": 60,
-            "audio_url": "/audio/stand-feet-together-60.mp3"
-        },
-        {
-            "name": "Heel walk",
-            "duration": 60,
-            "audio_url": "/audio/heel-walk-60.mp3"
-        },
-        {
-            "name": "PNF Plantarflex outside to in",
-            "duration": 60,
-            "audio_url": "/audio/pnf-plantarflex-outside-to-in-60.mp3"
-        },
-        {
-            "name": "PNF Dorsiflexion inside to out",
-            "duration": 60,
-            "audio_url": "/audio/pnf-dorsiflexion-inside-to-out-60.mp3"
-        },
-        {
-            "name": "Alternating heel raise",
-            "duration": 60,
-            "audio_url": "/audio/alternating-heel-raise-60.mp3"
-        }
-    ]
+  "name": "Achilles ROM 3 (Justin)",
+  "sequence": [
+    {
+      "name": "Seated Ankle Eversion with Resistance",
+      "duration": 30,
+      "audio_url": "/audio/seated-ankle-eversion-with-resistance-30.mp3"
+    },
+    {
+      "name": "Ankle Inversion with Resistance",
+      "duration": 45,
+      "audio_url": "/audio/ankle-inversion-with-resistance-45.mp3"
+    },
+    {
+      "name": "Seated Figure 4 Ankle Inversion with Resistance",
+      "duration": 30,
+      "audio_url": "/audio/seated-figure-4-ankle-inversion-with-resistance-30.mp3"
+    },
+    {
+      "name": "PNF Dorsiflexion inside to out",
+      "duration": 60,
+      "audio_url": "/audio/pnf-dorsiflexion-inside-to-out-60.mp3"
+    },
+    {
+      "name": "Dorsiflexion with resistance",
+      "duration": 75,
+      "audio_url": "/audio/dorsiflexion-with-resistance-75.mp3"
+    },
+    {
+      "name": "Seated nuetral calf raise",
+      "duration": 45,
+      "audio_url": "/audio/seated-nuetral-calf-raise-45.mp3"
+    },
+    {
+      "name": "Stand left-foot in front",
+      "duration": 60,
+      "audio_url": "/audio/stand-left-foot-in-front-60.mp3"
+    },
+    {
+      "name": "Stand feet together",
+      "duration": 60,
+      "audio_url": "/audio/stand-feet-together-60.mp3"
+    },
+    {
+      "name": "Heel walk",
+      "duration": 60,
+      "audio_url": "/audio/heel-walk-60.mp3"
+    },
+    {
+      "name": "Alternating heel raise",
+      "duration": 60,
+      "audio_url": "/audio/alternating-heel-raise-60.mp3"
+    },
+    {
+      "name": "Step up",
+      "duration": 60
+    }
+  ]
 }
