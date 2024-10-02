@@ -60,6 +60,16 @@
             "name": "Lateral Step up",
             "duration": 60,
             "audio_url": "/audio/lateral-step-up-60.mp3"
+        },
+        {
+            "name": "Single leg squat forward reach",
+            "duration": 60,
+            "audio_url": "/audio/single-leg-squat-forward-reach-60.mp3"
+        },
+        {
+            "name": "Single leg squat back right reach",
+            "duration": 60,
+            "audio_url": "/audio/single-leg-squat-back-right-reach-60.mp3"
         }
     ]
 }
