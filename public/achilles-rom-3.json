@@ -67,9 +67,9 @@
             "audio_url": "/audio/single-leg-squat-forward-reach-60.mp3"
         },
         {
-            "name": "Single leg squat back right reach",
+            "name": "Single leg squat back left reach",
             "duration": 60,
-            "audio_url": "/audio/single-leg-squat-back-right-reach-60.mp3"
+            "audio_url": "/audio/single-leg-squat-back-left-reach-60.mp3"
         }
     ]
 }
