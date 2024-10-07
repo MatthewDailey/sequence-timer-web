@@ -1,0 +1,35 @@
+{
+    "name": "Achilles Secondary 1",
+    "sequence": [
+        {
+            "name": "Towel scrunch",
+            "duration": 60,
+            "audio_url": "/audio/towel-scrunch-60.mp3"
+        },
+        {
+            "name": "Seated arch lift",
+            "duration": 60,
+            "audio_url": "/audio/seated-arch-lift-60.mp3"
+        },
+        {
+            "name": "Seated Ankle Plantarflexion with Resistance",
+            "duration": 60,
+            "audio_url": "/audio/seated-ankle-plantarflexion-with-resistance-60.mp3"
+        },
+        {
+            "name": "Bridge",
+            "duration": 60,
+            "audio_url": "/audio/bridge-60.mp3"
+        },
+        {
+            "name": "Bodyweight Squat",
+            "duration": 60,
+            "audio_url": "/audio/bodyweight-squat-60.mp3"
+        },
+        {
+            "name": "Bicycle marching",
+            "duration": 60,
+            "audio_url": "/audio/bicycle-marching-60.mp3"
+        }
+    ]
+}
