@@ -70,6 +70,11 @@
             "name": "Single leg squat back left reach",
             "duration": 60,
             "audio_url": "/audio/single-leg-squat-back-left-reach-60.mp3"
+        },
+        {
+            "name": "Step down",
+            "duration": 60,
+            "audio_url": "/audio/step-down-60.mp3"
         }
     ]
 }
