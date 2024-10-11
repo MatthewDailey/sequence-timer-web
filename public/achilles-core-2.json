@@ -28,8 +28,7 @@
     },
     {
       "name": "Bridge",
-      "duration": 60,
-      "audio_url": "/audio/bridge-60.mp3"
+      "duration": 60
     },
     {
       "name": "Bicycles",
