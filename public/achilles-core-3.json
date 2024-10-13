@@ -1,0 +1,100 @@
+{
+    "name": "Achilles Core 3",
+    "sequence": [
+        {
+            "name": "Cat cow",
+            "duration": 60,
+            "audio_url": "/audio/cat-cow-60.mp3"
+        },
+        {
+            "name": "Alternating reaching",
+            "duration": 60,
+            "audio_url": "/audio/alternating-reaching-60.mp3"
+        },
+        {
+            "name": "Bridge",
+            "duration": 60,
+            "audio_url": "/audio/bridge-60.mp3"
+        },
+        {
+            "name": "Deadbug",
+            "duration": 60,
+            "audio_url": "/audio/deadbug-60.mp3"
+        },
+        {
+            "name": "Superman",
+            "duration": 60,
+            "audio_url": "/audio/superman-60.mp3"
+        },
+        {
+            "name": "Russian twist",
+            "duration": 60,
+            "audio_url": "/audio/russian-twist-60.mp3"
+        },
+        {
+            "name": "Bridge",
+            "duration": 60,
+            "audio_url": "/audio/bridge-60.mp3"
+        },
+        {
+            "name": "Deadbug",
+            "duration": 60,
+            "audio_url": "/audio/deadbug-60.mp3"
+        },
+        {
+            "name": "Superman",
+            "duration": 60,
+            "audio_url": "/audio/superman-60.mp3"
+        },
+        {
+            "name": "Russian twist",
+            "duration": 60,
+            "audio_url": "/audio/russian-twist-60.mp3"
+        },
+        {
+            "name": "Bridge",
+            "duration": 60,
+            "audio_url": "/audio/bridge-60.mp3"
+        },
+        {
+            "name": "Deadbug",
+            "duration": 60,
+            "audio_url": "/audio/deadbug-60.mp3"
+        },
+        {
+            "name": "Superman",
+            "duration": 60,
+            "audio_url": "/audio/superman-60.mp3"
+        },
+        {
+            "name": "Russian twist",
+            "duration": 60,
+            "audio_url": "/audio/russian-twist-60.mp3"
+        },
+        {
+            "name": "Bridge",
+            "duration": 60,
+            "audio_url": "/audio/bridge-60.mp3"
+        },
+        {
+            "name": "Deadbug",
+            "duration": 60,
+            "audio_url": "/audio/deadbug-60.mp3"
+        },
+        {
+            "name": "Superman",
+            "duration": 60,
+            "audio_url": "/audio/superman-60.mp3"
+        },
+        {
+            "name": "Russian twist",
+            "duration": 60,
+            "audio_url": "/audio/russian-twist-60.mp3"
+        },
+        {
+            "name": "Cat cow",
+            "duration": 60,
+            "audio_url": "/audio/cat-cow-60.mp3"
+        }
+    ]
+}
