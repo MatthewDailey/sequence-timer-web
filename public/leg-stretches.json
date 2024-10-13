@@ -17,21 +17,6 @@
             "audio_url": "/audio/left-calf-30.mp3"
         },
         {
-            "name": "Right calf",
-            "duration": 30,
-            "audio_url": "/audio/right-calf-30.mp3"
-        },
-        {
-            "name": "Left calf bent knee",
-            "duration": 30,
-            "audio_url": "/audio/left-calf-bent-knee-30.mp3"
-        },
-        {
-            "name": "Right calf bent knee",
-            "duration": 30,
-            "audio_url": "/audio/right-calf-bent-knee-30.mp3"
-        },
-        {
             "name": "Left hamstring",
             "duration": 30,
             "audio_url": "/audio/left-hamstring-30.mp3"
@@ -110,27 +95,7 @@
             "name": "Right glute",
             "duration": 30,
             "audio_url": "/audio/right-glute-30.mp3"
-        },
-        {
-            "name": "Left inner thigh",
-            "duration": 30,
-            "audio_url": "/audio/left-inner-thigh-30.mp3"
-        },
-        {
-            "name": "Right inner thigh",
-            "duration": 30,
-            "audio_url": "/audio/right-inner-thigh-30.mp3"
-        },
-        {
-            "name": "Left inner thigh",
-            "duration": 30,
-            "audio_url": "/audio/left-inner-thigh-30.mp3"
-        },
-        {
-            "name": "Right inner thigh",
-            "duration": 30,
-            "audio_url": "/audio/right-inner-thigh-30.mp3"
-        },
+        }
         {
             "name": "Groin",
             "duration": 30,
