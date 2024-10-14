@@ -41,7 +41,7 @@ def main(args):
             item[AUDIO_URL] = audio_path.replace("public/", "/")
         print("Saving sequence with audio to: ", args.sequence_file)
         with open(args.sequence_file, "w") as f:
-            json.dump(sequence, f, indent=4)
+            json.dump(sequence, f, indent=2)
 
 
 if __name__ == "__main__":
