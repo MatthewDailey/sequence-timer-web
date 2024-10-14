@@ -7,9 +7,9 @@
             "audio_url": "/audio/left-calf-30.mp3"
         },
         {
-            "name": "Right calf",
-            "duration": 30,
-            "audio_url": "/audio/right-calf-30.mp3"
+            "name": "Rest",
+            "duration": 10,
+            "audio_url": "/audio/rest-10.mp3"
         },
         {
             "name": "Left calf",
