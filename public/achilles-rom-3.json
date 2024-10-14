@@ -37,16 +37,6 @@
             "audio_url": "/audio/stand-left-foot-in-front-60.mp3"
         },
         {
-            "name": "Stand feet together",
-            "duration": 60,
-            "audio_url": "/audio/stand-feet-together-60.mp3"
-        },
-        {
-            "name": "Heel walk",
-            "duration": 60,
-            "audio_url": "/audio/heel-walk-60.mp3"
-        },
-        {
             "name": "Alternating heel raise",
             "duration": 60,
             "audio_url": "/audio/alternating-heel-raise-60.mp3"
@@ -75,6 +65,11 @@
             "name": "Step down",
             "duration": 60,
             "audio_url": "/audio/step-down-60.mp3"
+        },
+        {
+            "name": "Eccentric Heel Raise, Up 2 down 1 with support",
+            "duration": 60,
+            "audio_url": "/audio/eccentric-heel-raise,-up-2-down-1-with-support-60.mp3"
         }
     ]
 }
