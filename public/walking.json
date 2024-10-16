@@ -1,40 +1,40 @@
 {
-    "name": "Walking",
-    "sequence": [
-        {
-            "name": "Walk",
-            "duration": 240,
-            "audio_url": "/audio/walk-240.mp3"
-        },
-        {
-            "name": "Rest",
-            "duration": 60,
-            "audio_url": "/audio/rest-60.mp3"
-        },
-        {
-            "name": "Walk",
-            "duration": 240,
-            "audio_url": "/audio/walk-240.mp3"
-        },
-        {
-            "name": "Rest",
-            "duration": 60,
-            "audio_url": "/audio/rest-60.mp3"
-        },
-        {
-            "name": "Walk",
-            "duration": 240,
-            "audio_url": "/audio/walk-240.mp3"
-        },
-        {
-            "name": "Rest",
-            "duration": 60,
-            "audio_url": "/audio/rest-60.mp3"
-        },
-        {
-            "name": "Walk",
-            "duration": 240,
-            "audio_url": "/audio/walk-240.mp3"
-        }
-    ]
+  "name": "Walking",
+  "sequence": [
+    {
+      "name": "Walk",
+      "duration": 300,
+      "audio_url": "/audio/walk-300.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 60,
+      "audio_url": "/audio/rest-60.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 300,
+      "audio_url": "/audio/walk-300.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 60,
+      "audio_url": "/audio/rest-60.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 300,
+      "audio_url": "/audio/walk-300.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 60,
+      "audio_url": "/audio/rest-60.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 300,
+      "audio_url": "/audio/walk-300.mp3"
+    }
+  ]
 }
