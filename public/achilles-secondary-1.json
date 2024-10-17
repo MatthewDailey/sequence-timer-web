@@ -17,6 +17,11 @@
       "audio_url": "/audio/hip-figure-eight-60.mp3"
     },
     {
+      "name": "Squat",
+      "duration": 60,
+      "audio_url": "/audio/squat-60.mp3"
+    },
+    {
       "name": "Balance left foot",
       "duration": 60,
       "audio_url": "/audio/balance-left-foot-60.mp3"
