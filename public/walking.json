@@ -3,8 +3,8 @@
   "sequence": [
     {
       "name": "Walk",
-      "duration": 480,
-      "audio_url": "/audio/walk-480.mp3"
+      "duration": 600,
+      "audio_url": "/audio/walk-600.mp3"
     },
     {
       "name": "Rest",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Walk",
-      "duration": 480,
-      "audio_url": "/audio/walk-480.mp3"
+      "duration": 600,
+      "audio_url": "/audio/walk-600.mp3"
     },
     {
       "name": "Rest",
@@ -23,18 +23,8 @@
     },
     {
       "name": "Walk",
-      "duration": 480,
-      "audio_url": "/audio/walk-480.mp3"
-    },
-    {
-      "name": "Rest",
-      "duration": 60,
-      "audio_url": "/audio/rest-60.mp3"
-    },
-    {
-      "name": "Walk",
-      "duration": 480,
-      "audio_url": "/audio/walk-480.mp3"
+      "duration": 600,
+      "audio_url": "/audio/walk-600.mp3"
     }
   ]
 }
