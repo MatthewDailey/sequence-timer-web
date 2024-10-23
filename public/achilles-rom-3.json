@@ -47,9 +47,14 @@
       "audio_url": "/audio/alternating-heel-raise-60.mp3"
     },
     {
-      "name": "Step up",
+      "name": "Step up - Right",
       "duration": 30,
-      "audio_url": "/audio/step-up-30.mp3"
+      "audio_url": "/audio/step-up---right-30.mp3"
+    },
+    {
+      "name": "Step up - Left",
+      "duration": 30,
+      "audio_url": "/audio/step-up---left-30.mp3"
     },
     {
       "name": "Lateral Step up",
@@ -75,6 +80,11 @@
       "name": "Eccentric Heel Raise, Up 2 down 1 with support",
       "duration": 60,
       "audio_url": "/audio/eccentric-heel-raise,-up-2-down-1-with-support-60.mp3"
+    },
+    {
+      "name": "Marching on toes",
+      "duration": 60,
+      "audio_url": "/audio/marching-on-toes-60.mp3"
     }
   ]
 }
