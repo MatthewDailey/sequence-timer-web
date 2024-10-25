@@ -3,8 +3,8 @@
   "sequence": [
     {
       "name": "Walk",
-      "duration": 600,
-      "audio_url": "/audio/walk-600.mp3"
+      "duration": 900,
+      "audio_url": "/audio/walk-900.mp3"
     },
     {
       "name": "Rest",
@@ -13,17 +13,7 @@
     },
     {
       "name": "Walk",
-      "duration": 600,
-      "audio_url": "/audio/walk-600.mp3"
-    },
-    {
-      "name": "Rest",
-      "duration": 60,
-      "audio_url": "/audio/rest-60.mp3"
-    },
-    {
-      "name": "Walk",
-      "duration": 600,
+      "duration": 900,
       "audio_url": "/audio/walk-600.mp3"
     }
   ]
