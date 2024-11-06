@@ -2,13 +2,8 @@
   "name": "Achilles ROM 3 (Justin)",
   "sequence": [
     {
-      "name": "Kneeling ankle dorsiflexion mobilization",
-      "duration": 60,
-      "audio_url": "/audio/kneeling-ankle-dorsiflexion-mobilization-60.mp3"
-    },
-    {
       "name": "Seated Ankle Eversion with Resistance",
-      "duration": 30,
+      "duration": 45,
       "audio_url": "/audio/seated-ankle-eversion-with-resistance-30.mp3"
     },
     {
@@ -28,7 +23,7 @@
     },
     {
       "name": "Dorsiflexion with resistance",
-      "duration": 75,
+      "duration": 60,
       "audio_url": "/audio/dorsiflexion-with-resistance-75.mp3"
     },
     {
@@ -47,14 +42,9 @@
       "audio_url": "/audio/alternating-heel-raise-60.mp3"
     },
     {
-      "name": "Step up - Right",
+      "name": "Step up",
       "duration": 30,
       "audio_url": "/audio/step-up---right-30.mp3"
-    },
-    {
-      "name": "Step up - Left",
-      "duration": 30,
-      "audio_url": "/audio/step-up---left-30.mp3"
     },
     {
       "name": "Lateral Step up",
@@ -77,14 +67,19 @@
       "audio_url": "/audio/step-down-30.mp3"
     },
     {
-      "name": "Eccentric Heel Raise, Up 2 down 1 with support",
+      "name": "Toe walking",
       "duration": 60,
-      "audio_url": "/audio/eccentric-heel-raise,-up-2-down-1-with-support-60.mp3"
+      "audio_url": "/audio/toe-walking-60.mp3"
     },
     {
-      "name": "Marching on toes",
+      "name": "Isometric heel raise - right",
       "duration": 60,
-      "audio_url": "/audio/marching-on-toes-60.mp3"
+      "audio_url": "/audio/isometric-heel-raise---right-60.mp3"
+    },
+    {
+      "name": "Heel raise (slow)",
+      "duration": 60,
+      "audio_url": "/audio/heel-raise-(slow)-60.mp3"
     }
   ]
 }
