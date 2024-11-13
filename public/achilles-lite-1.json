@@ -1,0 +1,25 @@
+{
+  "name": "Achilles Lite 1",
+  "sequence": [
+    {
+      "name": "Foot wake up",
+      "duration": 60,
+      "audio_url": "/audio/foot-wake-up-60.mp3"
+    },
+    {
+      "name": "Spell the alphabet",
+      "duration": 60,
+      "audio_url": "/audio/spell-the-alphabet-60.mp3"
+    },
+    {
+      "name": "Light eccentric heel drop",
+      "duration": 60,
+      "audio_url": "/audio/light-eccentric-heel-drop-60.mp3"
+    },
+    {
+      "name": "Slow walk",
+      "duration": 240,
+      "audio_url": "/audio/slow-walk-240.mp3"
+    }
+  ]
+}
