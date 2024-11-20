@@ -115,6 +115,10 @@
       "name": "Single heel raise, bent leg",
       "duration": 30,
       "audio_url": "/audio/single-heel-raise,-bent-leg-30.mp3"
+    },
+    {
+      "name": "Runner's step up",
+      "duration": 60
     }
   ]
 }
