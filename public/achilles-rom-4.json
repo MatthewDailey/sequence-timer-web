@@ -118,7 +118,8 @@
     },
     {
       "name": "Runner's step up",
-      "duration": 60
+      "duration": 60,
+      "audio_url": "/audio/runner's-step-up-60.mp3"
     }
   ]
 }
