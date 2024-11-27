@@ -1,0 +1,90 @@
+{
+  "name": "Achilles Core 4",
+  "sequence": [
+    {
+      "name": "Alternating reaching",
+      "duration": 60,
+      "audio_url": "/audio/alternating-reaching-60.mp3"
+    },
+    {
+      "name": "Bridge",
+      "duration": 60,
+      "audio_url": "/audio/bridge-60.mp3"
+    },
+    {
+      "name": "Hollow body hold",
+      "duration": 60,
+      "audio_url": "/audio/hollow-body-hold-60.mp3"
+    },
+    {
+      "name": "Hollow body crunch",
+      "duration": 60,
+      "audio_url": "/audio/hollow-body-crunch-60.mp3"
+    },
+    {
+      "name": "Plank side-to-side",
+      "duration": 60,
+      "audio_url": "/audio/plank-side-to-side-60.mp3"
+    },
+    {
+      "name": "Bridge",
+      "duration": 60,
+      "audio_url": "/audio/bridge-60.mp3"
+    },
+    {
+      "name": "Hollow body hold",
+      "duration": 60,
+      "audio_url": "/audio/hollow-body-hold-60.mp3"
+    },
+    {
+      "name": "Hollow body crunch",
+      "duration": 60,
+      "audio_url": "/audio/hollow-body-crunch-60.mp3"
+    },
+    {
+      "name": "Plank side-to-side",
+      "duration": 60,
+      "audio_url": "/audio/plank-side-to-side-60.mp3"
+    },
+    {
+      "name": "Bridge",
+      "duration": 60,
+      "audio_url": "/audio/bridge-60.mp3"
+    },
+    {
+      "name": "Hollow body hold",
+      "duration": 60,
+      "audio_url": "/audio/hollow-body-hold-60.mp3"
+    },
+    {
+      "name": "Hollow body crunch",
+      "duration": 60,
+      "audio_url": "/audio/hollow-body-crunch-60.mp3"
+    },
+    {
+      "name": "Plank side-to-side",
+      "duration": 60,
+      "audio_url": "/audio/plank-side-to-side-60.mp3"
+    },
+    {
+      "name": "Bridge",
+      "duration": 60,
+      "audio_url": "/audio/bridge-60.mp3"
+    },
+    {
+      "name": "Hollow body hold",
+      "duration": 60,
+      "audio_url": "/audio/hollow-body-hold-60.mp3"
+    },
+    {
+      "name": "Hollow body crunch",
+      "duration": 60,
+      "audio_url": "/audio/hollow-body-crunch-60.mp3"
+    },
+    {
+      "name": "Plank side-to-side",
+      "duration": 60,
+      "audio_url": "/audio/plank-side-to-side-60.mp3"
+    }
+  ]
+}
