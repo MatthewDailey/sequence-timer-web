@@ -125,6 +125,11 @@
       "name": "Marching on the balls of the feet",
       "duration": 60,
       "audio_url": "/audio/marching-on-the-balls-of-the-feet-60.mp3"
+    },
+    {
+      "name": "Explosive weighted squat",
+      "duration": 90,
+      "audio_url": "/audio/explosive-weighted-squat-90.mp3"
     }
   ]
 }
