@@ -4,62 +4,62 @@
     {
       "name": "Left gastroc",
       "duration": 30,
-      "audio_url": "/audio/left-calf-30.mp3"
+      "audio_url": "/audio/left-gastroc-30.mp3"
     },
     {
       "name": "Right gastroc",
       "duration": 30,
-      "audio_url": "/audio/right-calf-eccentic-heel-drop-30.mp3"
+      "audio_url": "/audio/right-gastroc-30.mp3"
     },
     {
       "name": "Left gastroc",
       "duration": 30,
-      "audio_url": "/audio/left-calf-30.mp3"
+      "audio_url": "/audio/left-gastroc-30.mp3"
     },
     {
       "name": "Right gastroc",
       "duration": 30,
-      "audio_url": "/audio/right-calf-eccentic-heel-drop-30.mp3"
+      "audio_url": "/audio/right-gastroc-30.mp3"
     },
     {
       "name": "Left soleus",
       "duration": 30,
-      "audio_url": "/audio/left-calf-30.mp3"
+      "audio_url": "/audio/left-soleus-30.mp3"
     },
     {
       "name": "Right soleus",
       "duration": 30,
-      "audio_url": "/audio/right-calf-eccentic-heel-drop-30.mp3"
+      "audio_url": "/audio/right-soleus-30.mp3"
     },
     {
       "name": "Left soleus",
       "duration": 30,
-      "audio_url": "/audio/left-calf-30.mp3"
+      "audio_url": "/audio/left-soleus-30.mp3"
     },
     {
       "name": "Right soleus",
       "duration": 30,
-      "audio_url": "/audio/right-calf-eccentic-heel-drop-30.mp3"
+      "audio_url": "/audio/right-soleus-30.mp3"
     },
     {
       "name": "Left dorsiflexion on chair",
       "duration": 30,
-      "audio_url": "/audio/left-calf-30.mp3"
+      "audio_url": "/audio/left-dorsiflexion-on-chair-30.mp3"
     },
     {
       "name": "Right dorsiflexion on chair",
       "duration": 30,
-      "audio_url": "/audio/right-calf-eccentic-heel-drop-30.mp3"
+      "audio_url": "/audio/right-dorsiflexion-on-chair-30.mp3"
     },
     {
       "name": "Left dorsiflexion on chair",
       "duration": 30,
-      "audio_url": "/audio/left-calf-30.mp3"
+      "audio_url": "/audio/left-dorsiflexion-on-chair-30.mp3"
     },
     {
       "name": "Right dorsiflexion on chair",
       "duration": 30,
-      "audio_url": "/audio/right-calf-eccentic-heel-drop-30.mp3"
+      "audio_url": "/audio/right-dorsiflexion-on-chair-30.mp3"
     },
     {
       "name": "Left hamstring",
