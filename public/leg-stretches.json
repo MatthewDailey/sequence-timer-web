@@ -2,22 +2,62 @@
   "name": "Leg Stretches",
   "sequence": [
     {
-      "name": "Left calf",
+      "name": "Left gastroc",
       "duration": 30,
       "audio_url": "/audio/left-calf-30.mp3"
     },
     {
-      "name": "Right calf eccentic heel drop",
+      "name": "Right gastroc",
       "duration": 30,
       "audio_url": "/audio/right-calf-eccentic-heel-drop-30.mp3"
     },
     {
-      "name": "Left calf",
+      "name": "Left gastroc",
       "duration": 30,
       "audio_url": "/audio/left-calf-30.mp3"
     },
     {
-      "name": "Right calf eccentic heel drop",
+      "name": "Right gastroc",
+      "duration": 30,
+      "audio_url": "/audio/right-calf-eccentic-heel-drop-30.mp3"
+    },
+    {
+      "name": "Left soleus",
+      "duration": 30,
+      "audio_url": "/audio/left-calf-30.mp3"
+    },
+    {
+      "name": "Right soleus",
+      "duration": 30,
+      "audio_url": "/audio/right-calf-eccentic-heel-drop-30.mp3"
+    },
+    {
+      "name": "Left soleus",
+      "duration": 30,
+      "audio_url": "/audio/left-calf-30.mp3"
+    },
+    {
+      "name": "Right soleus",
+      "duration": 30,
+      "audio_url": "/audio/right-calf-eccentic-heel-drop-30.mp3"
+    },
+    {
+      "name": "Left dorsiflexion on chair",
+      "duration": 30,
+      "audio_url": "/audio/left-calf-30.mp3"
+    },
+    {
+      "name": "Right dorsiflexion on chair",
+      "duration": 30,
+      "audio_url": "/audio/right-calf-eccentic-heel-drop-30.mp3"
+    },
+    {
+      "name": "Left dorsiflexion on chair",
+      "duration": 30,
+      "audio_url": "/audio/left-calf-30.mp3"
+    },
+    {
+      "name": "Right dorsiflexion on chair",
       "duration": 30,
       "audio_url": "/audio/right-calf-eccentic-heel-drop-30.mp3"
     },
