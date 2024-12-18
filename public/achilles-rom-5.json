@@ -67,6 +67,46 @@
       "audio_url": "/audio/left-leg-quarter-squat-30.mp3"
     },
     {
+      "name": "Single leg heel raise 60bpm, add weight",
+      "duration": 30,
+      "audio_url": "/audio/single-leg-heel-raise-60bpm,-add-weight-30.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Single leg heel raise 60bpm, add weight",
+      "duration": 30,
+      "audio_url": "/audio/single-leg-heel-raise-60bpm,-add-weight-30.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Bent knee single leg heel raise 60bpm, add weight",
+      "duration": 30,
+      "audio_url": "/audio/bent-knee-single-leg-heel-raise-60bpm,-add-weight-30.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Bent knee single leg heel raise 60bpm, add weight",
+      "duration": 30,
+      "audio_url": "/audio/bent-knee-single-leg-heel-raise-60bpm,-add-weight-30.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
       "name": "Toe walking with weight",
       "duration": 60,
       "audio_url": "/audio/toe-walking-with-weight-60.mp3"
@@ -80,46 +120,6 @@
       "name": "Toe walking with weight",
       "duration": 60,
       "audio_url": "/audio/toe-walking-with-weight-60.mp3"
-    },
-    {
-      "name": "Rest",
-      "duration": 15,
-      "audio_url": "/audio/rest-15.mp3"
-    },
-    {
-      "name": "Single leg heel raise 60bpm, add weight",
-      "duration": 20,
-      "audio_url": "/audio/single-leg-heel-raise-60bpm,-add-weight-20.mp3"
-    },
-    {
-      "name": "Rest",
-      "duration": 15,
-      "audio_url": "/audio/rest-15.mp3"
-    },
-    {
-      "name": "Single leg heel raise 60bpm, add weight",
-      "duration": 20,
-      "audio_url": "/audio/single-leg-heel-raise-60bpm,-add-weight-20.mp3"
-    },
-    {
-      "name": "Rest",
-      "duration": 15,
-      "audio_url": "/audio/rest-15.mp3"
-    },
-    {
-      "name": "Bent knee single leg heel raise 60bpm, add weight",
-      "duration": 20,
-      "audio_url": "/audio/bent-knee-single-leg-heel-raise-60bpm,-add-weight-20.mp3"
-    },
-    {
-      "name": "Rest",
-      "duration": 15,
-      "audio_url": "/audio/rest-15.mp3"
-    },
-    {
-      "name": "Bent knee single leg heel raise 60bpm, add weight",
-      "duration": 20,
-      "audio_url": "/audio/bent-knee-single-leg-heel-raise-60bpm,-add-weight-20.mp3"
     },
     {
       "name": "Rest",
