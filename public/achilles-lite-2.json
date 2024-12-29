@@ -1,0 +1,20 @@
+{
+  "name": "Achilles Lite 2",
+  "sequence": [
+    {
+      "name": "Double heel raise",
+      "duration": 30,
+      "audio_url": "/audio/double-heel-raise-30.mp3"
+    },
+    {
+      "name": "Double heel bounce",
+      "duration": 60,
+      "audio_url": "/audio/double-heel-bounce-60.mp3"
+    },
+    {
+      "name": "Double heel drop",
+      "duration": 60,
+      "audio_url": "/audio/double-heel-drop-60.mp3"
+    }
+  ]
+}
