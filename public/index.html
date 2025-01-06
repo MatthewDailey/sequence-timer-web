@@ -140,11 +140,33 @@
     let isPaused = false;
     let sequenceStarted = false;
     let isMuted = false;
+    let wakeLock = null;
+
+    async function requestWakeLock() {
+      try {
+        wakeLock = await navigator.wakeLock.request( 'screen' );
+        console.log( 'Wake Lock requested' );
+        wakeLock.addEventListener( 'release', () => {
+          console.log( 'Wake Lock released' );
+        } );
+      } catch ( err ) {
+        console.error( `Wake Lock error: ${err.name}, ${err.message}` );
+      }
+    }
+
+    document.addEventListener( 'visibilitychange', async () => {
+      if ( wakeLock !== null && document.visibilityState === 'visible' && sequenceStarted ) {
+        await requestWakeLock();
+      }
+    } );
 
     document.addEventListener( 'keydown', function ( event ) {
       if ( event.code === 'Space' && sequenceStarted ) {
         togglePause();
         event.preventDefault(); // To prevent any default behavior of the space bar
+      } else if ( event.code === 'KeyM' ) {
+        toggleMute();
+        event.preventDefault();
       }
     } );
 
@@ -185,9 +207,10 @@
       startExercise( index );
     }
 
-    function initiateSequence() {
+    async function initiateSequence() {
       if ( exerciseSequence ) {
         sequenceStarted = true;
+        await requestWakeLock();
         document.getElementById( 'startButton' ).style.display = 'none';
         document.getElementById( 'sequenceName' ).style.display = 'none';
         document.getElementById( 'totalDuration' ).style.display = 'none';
@@ -240,6 +263,11 @@
     }
 
     function sequenceCompleted() {
+      if ( wakeLock ) {
+        wakeLock.release();
+        wakeLock = null;
+      }
+
       document.getElementById( 'previousExercise' ).style.display = 'none';
       document.getElementById( 'currentExercise' ).style.display = 'none';
       document.getElementById( 'timer' ).style.display = 'none';
