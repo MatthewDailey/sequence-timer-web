@@ -161,11 +161,20 @@
     } );
 
     document.addEventListener( 'keydown', function ( event ) {
-      if ( event.code === 'Space' && sequenceStarted ) {
+      if ( ( event.code === 'Space' || event.code === 'KeyS' ) && !sequenceStarted ) {
+        initiateSequence();
+        event.preventDefault();
+      } else if ( event.code === 'Space' && sequenceStarted ) {
         togglePause();
         event.preventDefault(); // To prevent any default behavior of the space bar
       } else if ( event.code === 'KeyM' ) {
         toggleMute();
+        event.preventDefault();
+      } else if ( event.code === 'KeyN' && sequenceStarted ) {
+        adjustExercise( 1 );
+        event.preventDefault();
+      } else if ( event.code === 'KeyP' && sequenceStarted ) {
+        adjustExercise( -1 );
         event.preventDefault();
       }
     } );
