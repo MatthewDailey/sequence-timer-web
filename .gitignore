@@ -2,3 +2,5 @@
 firebase-debug.log
 .firebase
 .venv*
+.awolf
+node_modules
