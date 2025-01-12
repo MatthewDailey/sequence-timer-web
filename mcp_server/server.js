@@ -65,7 +65,31 @@ const WRITE_WORKOUT = {
       content: {
         type: "object",
         description: "Workout content following the sequence timer format",
-      },
+        properties: {
+          name: {
+            type: "string",
+            description: "Display name of the workout"
+          },
+          sequence: {
+            type: "array",
+            items: {
+              type: "object",
+              properties: {
+                name: {
+                  type: "string",
+                  description: "Name of the exercise"
+                },
+                duration: {
+                  type: "integer",
+                  description: "Duration in seconds"
+                }
+              },
+              required: ["name", "duration"]
+            }
+          }
+        },
+        required: ["name", "sequence"]
+      }
     },
     required: ["name", "content"],
   },
