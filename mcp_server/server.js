@@ -86,10 +86,30 @@ const PUBLISH_WORKOUT = {
   },
 };
 
+const GET_EQUIPMENT = {
+  name: "get_equipment",
+  description: "List all available workout equipment",
+  inputSchema: {
+    type: "object",
+    properties: {},
+    required: [],
+  },
+};
+
+const GET_INJURIES = {
+  name: "get_injuries",
+  description: "List all recorded injuries",
+  inputSchema: {
+    type: "object",
+    properties: {},
+    required: [],
+  },
+};
+
 const PUBLIC_DIR = '/Users/matt/code/sequence-timer-web/public';
 
 server.setRequestHandler(ListToolsRequestSchema, async () => ({
-  tools: [LIST_WORKOUTS, READ_WORKOUT, WRITE_WORKOUT, PUBLISH_WORKOUT],
+  tools: [LIST_WORKOUTS, READ_WORKOUT, WRITE_WORKOUT, PUBLISH_WORKOUT, GET_EQUIPMENT, GET_INJURIES],
 }));
 
 async function doListWorkouts() {
@@ -156,6 +176,29 @@ async function doPublishWorkout(name, context) {
   }
 }
 
+async function doGetEquipment() {
+  try {
+    const content = await fs.readFile(path.join(process.cwd(), 'mcp_server/equipment.txt'), 'utf-8');
+    return {
+      content: [{ type: "text", text: content }],
+    };
+  } catch (e) {
+    throw new Error(`Failed to get equipment: ${e.message}`);
+  }
+}
+
+async function doGetInjuries() {
+  try {
+    const content = await fs.readFile(path.join(process.cwd(), 'mcp_server/injuries.txt'), 'utf-8');
+    const currentDate = new Date().toISOString().split('T')[0];
+    return {
+      content: [{ type: "text", text: `Current date: ${currentDate}\n\n${content}` }],
+    };
+  } catch (e) {
+    throw new Error(`Failed to get injuries: ${e.message}`);
+  }
+}
+
 server.setRequestHandler(CallToolRequestSchema, async (request) => {
   switch (request.params.name) {
     case "list_workouts":
@@ -172,6 +215,12 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
     case "publish_workout":
       const { name: publishName } = request.params.arguments;
       return doPublishWorkout(publishName, request.context);
+    
+    case "get_equipment":
+      return doGetEquipment();
+    
+    case "get_injuries":
+      return doGetInjuries();
     
     default:
       throw new McpError(ErrorCode.MethodNotFound, `Unknown tool: ${request.params.name}`);
