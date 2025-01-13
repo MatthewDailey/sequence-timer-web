@@ -1,0 +1,170 @@
+{
+  "name": "Postpartum Leg Workout - 01/12/2025",
+  "sequence": [
+    {
+      "name": "Set 1 Setup: Position bands at floor height",
+      "duration": 30,
+      "audio_url": "/audio/set-1-setup:-position-bands-at-floor-height-30.mp3"
+    },
+    {
+      "name": "Banded Side Step (Right)",
+      "duration": 30,
+      "audio_url": "/audio/banded-side-step-(right)-30.mp3"
+    },
+    {
+      "name": "Banded Side Step (Left)",
+      "duration": 30,
+      "audio_url": "/audio/banded-side-step-(left)-30.mp3"
+    },
+    {
+      "name": "Bodyweight Squat",
+      "duration": 45,
+      "audio_url": "/audio/bodyweight-squat-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 30,
+      "audio_url": "/audio/rest-30.mp3"
+    },
+    {
+      "name": "Banded Side Step (Right)",
+      "duration": 30,
+      "audio_url": "/audio/banded-side-step-(right)-30.mp3"
+    },
+    {
+      "name": "Banded Side Step (Left)",
+      "duration": 30,
+      "audio_url": "/audio/banded-side-step-(left)-30.mp3"
+    },
+    {
+      "name": "Bodyweight Squat",
+      "duration": 45,
+      "audio_url": "/audio/bodyweight-squat-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 30,
+      "audio_url": "/audio/rest-30.mp3"
+    },
+    {
+      "name": "Banded Side Step (Right)",
+      "duration": 30,
+      "audio_url": "/audio/banded-side-step-(right)-30.mp3"
+    },
+    {
+      "name": "Banded Side Step (Left)",
+      "duration": 30,
+      "audio_url": "/audio/banded-side-step-(left)-30.mp3"
+    },
+    {
+      "name": "Bodyweight Squat",
+      "duration": 45,
+      "audio_url": "/audio/bodyweight-squat-45.mp3"
+    },
+    {
+      "name": "Set 2 Setup: Grab wall for support",
+      "duration": 30,
+      "audio_url": "/audio/set-2-setup:-grab-wall-for-support-30.mp3"
+    },
+    {
+      "name": "Single Leg Balance (Right)",
+      "duration": 30,
+      "audio_url": "/audio/single-leg-balance-(right)-30.mp3"
+    },
+    {
+      "name": "Single Leg Balance (Left)",
+      "duration": 30,
+      "audio_url": "/audio/single-leg-balance-(left)-30.mp3"
+    },
+    {
+      "name": "Wall Sit",
+      "duration": 45,
+      "audio_url": "/audio/wall-sit-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 30,
+      "audio_url": "/audio/rest-30.mp3"
+    },
+    {
+      "name": "Single Leg Balance (Right)",
+      "duration": 30,
+      "audio_url": "/audio/single-leg-balance-(right)-30.mp3"
+    },
+    {
+      "name": "Single Leg Balance (Left)",
+      "duration": 30,
+      "audio_url": "/audio/single-leg-balance-(left)-30.mp3"
+    },
+    {
+      "name": "Wall Sit",
+      "duration": 45,
+      "audio_url": "/audio/wall-sit-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 30,
+      "audio_url": "/audio/rest-30.mp3"
+    },
+    {
+      "name": "Single Leg Balance (Right)",
+      "duration": 30,
+      "audio_url": "/audio/single-leg-balance-(right)-30.mp3"
+    },
+    {
+      "name": "Single Leg Balance (Left)",
+      "duration": 30,
+      "audio_url": "/audio/single-leg-balance-(left)-30.mp3"
+    },
+    {
+      "name": "Wall Sit",
+      "duration": 45,
+      "audio_url": "/audio/wall-sit-45.mp3"
+    },
+    {
+      "name": "Set 3 Setup: Position bands at middle height",
+      "duration": 30,
+      "audio_url": "/audio/set-3-setup:-position-bands-at-middle-height-30.mp3"
+    },
+    {
+      "name": "Banded Glute Bridge",
+      "duration": 45,
+      "audio_url": "/audio/banded-glute-bridge-45.mp3"
+    },
+    {
+      "name": "Standing Calf Raise",
+      "duration": 30,
+      "audio_url": "/audio/standing-calf-raise-30.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 20,
+      "audio_url": "/audio/rest-20.mp3"
+    },
+    {
+      "name": "Banded Glute Bridge",
+      "duration": 45,
+      "audio_url": "/audio/banded-glute-bridge-45.mp3"
+    },
+    {
+      "name": "Standing Calf Raise",
+      "duration": 30,
+      "audio_url": "/audio/standing-calf-raise-30.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 20,
+      "audio_url": "/audio/rest-20.mp3"
+    },
+    {
+      "name": "Banded Glute Bridge",
+      "duration": 45,
+      "audio_url": "/audio/banded-glute-bridge-45.mp3"
+    },
+    {
+      "name": "Standing Calf Raise",
+      "duration": 30,
+      "audio_url": "/audio/standing-calf-raise-30.mp3"
+    }
+  ]
+}
