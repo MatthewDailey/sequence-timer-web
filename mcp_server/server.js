@@ -130,10 +130,20 @@ const GET_INJURIES = {
   },
 };
 
+const GET_CURRENT_DATE = {
+  name: "get_current_date",
+  description: "Get current date in ISO format",
+  inputSchema: {
+    type: "object",
+    properties: {},
+    required: [],
+  },
+};
+
 const PUBLIC_DIR = '/Users/matt/code/sequence-timer-web/public';
 
 server.setRequestHandler(ListToolsRequestSchema, async () => ({
-  tools: [LIST_WORKOUTS, READ_WORKOUT, WRITE_WORKOUT, PUBLISH_WORKOUT, GET_EQUIPMENT, GET_INJURIES],
+  tools: [LIST_WORKOUTS, READ_WORKOUT, WRITE_WORKOUT, PUBLISH_WORKOUT, GET_EQUIPMENT, GET_INJURIES, GET_CURRENT_DATE],
 }));
 
 async function doListWorkouts() {
@@ -180,19 +190,16 @@ async function doWriteWorkout(name, content) {
   }
 }
 
-async function doPublishWorkout(name, context) {
+async function doPublishWorkout(name) {
   try {
     const filePath = path.join(PUBLIC_DIR, `${name}.json`);
-    
     await fs.access(filePath);
-    
-    context.info(`Publishing workout: ${name}`);
-    
-    const { stdout } = await execAsync(`./addseq.sh ${name}`);
+    const { stdout } = await execAsync(`cd /Users/matt/code/sequence-timer-web && ./addseq.sh public/${name}.json`);
+    const url = `https://sequence-timer-web.web.app/${name}`;
     return {
       content: [{ 
         type: "text", 
-        text: `Successfully published workout: ${name}\n${stdout}` 
+        text: `Successfully published workout: ${name}\n${stdout}\nWorkout URL: ${url}` 
       }],
     };
   } catch (e) {
@@ -202,7 +209,7 @@ async function doPublishWorkout(name, context) {
 
 async function doGetEquipment() {
   try {
-    const content = await fs.readFile(path.join(process.cwd(), 'mcp_server/equipment.txt'), 'utf-8');
+    const content = await fs.readFile('/Users/matt/code/sequence-timer-web/mcp_server/equipment.txt', 'utf-8');
     return {
       content: [{ type: "text", text: content }],
     };
@@ -213,7 +220,7 @@ async function doGetEquipment() {
 
 async function doGetInjuries() {
   try {
-    const content = await fs.readFile(path.join(process.cwd(), 'mcp_server/injuries.txt'), 'utf-8');
+    const content = await fs.readFile('/Users/matt/code/sequence-timer-web/mcp_server/injuries.txt', 'utf-8');
     const currentDate = new Date().toISOString().split('T')[0];
     return {
       content: [{ type: "text", text: `Current date: ${currentDate}\n\n${content}` }],
@@ -221,6 +228,13 @@ async function doGetInjuries() {
   } catch (e) {
     throw new Error(`Failed to get injuries: ${e.message}`);
   }
+}
+
+async function doGetCurrentDate() {
+  const currentDate = new Date().toISOString().split('T')[0];
+  return {
+    content: [{ type: "text", text: currentDate }],
+  };
 }
 
 server.setRequestHandler(CallToolRequestSchema, async (request) => {
@@ -238,13 +252,16 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
     
     case "publish_workout":
       const { name: publishName } = request.params.arguments;
-      return doPublishWorkout(publishName, request.context);
+      return doPublishWorkout(publishName);
     
     case "get_equipment":
       return doGetEquipment();
     
     case "get_injuries":
       return doGetInjuries();
+    
+    case "get_current_date":
+      return doGetCurrentDate();
     
     default:
       throw new McpError(ErrorCode.MethodNotFound, `Unknown tool: ${request.params.name}`);

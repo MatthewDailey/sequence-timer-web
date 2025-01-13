@@ -1,0 +1,121 @@
+{
+  "name": "30min Back Strength",
+  "sequence": [
+    {
+      "name": "Warmup: Cat-cow stretches",
+      "duration": 60
+    },
+    {
+      "name": "Warmup: Bird dogs",
+      "duration": 60
+    },
+    {
+      "name": "Set 1 Round 1: Supermans",
+      "duration": 45
+    },
+    {
+      "name": "Set 1 Round 1: Bent-over rows",
+      "duration": 45
+    },
+    {
+      "name": "Rest",
+      "duration": 30
+    },
+    {
+      "name": "Set 1 Round 2: Supermans",
+      "duration": 45
+    },
+    {
+      "name": "Set 1 Round 2: Bent-over rows",
+      "duration": 45
+    },
+    {
+      "name": "Rest",
+      "duration": 30
+    },
+    {
+      "name": "Set 1 Round 3: Supermans",
+      "duration": 45
+    },
+    {
+      "name": "Set 1 Round 3: Bent-over rows",
+      "duration": 45
+    },
+    {
+      "name": "Recovery",
+      "duration": 60
+    },
+    {
+      "name": "Set 2 Round 1: Single-arm rows right",
+      "duration": 45
+    },
+    {
+      "name": "Set 2 Round 1: Single-arm rows left",
+      "duration": 45
+    },
+    {
+      "name": "Rest",
+      "duration": 30
+    },
+    {
+      "name": "Set 2 Round 2: Single-arm rows right",
+      "duration": 45
+    },
+    {
+      "name": "Set 2 Round 2: Single-arm rows left",
+      "duration": 45
+    },
+    {
+      "name": "Rest",
+      "duration": 30
+    },
+    {
+      "name": "Set 2 Round 3: Single-arm rows right",
+      "duration": 45
+    },
+    {
+      "name": "Set 2 Round 3: Single-arm rows left",
+      "duration": 45
+    },
+    {
+      "name": "Recovery",
+      "duration": 60
+    },
+    {
+      "name": "Set 3 Round 1: Good mornings",
+      "duration": 45
+    },
+    {
+      "name": "Set 3 Round 1: Reverse flys",
+      "duration": 45
+    },
+    {
+      "name": "Rest",
+      "duration": 30
+    },
+    {
+      "name": "Set 3 Round 2: Good mornings",
+      "duration": 45
+    },
+    {
+      "name": "Set 3 Round 2: Reverse flys",
+      "duration": 45
+    },
+    {
+      "name": "Rest",
+      "duration": 30
+    },
+    {
+      "name": "Set 3 Round 3: Good mornings",
+      "duration": 45
+    },
+    {
+      "name": "Set 3 Round 3: Reverse flys",
+      "duration": 45
+    },
+    {
+      "name": "Cool down stretches",
+      "duration": 60
+    }
+  ]
+}
