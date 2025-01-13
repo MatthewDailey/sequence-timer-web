@@ -1,0 +1,95 @@
+{
+  "name": "Arms Circuit - 01/12/2025",
+  "sequence": [
+    {
+      "name": "Set 1 Setup: Grab 15lb dumbbells, bands at middle height",
+      "duration": 30,
+      "audio_url": "/audio/set-1-setup:-grab-15lb-dumbbells,-bands-at-middle-height-30.mp3"
+    },
+    {
+      "name": "Bicep Curl",
+      "duration": 45,
+      "audio_url": "/audio/bicep-curl-45.mp3"
+    },
+    {
+      "name": "Band Tricep Extension",
+      "duration": 45,
+      "audio_url": "/audio/band-tricep-extension-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 20,
+      "audio_url": "/audio/rest-20.mp3"
+    },
+    {
+      "name": "Bicep Curl",
+      "duration": 45,
+      "audio_url": "/audio/bicep-curl-45.mp3"
+    },
+    {
+      "name": "Band Tricep Extension",
+      "duration": 45,
+      "audio_url": "/audio/band-tricep-extension-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 20,
+      "audio_url": "/audio/rest-20.mp3"
+    },
+    {
+      "name": "Bicep Curl",
+      "duration": 45,
+      "audio_url": "/audio/bicep-curl-45.mp3"
+    },
+    {
+      "name": "Band Tricep Extension",
+      "duration": 45,
+      "audio_url": "/audio/band-tricep-extension-45.mp3"
+    },
+    {
+      "name": "Set 2 Setup: Grab 10lb dumbbells",
+      "duration": 30,
+      "audio_url": "/audio/set-2-setup:-grab-10lb-dumbbells-30.mp3"
+    },
+    {
+      "name": "Hammer Curl",
+      "duration": 45,
+      "audio_url": "/audio/hammer-curl-45.mp3"
+    },
+    {
+      "name": "Overhead Tricep Extension",
+      "duration": 45,
+      "audio_url": "/audio/overhead-tricep-extension-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 20,
+      "audio_url": "/audio/rest-20.mp3"
+    },
+    {
+      "name": "Hammer Curl",
+      "duration": 45,
+      "audio_url": "/audio/hammer-curl-45.mp3"
+    },
+    {
+      "name": "Overhead Tricep Extension",
+      "duration": 45,
+      "audio_url": "/audio/overhead-tricep-extension-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 20,
+      "audio_url": "/audio/rest-20.mp3"
+    },
+    {
+      "name": "Hammer Curl",
+      "duration": 45,
+      "audio_url": "/audio/hammer-curl-45.mp3"
+    },
+    {
+      "name": "Overhead Tricep Extension",
+      "duration": 45,
+      "audio_url": "/audio/overhead-tricep-extension-45.mp3"
+    }
+  ]
+}
