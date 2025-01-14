@@ -1,0 +1,125 @@
+{
+  "name": "Upper Body Circuit (01-14-2025)",
+  "sequence": [
+    {
+      "name": "Set 1 Round 1: Band Pull-Aparts (Middle Height) + Band Chest Press",
+      "duration": 60,
+      "audio_url": "/audio/set-1-round-1:-band-pull-aparts-(middle-height)-+-band-chest-press-60.mp3"
+    },
+    {
+      "name": "Setup",
+      "duration": 15,
+      "audio_url": "/audio/setup-15.mp3"
+    },
+    {
+      "name": "Set 1 Round 2: Band Pull-Aparts (Middle Height) + Band Chest Press",
+      "duration": 60,
+      "audio_url": "/audio/set-1-round-2:-band-pull-aparts-(middle-height)-+-band-chest-press-60.mp3"
+    },
+    {
+      "name": "Setup",
+      "duration": 15,
+      "audio_url": "/audio/setup-15.mp3"
+    },
+    {
+      "name": "Set 1 Round 3: Band Pull-Aparts (Middle Height) + Band Chest Press",
+      "duration": 60,
+      "audio_url": "/audio/set-1-round-3:-band-pull-aparts-(middle-height)-+-band-chest-press-60.mp3"
+    },
+    {
+      "name": "Transition",
+      "duration": 30,
+      "audio_url": "/audio/transition-30.mp3"
+    },
+    {
+      "name": "Set 2 Round 1: DB Bent Over Rows (15lb) + DB Floor Press (15lb)",
+      "duration": 60,
+      "audio_url": "/audio/set-2-round-1:-db-bent-over-rows-(15lb)-+-db-floor-press-(15lb)-60.mp3"
+    },
+    {
+      "name": "Setup",
+      "duration": 15,
+      "audio_url": "/audio/setup-15.mp3"
+    },
+    {
+      "name": "Set 2 Round 2: DB Bent Over Rows (15lb) + DB Floor Press (15lb)",
+      "duration": 60,
+      "audio_url": "/audio/set-2-round-2:-db-bent-over-rows-(15lb)-+-db-floor-press-(15lb)-60.mp3"
+    },
+    {
+      "name": "Setup",
+      "duration": 15,
+      "audio_url": "/audio/setup-15.mp3"
+    },
+    {
+      "name": "Set 2 Round 3: DB Bent Over Rows (15lb) + DB Floor Press (15lb)",
+      "duration": 60,
+      "audio_url": "/audio/set-2-round-3:-db-bent-over-rows-(15lb)-+-db-floor-press-(15lb)-60.mp3"
+    },
+    {
+      "name": "Transition",
+      "duration": 30,
+      "audio_url": "/audio/transition-30.mp3"
+    },
+    {
+      "name": "Set 3 Round 1: High Band Face Pulls + Band Tricep Pushdowns",
+      "duration": 60,
+      "audio_url": "/audio/set-3-round-1:-high-band-face-pulls-+-band-tricep-pushdowns-60.mp3"
+    },
+    {
+      "name": "Setup",
+      "duration": 15,
+      "audio_url": "/audio/setup-15.mp3"
+    },
+    {
+      "name": "Set 3 Round 2: High Band Face Pulls + Band Tricep Pushdowns",
+      "duration": 60,
+      "audio_url": "/audio/set-3-round-2:-high-band-face-pulls-+-band-tricep-pushdowns-60.mp3"
+    },
+    {
+      "name": "Setup",
+      "duration": 15,
+      "audio_url": "/audio/setup-15.mp3"
+    },
+    {
+      "name": "Set 3 Round 3: High Band Face Pulls + Band Tricep Pushdowns",
+      "duration": 60,
+      "audio_url": "/audio/set-3-round-3:-high-band-face-pulls-+-band-tricep-pushdowns-60.mp3"
+    },
+    {
+      "name": "Transition",
+      "duration": 30,
+      "audio_url": "/audio/transition-30.mp3"
+    },
+    {
+      "name": "Set 4 Round 1: DB Lateral Raises (10lb) + DB Front Raises (10lb)",
+      "duration": 60,
+      "audio_url": "/audio/set-4-round-1:-db-lateral-raises-(10lb)-+-db-front-raises-(10lb)-60.mp3"
+    },
+    {
+      "name": "Setup",
+      "duration": 15,
+      "audio_url": "/audio/setup-15.mp3"
+    },
+    {
+      "name": "Set 4 Round 2: DB Lateral Raises (10lb) + DB Front Raises (10lb)",
+      "duration": 60,
+      "audio_url": "/audio/set-4-round-2:-db-lateral-raises-(10lb)-+-db-front-raises-(10lb)-60.mp3"
+    },
+    {
+      "name": "Setup",
+      "duration": 15,
+      "audio_url": "/audio/setup-15.mp3"
+    },
+    {
+      "name": "Set 4 Round 3: DB Lateral Raises (10lb) + DB Front Raises (10lb)",
+      "duration": 60,
+      "audio_url": "/audio/set-4-round-3:-db-lateral-raises-(10lb)-+-db-front-raises-(10lb)-60.mp3"
+    },
+    {
+      "name": "Final Burnout: Band Pull-Aparts",
+      "duration": 60,
+      "audio_url": "/audio/final-burnout:-band-pull-aparts-60.mp3"
+    }
+  ]
+}
