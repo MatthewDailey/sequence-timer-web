@@ -1,0 +1,55 @@
+{
+  "name": "Achilles Lite 3",
+  "sequence": [
+    {
+      "name": "Flex and extend",
+      "duration": 60,
+      "audio_url": "/audio/flex-and-extend-60.mp3"
+    },
+    {
+      "name": "Ankle eversion",
+      "duration": 30,
+      "audio_url": "/audio/ankle-eversion-30.mp3"
+    },
+    {
+      "name": "Ankle inversion",
+      "duration": 30,
+      "audio_url": "/audio/ankle-inversion-30.mp3"
+    },
+    {
+      "name": "Ankle eversion",
+      "duration": 30,
+      "audio_url": "/audio/ankle-eversion-30.mp3"
+    },
+    {
+      "name": "Ankle inversion",
+      "duration": 30,
+      "audio_url": "/audio/ankle-inversion-30.mp3"
+    },
+    {
+      "name": "Toe towel grab",
+      "duration": 30,
+      "audio_url": "/audio/toe-towel-grab-30.mp3"
+    },
+    {
+      "name": "Arch flex",
+      "duration": 30,
+      "audio_url": "/audio/arch-flex-30.mp3"
+    },
+    {
+      "name": "Toe towel grab",
+      "duration": 30,
+      "audio_url": "/audio/toe-towel-grab-30.mp3"
+    },
+    {
+      "name": "Arch flex",
+      "duration": 30,
+      "audio_url": "/audio/arch-flex-30.mp3"
+    },
+    {
+      "name": "Stand on ball",
+      "duration": 60,
+      "audio_url": "/audio/stand-on-ball-60.mp3"
+    }
+  ]
+}
