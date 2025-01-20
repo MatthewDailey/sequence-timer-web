@@ -1,0 +1,145 @@
+{
+  "name": "Shoulder Stability & Strength",
+  "sequence": [
+    {
+      "name": "Band Pull Apart at Shoulder Height",
+      "duration": 45,
+      "audio_url": "/audio/band-pull-apart-at-shoulder-height-45.mp3"
+    },
+    {
+      "name": "Single Arm Tube Press (Right)",
+      "duration": 45,
+      "audio_url": "/audio/single-arm-tube-press-(right)-45.mp3"
+    },
+    {
+      "name": "Single Arm Tube Press (Left)",
+      "duration": 45,
+      "audio_url": "/audio/single-arm-tube-press-(left)-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Band Pull Apart at Shoulder Height",
+      "duration": 45,
+      "audio_url": "/audio/band-pull-apart-at-shoulder-height-45.mp3"
+    },
+    {
+      "name": "Single Arm Tube Press (Right)",
+      "duration": 45,
+      "audio_url": "/audio/single-arm-tube-press-(right)-45.mp3"
+    },
+    {
+      "name": "Single Arm Tube Press (Left)",
+      "duration": 45,
+      "audio_url": "/audio/single-arm-tube-press-(left)-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Band Pull Apart at Shoulder Height",
+      "duration": 45,
+      "audio_url": "/audio/band-pull-apart-at-shoulder-height-45.mp3"
+    },
+    {
+      "name": "Single Arm Tube Press (Right)",
+      "duration": 45,
+      "audio_url": "/audio/single-arm-tube-press-(right)-45.mp3"
+    },
+    {
+      "name": "Single Arm Tube Press (Left)",
+      "duration": 45,
+      "audio_url": "/audio/single-arm-tube-press-(left)-45.mp3"
+    },
+    {
+      "name": "Setup Next Set",
+      "duration": 30,
+      "audio_url": "/audio/setup-next-set-30.mp3"
+    },
+    {
+      "name": "Dumbbell Front Raise (15 lbs)",
+      "duration": 45,
+      "audio_url": "/audio/dumbbell-front-raise-(15-lbs)-45.mp3"
+    },
+    {
+      "name": "Barbell Overhead Press",
+      "duration": 45,
+      "audio_url": "/audio/barbell-overhead-press-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Dumbbell Front Raise (15 lbs)",
+      "duration": 45,
+      "audio_url": "/audio/dumbbell-front-raise-(15-lbs)-45.mp3"
+    },
+    {
+      "name": "Barbell Overhead Press",
+      "duration": 45,
+      "audio_url": "/audio/barbell-overhead-press-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Dumbbell Front Raise (15 lbs)",
+      "duration": 45,
+      "audio_url": "/audio/dumbbell-front-raise-(15-lbs)-45.mp3"
+    },
+    {
+      "name": "Barbell Overhead Press",
+      "duration": 45,
+      "audio_url": "/audio/barbell-overhead-press-45.mp3"
+    },
+    {
+      "name": "Setup Final Set",
+      "duration": 30,
+      "audio_url": "/audio/setup-final-set-30.mp3"
+    },
+    {
+      "name": "Lateral Band Walk (Right)",
+      "duration": 45,
+      "audio_url": "/audio/lateral-band-walk-(right)-45.mp3"
+    },
+    {
+      "name": "Lateral Band Walk (Left)",
+      "duration": 45,
+      "audio_url": "/audio/lateral-band-walk-(left)-45.mp3"
+    },
+    {
+      "name": "Wall Band Y-Raise",
+      "duration": 45,
+      "audio_url": "/audio/wall-band-y-raise-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Lateral Band Walk (Right)",
+      "duration": 45,
+      "audio_url": "/audio/lateral-band-walk-(right)-45.mp3"
+    },
+    {
+      "name": "Lateral Band Walk (Left)",
+      "duration": 45,
+      "audio_url": "/audio/lateral-band-walk-(left)-45.mp3"
+    },
+    {
+      "name": "Wall Band Y-Raise",
+      "duration": 45,
+      "audio_url": "/audio/wall-band-y-raise-45.mp3"
+    }
+  ]
+}
