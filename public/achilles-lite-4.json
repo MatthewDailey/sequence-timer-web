@@ -1,0 +1,75 @@
+{
+  "name": "Achilles Lite 4",
+  "sequence": [
+    {
+      "name": "Toe walking",
+      "duration": 30,
+      "audio_url": "/audio/toe-walking-30.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 30,
+      "audio_url": "/audio/rest-30.mp3"
+    },
+    {
+      "name": "Toe walking",
+      "duration": 30,
+      "audio_url": "/audio/toe-walking-30.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 30,
+      "audio_url": "/audio/rest-30.mp3"
+    },
+    {
+      "name": "Toe walking",
+      "duration": 30,
+      "audio_url": "/audio/toe-walking-30.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 30,
+      "audio_url": "/audio/rest-30.mp3"
+    },
+    {
+      "name": "Toe walking",
+      "duration": 30,
+      "audio_url": "/audio/toe-walking-30.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 30,
+      "audio_url": "/audio/rest-30.mp3"
+    },
+    {
+      "name": "Static heel raise",
+      "duration": 45,
+      "audio_url": "/audio/static-heel-raise-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Static heel raise",
+      "duration": 45,
+      "audio_url": "/audio/static-heel-raise-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Static heel raise",
+      "duration": 45,
+      "audio_url": "/audio/static-heel-raise-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    }
+  ]
+}
