@@ -12,11 +12,6 @@
       "audio_url": "/audio/y-balance-right-100.mp3"
     },
     {
-      "name": "Single leg stand right",
-      "duration": 60,
-      "audio_url": "/audio/single-leg-stand-right-60.mp3"
-    },
-    {
       "name": "Heel to toe walk",
       "duration": 30,
       "audio_url": "/audio/heel-to-toe-walk-30.mp3"
