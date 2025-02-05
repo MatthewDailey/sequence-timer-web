@@ -1,0 +1,65 @@
+{
+  "name": "Balance 2",
+  "sequence": [
+    {
+      "name": "Y-balance left",
+      "duration": 100,
+      "audio_url": "/audio/y-balance-left-100.mp3"
+    },
+    {
+      "name": "Y-balance right",
+      "duration": 100,
+      "audio_url": "/audio/y-balance-right-100.mp3"
+    },
+    {
+      "name": "Single leg stand right",
+      "duration": 60,
+      "audio_url": "/audio/single-leg-stand-right-60.mp3"
+    },
+    {
+      "name": "Heel to toe walk",
+      "duration": 30,
+      "audio_url": "/audio/heel-to-toe-walk-30.mp3"
+    },
+    {
+      "name": "Single leg stand left",
+      "duration": 60,
+      "audio_url": "/audio/single-leg-stand-left-60.mp3"
+    },
+    {
+      "name": "Single leg stand right",
+      "duration": 60,
+      "audio_url": "/audio/single-leg-stand-right-60.mp3"
+    },
+    {
+      "name": "Heel to toe walk",
+      "duration": 30,
+      "audio_url": "/audio/heel-to-toe-walk-30.mp3"
+    },
+    {
+      "name": "Single leg stand eyes closed left",
+      "duration": 60,
+      "audio_url": "/audio/single-leg-stand-eyes-closed-left-60.mp3"
+    },
+    {
+      "name": "Single leg stand eyes closed right",
+      "duration": 60,
+      "audio_url": "/audio/single-leg-stand-eyes-closed-right-60.mp3"
+    },
+    {
+      "name": "Heel to toe walk",
+      "duration": 30,
+      "audio_url": "/audio/heel-to-toe-walk-30.mp3"
+    },
+    {
+      "name": "Single leg stand left",
+      "duration": 60,
+      "audio_url": "/audio/single-leg-stand-left-60.mp3"
+    },
+    {
+      "name": "Single leg stand right",
+      "duration": 60,
+      "audio_url": "/audio/single-leg-stand-right-60.mp3"
+    }
+  ]
+}
