@@ -1,0 +1,35 @@
+{
+  "name": "Foot drill and Dorsi-band",
+  "sequence": [
+    {
+      "name": "Foot drill (seated)",
+      "duration": 30,
+      "audio_url": "/audio/foot-drill-(seated)-30.mp3"
+    },
+    {
+      "name": "Foot drill (standing)",
+      "duration": 30,
+      "audio_url": "/audio/foot-drill-(standing)-30.mp3"
+    },
+    {
+      "name": "Foot drill (balancing)",
+      "duration": 30,
+      "audio_url": "/audio/foot-drill-(balancing)-30.mp3"
+    },
+    {
+      "name": "Dorsi-band",
+      "duration": 45,
+      "audio_url": "/audio/dorsi-band-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Dorsi-band",
+      "duration": 45,
+      "audio_url": "/audio/dorsi-band-45.mp3"
+    }
+  ]
+}
