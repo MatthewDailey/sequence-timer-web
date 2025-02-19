@@ -42,6 +42,11 @@
       "audio_url": "/audio/heel-raise-45.mp3"
     },
     {
+      "name": "Toe walk",
+      "duration": 120,
+      "audio_url": "/audio/toe-walk-120.mp3"
+    },
+    {
       "name": "Dorsi-band",
       "duration": 45,
       "audio_url": "/audio/dorsi-band-45.mp3"
