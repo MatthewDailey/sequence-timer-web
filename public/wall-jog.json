@@ -1,0 +1,30 @@
+{
+  "name": "Wall Jog",
+  "sequence": [
+    {
+      "name": "Wall Jog",
+      "duration": 45,
+      "audio_url": "/audio/wall-jog-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Wall Jog",
+      "duration": 45,
+      "audio_url": "/audio/wall-jog-45.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Wall Jog",
+      "duration": 45,
+      "audio_url": "/audio/wall-jog-45.mp3"
+    }
+  ]
+}
