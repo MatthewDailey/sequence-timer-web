@@ -2,8 +2,8 @@
   "name": "Walking",
   "sequence": [
     {
-      "name": "Walk",
-      "duration": 1200,
+      "name": "Jog",
+      "duration": 120,
       "audio_url": "/audio/walk-1200.mp3"
     },
     {
