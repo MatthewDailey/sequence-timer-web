@@ -1,0 +1,75 @@
+{
+  "name": "1 Minute Timer",
+  "sequence": [
+    {
+      "name": "1 minute - 1",
+      "duration": 60,
+      "audio_url": "/audio/1-minute---1-60.mp3"
+    },
+    {
+      "name": "1 minute - 2",
+      "duration": 60,
+      "audio_url": "/audio/1-minute---2-60.mp3"
+    },
+    {
+      "name": "1 minute - 3",
+      "duration": 60,
+      "audio_url": "/audio/1-minute---3-60.mp3"
+    },
+    {
+      "name": "1 minute - 4",
+      "duration": 60,
+      "audio_url": "/audio/1-minute---4-60.mp3"
+    },
+    {
+      "name": "1 minute - 5",
+      "duration": 60,
+      "audio_url": "/audio/1-minute---5-60.mp3"
+    },
+    {
+      "name": "1 minute - 6",
+      "duration": 60,
+      "audio_url": "/audio/1-minute---6-60.mp3"
+    },
+    {
+      "name": "1 minute - 7",
+      "duration": 60,
+      "audio_url": "/audio/1-minute---7-60.mp3"
+    },
+    {
+      "name": "1 minute - 8",
+      "duration": 60,
+      "audio_url": "/audio/1-minute---8-60.mp3"
+    },
+    {
+      "name": "1 minute - 9",
+      "duration": 60,
+      "audio_url": "/audio/1-minute---9-60.mp3"
+    },
+    {
+      "name": "1 minute - 10",
+      "duration": 60,
+      "audio_url": "/audio/1-minute---10-60.mp3"
+    },
+    {
+      "name": "1 minute - 11",
+      "duration": 60,
+      "audio_url": "/audio/1-minute---11-60.mp3"
+    },
+    {
+      "name": "1 minute - 12",
+      "duration": 60,
+      "audio_url": "/audio/1-minute---12-60.mp3"
+    },
+    {
+      "name": "1 minute - 13",
+      "duration": 60,
+      "audio_url": "/audio/1-minute---13-60.mp3"
+    },
+    {
+      "name": "1 minute - 14",
+      "duration": 60,
+      "audio_url": "/audio/1-minute---14-60.mp3"
+    }
+  ]
+}
