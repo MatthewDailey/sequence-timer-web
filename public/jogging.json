@@ -3,13 +3,13 @@
   "sequence": [
     {
       "name": "Walk",
+      "duration": 120,
+      "audio_url": "/audio/walk-120.mp3"
+    },
+    {
+      "name": "Jog",
       "duration": 300,
-      "audio_url": "/audio/walk-300.mp3"
-    },
-    {
-      "name": "Jog",
-      "duration": 180,
-      "audio_url": "/audio/jog-180.mp3"
+      "audio_url": "/audio/jog-300.mp3"
     },
     {
       "name": "Walk",
@@ -18,8 +18,8 @@
     },
     {
       "name": "Jog",
-      "duration": 180,
-      "audio_url": "/audio/jog-180.mp3"
+      "duration": 300,
+      "audio_url": "/audio/jog-300.mp3"
     },
     {
       "name": "Walk",
@@ -28,8 +28,8 @@
     },
     {
       "name": "Jog",
-      "duration": 180,
-      "audio_url": "/audio/jog-180.mp3"
+      "duration": 300,
+      "audio_url": "/audio/jog-300.mp3"
     },
     {
       "name": "Walk",
@@ -38,8 +38,8 @@
     },
     {
       "name": "Jog",
-      "duration": 180,
-      "audio_url": "/audio/jog-180.mp3"
+      "duration": 300,
+      "audio_url": "/audio/jog-300.mp3"
     },
     {
       "name": "Walk",
@@ -48,13 +48,8 @@
     },
     {
       "name": "Jog",
-      "duration": 180,
-      "audio_url": "/audio/jog-180.mp3"
-    },
-    {
-      "name": "Walk",
-      "duration": 60,
-      "audio_url": "/audio/walk-60.mp3"
+      "duration": 300,
+      "audio_url": "/audio/jog-300.mp3"
     }
   ]
 }
