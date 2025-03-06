@@ -32,14 +32,14 @@
       "audio_url": "/audio/rest-15.mp3"
     },
     {
-      "name": "Balance left, overhead dumbbell press left",
+      "name": "Eyes closed balance left",
       "duration": 60,
-      "audio_url": "/audio/balance-left,-overhead-dumbbell-press-left-60.mp3"
+      "audio_url": "/audio/eyes-closed-balance-left-60.mp3"
     },
     {
-      "name": "Balance left, overhead dumbbell press right",
+      "name": "Eyes closed balance right",
       "duration": 60,
-      "audio_url": "/audio/balance-left,-overhead-dumbbell-press-right-60.mp3"
+      "audio_url": "/audio/eyes-closed-balance-right-60.mp3"
     },
     {
       "name": "Rest",
@@ -47,14 +47,14 @@
       "audio_url": "/audio/rest-15.mp3"
     },
     {
-      "name": "Balance right, overhead dumbbell press right",
+      "name": "Eyes closed balance left",
       "duration": 60,
-      "audio_url": "/audio/balance-right,-overhead-dumbbell-press-right-60.mp3"
+      "audio_url": "/audio/eyes-closed-balance-left-60.mp3"
     },
     {
-      "name": "Balance right, overhead dumbbell press left",
+      "name": "Eyes closed balance right",
       "duration": 60,
-      "audio_url": "/audio/balance-right,-overhead-dumbbell-press-left-60.mp3"
+      "audio_url": "/audio/eyes-closed-balance-right-60.mp3"
     },
     {
       "name": "Rest",
