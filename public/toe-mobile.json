@@ -28,8 +28,8 @@
     },
     {
       "name": "Wiggle each toe",
-      "duration": 30,
-      "audio_url": "/audio/wiggle-each-toe-30.mp3"
+      "duration": 60,
+      "audio_url": "/audio/wiggle-each-toe-60.mp3"
     },
     {
       "name": "Pull and twist big toe",
@@ -37,14 +37,9 @@
       "audio_url": "/audio/pull-and-twist-big-toe-60.mp3"
     },
     {
-      "name": "Big toe flex down",
-      "duration": 90,
-      "audio_url": "/audio/big-toe-flex-down-90.mp3"
-    },
-    {
-      "name": "Big toe flex up",
-      "duration": 90,
-      "audio_url": "/audio/big-toe-flex-up-90.mp3"
+      "name": "Big toe flex up and down",
+      "duration": 30,
+      "audio_url": "/audio/big-toe-flex-up-and-down-30.mp3"
     }
   ]
 }
