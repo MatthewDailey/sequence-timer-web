@@ -32,14 +32,14 @@
       "audio_url": "/audio/rest-15.mp3"
     },
     {
-      "name": "Balance left, throw ball against the wall",
+      "name": "Balance left foamroller",
       "duration": 60,
-      "audio_url": "/audio/balance-left,-throw-ball-against-the-wall-60.mp3"
+      "audio_url": "/audio/balance-left-foamroller-60.mp3"
     },
     {
-      "name": "Balance right, throw ball against the wall",
+      "name": "Balance right foamroller",
       "duration": 60,
-      "audio_url": "/audio/balance-right,-throw-ball-against-the-wall-60.mp3"
+      "audio_url": "/audio/balance-right-foamroller-60.mp3"
     }
   ]
 }
