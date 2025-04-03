@@ -1,0 +1,47 @@
+{
+  "name": "Balance 4",
+  "sequence": [
+
+    {
+      "name": "Eyes closed balance left",
+      "duration": 60,
+      "audio_url": "/audio/eyes-closed-balance-left-60.mp3"
+    },
+    {
+      "name": "Eyes closed balance right",
+      "duration": 60,
+      "audio_url": "/audio/eyes-closed-balance-right-60.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Jump and balance left",
+      "duration": 60,
+      "audio_url": "/audio/jump-and-balance-left-60.mp3"
+    },
+    {
+      "name": "Jump and balance right",
+      "duration": 60,
+      "audio_url": "/audio/jump-and-balance-right-60.mp3"
+    }
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Balance left, throw ball against the wall",
+      "duration": 60,
+      "audio_url": "/audio/balance-left,-throw-ball-against-the-wall-60.mp3"
+    },
+    {
+      "name": "Balance right, throw ball against the wall",
+      "duration": 60,
+      "audio_url": "/audio/balance-right,-throw-ball-against-the-wall-60.mp3"
+    },
+    
+  ]
+}
