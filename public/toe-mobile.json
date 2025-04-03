@@ -2,31 +2,6 @@
   "name": "Toe Mobilization",
   "sequence": [
     {
-      "name": "Roll first metatarsal",
-      "duration": 30,
-      "audio_url": "/audio/roll-first-metatarsal-30.mp3"
-    },
-    {
-      "name": "Roll second metatarsal",
-      "duration": 30,
-      "audio_url": "/audio/roll-second-metatarsal-30.mp3"
-    },
-    {
-      "name": "Roll third metatarsal",
-      "duration": 30,
-      "audio_url": "/audio/roll-third-metatarsal-30.mp3"
-    },
-    {
-      "name": "Roll fourth metatarsal",
-      "duration": 30,
-      "audio_url": "/audio/roll-fourth-metatarsal-30.mp3"
-    },
-    {
-      "name": "Roll fifth metatarsal",
-      "duration": 30,
-      "audio_url": "/audio/roll-fifth-metatarsal-30.mp3"
-    },
-    {
       "name": "Wiggle each toe",
       "duration": 60,
       "audio_url": "/audio/wiggle-each-toe-60.mp3"
