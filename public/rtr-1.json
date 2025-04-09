@@ -1,0 +1,55 @@
+{
+  "name": "Return to Run 1",
+  "sequence": [
+    {
+      "name": "Walk",
+      "duration": 120,
+      "audio_url": "/audio/walk-120.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 120,
+      "audio_url": "/audio/jog-120.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 120,
+      "audio_url": "/audio/jog-120.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 120,
+      "audio_url": "/audio/jog-120.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 120,
+      "audio_url": "/audio/jog-120.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 120,
+      "audio_url": "/audio/jog-120.mp3"
+    }
+  ]
+}

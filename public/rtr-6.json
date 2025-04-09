@@ -1,0 +1,41 @@
+{
+  "name": "Return to Run 6",
+  "sequence": [
+    {
+      "name": "Walk",
+      "duration": 120,
+      "audio_url": "/audio/walk-120.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 480
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 480
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 480
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 480
+    }
+  ]
+}
