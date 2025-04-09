@@ -8,7 +8,8 @@
     },
     {
       "name": "Jog",
-      "duration": 900
+      "duration": 900,
+      "audio_url": "/audio/jog-900.mp3"
     },
     {
       "name": "Walk",
@@ -17,7 +18,8 @@
     },
     {
       "name": "Jog",
-      "duration": 900
+      "duration": 900,
+      "audio_url": "/audio/jog-900.mp3"
     }
   ]
 }
