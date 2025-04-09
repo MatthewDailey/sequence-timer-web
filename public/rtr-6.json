@@ -8,7 +8,8 @@
     },
     {
       "name": "Jog",
-      "duration": 480
+      "duration": 480,
+      "audio_url": "/audio/jog-480.mp3"
     },
     {
       "name": "Walk",
@@ -17,7 +18,8 @@
     },
     {
       "name": "Jog",
-      "duration": 480
+      "duration": 480,
+      "audio_url": "/audio/jog-480.mp3"
     },
     {
       "name": "Walk",
@@ -26,7 +28,8 @@
     },
     {
       "name": "Jog",
-      "duration": 480
+      "duration": 480,
+      "audio_url": "/audio/jog-480.mp3"
     },
     {
       "name": "Walk",
@@ -35,7 +38,8 @@
     },
     {
       "name": "Jog",
-      "duration": 480
+      "duration": 480,
+      "audio_url": "/audio/jog-480.mp3"
     }
   ]
 }
