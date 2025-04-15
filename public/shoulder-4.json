@@ -1,0 +1,20 @@
+{
+  "name": "Shoulder 4",
+  "sequence": [
+    {
+      "name": "Standing Single Arm Cross-Body horizontal abudction right (10 reps)",
+      "duration": 60,
+      "audio_url": "/audio/standing-single-arm-cross-body-horizontal-abudction-right-(10-reps)-60.mp3"
+    },
+    {
+      "name": "Standing Single Arm Cross-Body horizontal abudction left (10 reps)",
+      "duration": 60,
+      "audio_url": "/audio/standing-single-arm-cross-body-horizontal-abudction-left-(10-reps)-60.mp3"
+    },
+    {
+      "name": "Y trap pulls (10 reps)",
+      "duration": 60,
+      "audio_url": "/audio/y-trap-pulls-(10-reps)-60.mp3"
+    }
+  ]
+}
