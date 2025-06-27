@@ -1,0 +1,125 @@
+{
+  "name": "Calf Plyo (20lb)",
+  "sequence": [
+    {
+      "name": "Lateral lunge flick left",
+      "duration": 30,
+      "audio_url": "/audio/lateral-lunge-flick-left-30.mp3"
+    },
+    {
+      "name": "Lateral lunge flick right",
+      "duration": 30,
+      "audio_url": "/audio/lateral-lunge-flick-right-30.mp3"
+    },
+    {
+      "name": "Lateral lunge flick left",
+      "duration": 30,
+      "audio_url": "/audio/lateral-lunge-flick-left-30.mp3"
+    },
+    {
+      "name": "Lateral lunge flick right",
+      "duration": 30,
+      "audio_url": "/audio/lateral-lunge-flick-right-30.mp3"
+    },
+    {
+      "name": "Lateral lunge flick left",
+      "duration": 30,
+      "audio_url": "/audio/lateral-lunge-flick-left-30.mp3"
+    },
+    {
+      "name": "Lateral lunge flick right",
+      "duration": 30,
+      "audio_url": "/audio/lateral-lunge-flick-right-30.mp3"
+    },
+    {
+      "name": "rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Forward lunge flick left",
+      "duration": 30,
+      "audio_url": "/audio/forward-lunge-flick-left-30.mp3"
+    },
+    {
+      "name": "Forward lunge flick right",
+      "duration": 30,
+      "audio_url": "/audio/forward-lunge-flick-right-30.mp3"
+    },
+    {
+      "name": "Forward lunge flick left",
+      "duration": 30,
+      "audio_url": "/audio/forward-lunge-flick-left-30.mp3"
+    },
+    {
+      "name": "Forward lunge flick right",
+      "duration": 30,
+      "audio_url": "/audio/forward-lunge-flick-right-30.mp3"
+    },
+    {
+      "name": "Forward lunge flick left",
+      "duration": 30,
+      "audio_url": "/audio/forward-lunge-flick-left-30.mp3"
+    },
+    {
+      "name": "Forward lunge flick right",
+      "duration": 30,
+      "audio_url": "/audio/forward-lunge-flick-right-30.mp3"
+    },
+    {
+      "name": "rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Box drill left",
+      "duration": 30,
+      "audio_url": "/audio/box-drill-left-30.mp3"
+    },
+    {
+      "name": "Box drill right",
+      "duration": 30,
+      "audio_url": "/audio/box-drill-right-30.mp3"
+    },
+    {
+      "name": "Box drill left",
+      "duration": 30,
+      "audio_url": "/audio/box-drill-left-30.mp3"
+    },
+    {
+      "name": "Box drill right",
+      "duration": 30,
+      "audio_url": "/audio/box-drill-right-30.mp3"
+    },
+    {
+      "name": "Box drill left",
+      "duration": 30,
+      "audio_url": "/audio/box-drill-left-30.mp3"
+    },
+    {
+      "name": "Box drill right",
+      "duration": 30,
+      "audio_url": "/audio/box-drill-right-30.mp3"
+    },
+    {
+      "name": "Banded flick inversion left",
+      "duration": 30,
+      "audio_url": "/audio/banded-flick-inversion-left-30.mp3"
+    },
+    {
+      "name": "Banded flick inversion right",
+      "duration": 30,
+      "audio_url": "/audio/banded-flick-inversion-right-30.mp3"
+    },
+    {
+      "name": "Banded flick eversion left",
+      "duration": 30,
+      "audio_url": "/audio/banded-flick-eversion-left-30.mp3"
+    },
+    {
+      "name": "Banded flick eversion right",
+      "duration": 30,
+      "audio_url": "/audio/banded-flick-eversion-right-30.mp3"
+    }
+  ]
+}
