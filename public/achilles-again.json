@@ -1,0 +1,95 @@
+{
+  "name": "Achilles Again",
+  "sequence": [
+    {
+      "name": "Bosu Mini squat left",
+      "duration": 60,
+      "audio_url": "/audio/bosu-mini-squat-left-60.mp3"
+    },
+    {
+      "name": "Bosu Mini squat right",
+      "duration": 60,
+      "audio_url": "/audio/bosu-mini-squat-right-60.mp3"
+    },
+    {
+      "name": "Bosu Mini squat left",
+      "duration": 60,
+      "audio_url": "/audio/bosu-mini-squat-left-60.mp3"
+    },
+    {
+      "name": "Bosu Mini squat right",
+      "duration": 60,
+      "audio_url": "/audio/bosu-mini-squat-right-60.mp3"
+    },
+    {
+      "name": "Bosu Mini squat left",
+      "duration": 60,
+      "audio_url": "/audio/bosu-mini-squat-left-60.mp3"
+    },
+    {
+      "name": "Bosu Mini squat right",
+      "duration": 60,
+      "audio_url": "/audio/bosu-mini-squat-right-60.mp3"
+    },
+    {
+      "name": "Ankle eversion right",
+      "duration": 30,
+      "audio_url": "/audio/ankle-eversion-right-30.mp3"
+    },
+    {
+      "name": "Ankle eversion left",
+      "duration": 30,
+      "audio_url": "/audio/ankle-eversion-left-30.mp3"
+    },
+    {
+      "name": "Ankle eversion right",
+      "duration": 30,
+      "audio_url": "/audio/ankle-eversion-right-30.mp3"
+    },
+    {
+      "name": "Ankle eversion left",
+      "duration": 30,
+      "audio_url": "/audio/ankle-eversion-left-30.mp3"
+    },
+    {
+      "name": "Ankle eversion right",
+      "duration": 30,
+      "audio_url": "/audio/ankle-eversion-right-30.mp3"
+    },
+    {
+      "name": "Ankle eversion left",
+      "duration": 30,
+      "audio_url": "/audio/ankle-eversion-left-30.mp3"
+    },
+    {
+      "name": "Ankle inversion right",
+      "duration": 30,
+      "audio_url": "/audio/ankle-inversion-right-30.mp3"
+    },
+    {
+      "name": "Ankle inversion left",
+      "duration": 30,
+      "audio_url": "/audio/ankle-inversion-left-30.mp3"
+    },
+    {
+      "name": "Ankle inversion right",
+      "duration": 30,
+      "audio_url": "/audio/ankle-inversion-right-30.mp3"
+    },
+    {
+      "name": "Ankle inversion left",
+      "duration": 30,
+      "audio_url": "/audio/ankle-inversion-left-30.mp3"
+    },
+    {
+      "name": "Ankle inversion right",
+      "duration": 30,
+      "audio_url": "/audio/ankle-inversion-right-30.mp3"
+    },
+    {
+      "name": "Ankle inversion left",
+      "duration": 30,
+      "audio_url": "/audio/ankle-inversion-left-30.mp3"
+    }
+  ]
+}
