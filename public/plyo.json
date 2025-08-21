@@ -1,0 +1,50 @@
+{
+  "name": "Plyo",
+  "sequence": [
+    {
+      "name": "Heel pops",
+      "duration": 15,
+      "audio_url": "/audio/heel-pops-15.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 30,
+      "audio_url": "/audio/rest-30.mp3"
+    },
+    {
+      "name": "Heel pops",
+      "duration": 15,
+      "audio_url": "/audio/heel-pops-15.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 30,
+      "audio_url": "/audio/rest-30.mp3"
+    },
+    {
+      "name": "Double-leg supported pogo",
+      "duration": 15,
+      "audio_url": "/audio/double-leg-supported-pogo-15.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 30,
+      "audio_url": "/audio/rest-30.mp3"
+    },
+    {
+      "name": "Double-leg supported pogo",
+      "duration": 15,
+      "audio_url": "/audio/double-leg-supported-pogo-15.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 30,
+      "audio_url": "/audio/rest-30.mp3"
+    },
+    {
+      "name": "Double-leg supported pogo",
+      "duration": 15,
+      "audio_url": "/audio/double-leg-supported-pogo-15.mp3"
+    }
+  ]
+}
