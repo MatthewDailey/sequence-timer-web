@@ -3,8 +3,8 @@
   "sequence": [
     {
       "name": "Heel pops",
-      "duration": 15,
-      "audio_url": "/audio/heel-pops-15.mp3"
+      "duration": 30,
+      "audio_url": "/audio/heel-pops-30.mp3"
     },
     {
       "name": "Rest",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Heel pops",
-      "duration": 15,
-      "audio_url": "/audio/heel-pops-15.mp3"
+      "duration": 30,
+      "audio_url": "/audio/heel-pops-30.mp3"
     },
     {
       "name": "Rest",
@@ -23,8 +23,8 @@
     },
     {
       "name": "Double-leg supported pogo",
-      "duration": 15,
-      "audio_url": "/audio/double-leg-supported-pogo-15.mp3"
+      "duration": 30,
+      "audio_url": "/audio/double-leg-supported-pogo-30.mp3"
     },
     {
       "name": "Rest",
@@ -33,8 +33,8 @@
     },
     {
       "name": "Double-leg supported pogo",
-      "duration": 15,
-      "audio_url": "/audio/double-leg-supported-pogo-15.mp3"
+      "duration": 30,
+      "audio_url": "/audio/double-leg-supported-pogo-30.mp3"
     },
     {
       "name": "Rest",
@@ -43,8 +43,8 @@
     },
     {
       "name": "Double-leg supported pogo",
-      "duration": 15,
-      "audio_url": "/audio/double-leg-supported-pogo-15.mp3"
+      "duration": 30,
+      "audio_url": "/audio/double-leg-supported-pogo-30.mp3"
     }
   ]
 }
