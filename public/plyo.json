@@ -2,49 +2,74 @@
   "name": "Plyo",
   "sequence": [
     {
-      "name": "Heel pops",
+      "name": "Heel pops left",
       "duration": 30,
-      "audio_url": "/audio/heel-pops-30.mp3"
+      "audio_url": "/audio/heel-pops-left-30.mp3"
+    },
+    {
+      "name": "Heel pops right",
+      "duration": 30,
+      "audio_url": "/audio/heel-pops-right-30.mp3"
     },
     {
       "name": "Rest",
-      "duration": 60,
-      "audio_url": "/audio/rest-60.mp3"
+      "duration": 30,
+      "audio_url": "/audio/rest-30.mp3"
     },
     {
-      "name": "Heel pops",
+      "name": "Heel pops left",
       "duration": 30,
-      "audio_url": "/audio/heel-pops-30.mp3"
+      "audio_url": "/audio/heel-pops-left-30.mp3"
+    },
+    {
+      "name": "Heel pops right",
+      "duration": 30,
+      "audio_url": "/audio/heel-pops-right-30.mp3"
     },
     {
       "name": "Rest",
-      "duration": 60,
-      "audio_url": "/audio/rest-60.mp3"
+      "duration": 30,
+      "audio_url": "/audio/rest-30.mp3"
     },
     {
-      "name": "Double-leg supported pogo",
+      "name": "Double-leg supported pogo left",
       "duration": 30,
-      "audio_url": "/audio/double-leg-supported-pogo-30.mp3"
+      "audio_url": "/audio/double-leg-supported-pogo-left-30.mp3"
+    },
+    {
+      "name": "Double-leg supported pogo right",
+      "duration": 30,
+      "audio_url": "/audio/double-leg-supported-pogo-right-30.mp3"
     },
     {
       "name": "Rest",
-      "duration": 60,
-      "audio_url": "/audio/rest-60.mp3"
+      "duration": 30,
+      "audio_url": "/audio/rest-30.mp3"
     },
     {
-      "name": "Double-leg supported pogo",
+      "name": "Double-leg supported pogo left",
       "duration": 30,
-      "audio_url": "/audio/double-leg-supported-pogo-30.mp3"
+      "audio_url": "/audio/double-leg-supported-pogo-left-30.mp3"
+    },
+    {
+      "name": "Double-leg supported pogo right",
+      "duration": 30,
+      "audio_url": "/audio/double-leg-supported-pogo-right-30.mp3"
     },
     {
       "name": "Rest",
-      "duration": 60,
-      "audio_url": "/audio/rest-60.mp3"
+      "duration": 30,
+      "audio_url": "/audio/rest-30.mp3"
     },
     {
-      "name": "Double-leg supported pogo",
+      "name": "Double-leg supported pogo left",
       "duration": 30,
-      "audio_url": "/audio/double-leg-supported-pogo-30.mp3"
+      "audio_url": "/audio/double-leg-supported-pogo-left-30.mp3"
+    },
+    {
+      "name": "Double-leg supported pogo right",
+      "duration": 30,
+      "audio_url": "/audio/double-leg-supported-pogo-right-30.mp3"
     }
   ]
 }
