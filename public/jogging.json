@@ -3,13 +3,13 @@
   "sequence": [
     {
       "name": "Walk",
-      "duration": 120,
-      "audio_url": "/audio/walk-120.mp3"
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
     },
     {
       "name": "Jog",
-      "duration": 420,
-      "audio_url": "/audio/jog-420.mp3"
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
     },
     {
       "name": "Walk",
@@ -18,8 +18,8 @@
     },
     {
       "name": "Jog",
-      "duration": 420,
-      "audio_url": "/audio/jog-420.mp3"
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
     },
     {
       "name": "Walk",
@@ -28,8 +28,8 @@
     },
     {
       "name": "Jog",
-      "duration": 420,
-      "audio_url": "/audio/jog-420.mp3"
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
     },
     {
       "name": "Walk",
@@ -38,8 +38,168 @@
     },
     {
       "name": "Jog",
-      "duration": 420,
-      "audio_url": "/audio/jog-420.mp3"
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
+    },
+    {
+      "name": "Walk (Half way done)",
+      "duration": 60,
+      "audio_url": "/audio/walk-(half-way-done)-60.mp3"
+    },
+    {
+      "name": "Jog (Half way done)",
+      "duration": 60,
+      "audio_url": "/audio/jog-(half-way-done)-60.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
+    },
+    {
+      "name": "Walk",
+      "duration": 60,
+      "audio_url": "/audio/walk-60.mp3"
+    },
+    {
+      "name": "Jog",
+      "duration": 60,
+      "audio_url": "/audio/jog-60.mp3"
     }
   ]
 }
