@@ -8,8 +8,8 @@
     },
     {
       "name": "Jog",
-      "duration": 120,
-      "audio_url": "/audio/jog-120.mp3"
+      "duration": 180,
+      "audio_url": "/audio/jog-180.mp3"
     },
     {
       "name": "Walk",
@@ -18,8 +18,8 @@
     },
     {
       "name": "Jog",
-      "duration": 120,
-      "audio_url": "/audio/jog-120.mp3"
+      "duration": 180,
+      "audio_url": "/audio/jog-180.mp3"
     },
     {
       "name": "Walk",
@@ -28,8 +28,8 @@
     },
     {
       "name": "Jog",
-      "duration": 120,
-      "audio_url": "/audio/jog-120.mp3"
+      "duration": 180,
+      "audio_url": "/audio/jog-180.mp3"
     },
     {
       "name": "Walk",
@@ -38,8 +38,8 @@
     },
     {
       "name": "Jog",
-      "duration": 120,
-      "audio_url": "/audio/jog-120.mp3"
+      "duration": 180,
+      "audio_url": "/audio/jog-180.mp3"
     },
     {
       "name": "Walk",
@@ -48,8 +48,8 @@
     },
     {
       "name": "Jog",
-      "duration": 120,
-      "audio_url": "/audio/jog-120.mp3"
+      "duration": 180,
+      "audio_url": "/audio/jog-180.mp3"
     },
     {
       "name": "Walk (Half way done)",
@@ -58,8 +58,8 @@
     },
     {
       "name": "Jog (Half way done)",
-      "duration": 120,
-      "audio_url": "/audio/jog-120.mp3"
+      "duration": 180,
+      "audio_url": "/audio/jog-(half-way-done)-180.mp3"
     },
     {
       "name": "Walk",
@@ -68,8 +68,8 @@
     },
     {
       "name": "Jog",
-      "duration": 120,
-      "audio_url": "/audio/jog-120.mp3"
+      "duration": 180,
+      "audio_url": "/audio/jog-180.mp3"
     },
     {
       "name": "Walk",
@@ -78,8 +78,8 @@
     },
     {
       "name": "Jog",
-      "duration": 120,
-      "audio_url": "/audio/jog-120.mp3"
+      "duration": 180,
+      "audio_url": "/audio/jog-180.mp3"
     },
     {
       "name": "Walk",
@@ -88,8 +88,8 @@
     },
     {
       "name": "Jog",
-      "duration": 120,
-      "audio_url": "/audio/jog-120.mp3"
+      "duration": 180,
+      "audio_url": "/audio/jog-180.mp3"
     },
     {
       "name": "Walk",
@@ -98,8 +98,8 @@
     },
     {
       "name": "Jog",
-      "duration": 120,
-      "audio_url": "/audio/jog-120.mp3"
+      "duration": 180,
+      "audio_url": "/audio/jog-180.mp3"
     }
   ]
 }
