@@ -1,0 +1,30 @@
+{
+  "name": "Ski Knees",
+  "sequence": [
+    {
+      "name": "Ski knees",
+      "duration": 60,
+      "audio_url": "/audio/ski-knees-60.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Ski knees",
+      "duration": 60,
+      "audio_url": "/audio/ski-knees-60.mp3"
+    },
+    {
+      "name": "Rest",
+      "duration": 15,
+      "audio_url": "/audio/rest-15.mp3"
+    },
+    {
+      "name": "Ski knees",
+      "duration": 60,
+      "audio_url": "/audio/ski-knees-60.mp3"
+    }
+  ]
+}
