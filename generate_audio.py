@@ -1,19 +1,36 @@
 import os
 import json
 import argparse
-from elevenlabs import set_api_key, generate
+from elevenlabs.client import ElevenLabs
 
-set_api_key(os.environ["ELEVEN_LABS_API_KEY"])
+# Premade voice for API (Voice Library voices like Charlette are blocked on free tier; override with ELEVEN_LABS_VOICE_ID).
+DEFAULT_VOICE_ID = "pNInz6obpgDQGcFmaJgB"
+DEFAULT_MODEL_ID = "eleven_flash_v2_5"
+
+
+def _api_key() -> str:
+    key = os.environ.get("ELEVEN_LABS_API_KEY") or os.environ.get("ELEVENLABS_API_KEY")
+    if not key:
+        raise RuntimeError(
+            "Set ELEVEN_LABS_API_KEY or ELEVENLABS_API_KEY to your ElevenLabs API key."
+        )
+    return key
 
 
 def tts_elevenlabs(text, save_to_path):
-    audio = generate(
+    voice_id = os.environ.get("ELEVEN_LABS_VOICE_ID", DEFAULT_VOICE_ID)
+    model_id = os.environ.get("ELEVEN_LABS_MODEL_ID", DEFAULT_MODEL_ID)
+    client = ElevenLabs(api_key=_api_key())
+    audio_stream = client.text_to_speech.convert(
+        voice_id=voice_id,
         text=text,
-        voice="XB0fDUnXU5powFXDhCwa",  # Charlette
-        model="eleven_monolingual_v1",
+        model_id=model_id,
+        output_format="mp3_22050_32",
     )
     with open(save_to_path, "wb") as binary_file:
-        binary_file.write(audio)
+        for chunk in audio_stream:
+            if chunk:
+                binary_file.write(chunk)
 
 
 AUDIO_URL = "audio_url"
